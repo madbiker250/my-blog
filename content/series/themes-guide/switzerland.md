@@ -1,0 +1,25 @@
++++
+title = "Biking in Switzerland"
+date = 2019-11-10T20:45:30+01:00
+header_img = ""
+toc = true
+tags = ["switzerland"]
+categories = ["Countries","Europe",]
+series = ["Themes Guide"]
++++
+
+![targets](/img/switzerland.jpg)
+
+The speed limits are as you can see in the picture that I again took from the internet as like when I entered Spain, I somehow never managed to get a picture of them.
+
+The motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads just have road names.
+
+The motorways signs are in Blue, the N road signs are in Green, and signs for the smaller roads are white.
+
+The motorways are all of a high standard but they are all toll roads and to use them you must purchase a Vignette sticker which you can buy at tourist offices and service stations on the motorways.
+
+Switizerland is famous for it's Alpine passes so there is not much else to say about the Swiss roads as far as biking goes.
+
+Petrol is usually about 10 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.90 Euros per litre.
+
+I do not remember seeing many speed cameras in Switzerland but there are a lot of police patrol cars on the motorways.
