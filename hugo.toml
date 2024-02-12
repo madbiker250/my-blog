@@ -58,9 +58,9 @@ name = "About"
 url = "/about/"
 weight = 50
 [[menu.main]]
-identifier = "github"
-name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
+identifier = "guide"
+name = "Site"
+url = "https://madbiker250.github.io/my-site/"
 weight = 100
 
 [params]

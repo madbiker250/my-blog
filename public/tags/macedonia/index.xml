@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macedonia on OFF THE HAMSTER WHEEL</title>
+    <link>https://example.org/tags/macedonia/</link>
+    <description>Recent content in macedonia on OFF THE HAMSTER WHEEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 18:01:00 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/macedonia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biking in North Macedonia</title>
+      <link>https://example.org/series/themes-guide/macedonia/</link>
+      <pubDate>Mon, 29 Aug 2022 18:01:00 +0100</pubDate>
+      <guid>https://example.org/series/themes-guide/macedonia/</guid>
+      <description>The speed limits are as you can see in the picture that I took from the internet.&#xA;In North Macedonia the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered and prefixed with the letter R, the smaller roads just have the names of the town that they lead to on the signs.&#xA;The North Macedonian motorways and the non motorway main roads that I rode on are of a good standard, the condition of the smaller roads are generally good but there is always the odd exception.</description>
+    </item>
+  </channel>
+</rss>

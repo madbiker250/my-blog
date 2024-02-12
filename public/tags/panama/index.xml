@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panama on OFF THE HAMSTER WHEEL</title>
+    <link>https://example.org/tags/panama/</link>
+    <description>Recent content in Panama on OFF THE HAMSTER WHEEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0500</lastBuildDate>
+    <atom:link href="https://example.org/tags/panama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January 2024 Out and About in Panama</title>
+      <link>https://example.org/posts/out-and-about/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0500</pubDate>
+      <guid>https://example.org/posts/out-and-about/</guid>
+      <description>&lt;p&gt;I rode the bike to the City of Colon on the Caribbean side of the isthmus of Panama to get some miles done to help the engine break in.&lt;/p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://example.org/posts/out-and-about/01-ri.jpg&#34;/&gt; &#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>December 2023 Part Two</title>
+      <link>https://example.org/posts/part-two/</link>
+      <pubDate>Sun, 17 Dec 2023 18:36:00 +0600</pubDate>
+      <guid>https://example.org/posts/part-two/</guid>
+      <description>&lt;h1 id=&#34;the-americas---getting-started&#34;&gt;The Americas - Getting Started&lt;a class=&#34;anchorjs-link&#34; href=&#34;#the-americas---getting-started&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;I am now in Panama and I am preparing to continue my RTW trip from here.&lt;/p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://example.org/posts/part-two/01-ct.jpg&#34;/&gt; &#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I have bought a new Himalayan from the local dealer here and as it only had 2 kilometres on the clock, I had to begin the process of breaking the engine in. So in real terms that means keeping the engine speeds below 3,000 RPM for the first 300 miles (500 km) which translates in to a top speed of 40 mph (60 kph)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
