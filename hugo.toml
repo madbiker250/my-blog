@@ -49,7 +49,7 @@ url = "/archive/"
 weight = 10
 [[menu.main]]
 identifier = "guide"
-name = "Guide"
+name = "Countries"
 url = "/series/themes-guide/"
 weight = 20
 [[menu.main]]
@@ -58,7 +58,7 @@ name = "About"
 url = "/about/"
 weight = 50
 [[menu.main]]
-identifier = "guide"
+identifier = "github"
 name = "Site"
 url = "https://madbiker250.github.io/my-site/"
 weight = 100
