@@ -1,5 +1,4 @@
-baseURL = 'https://madbiker250.github.io/my-blog/'
-languageCode = 'en-us'
+baseURL = 'https://www.offthehamsterwheel.co.uk/'
 title = 'OFF THE HAMSTER WHEEL'
 theme = "hugo-theme-puppet"
 
@@ -58,8 +57,8 @@ name = "About"
 url = "/about/"
 weight = 50
 [[menu.main]]
-identifier = "github"
-name = "Site"
+identifier = "Website"
+name = "My Website"
 url = "https://madbiker250.github.io/my-site/"
 weight = 100
 
