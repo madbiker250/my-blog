@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://madbiker250.github.io/my-blog/'
 languageCode = 'en-us'
 title = 'OFF THE HAMSTER WHEEL'
 theme = "hugo-theme-puppet"
