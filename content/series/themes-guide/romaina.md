@@ -1,16 +1,14 @@
 +++
 title = "Biking in Romania"
 date = 2020-10-05T19:02:30+01:00
-header_img = ""
+header_img = "img/romania.jpg"
 toc = true
 tags = ["romania"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/romania.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet.
+The speed limits in Romainia are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 In Romania the motorways A roads, the non motoway main roads are just numbered and the smaller roads just have numbers.
 

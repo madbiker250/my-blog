@@ -1,16 +1,14 @@
 +++
 title = "Biking in Portugal"
 date = 2020-08-13T11:05:30+01:00
-header_img = ""
+header_img = "img/portugal.jpg"
 toc = true
 tags = ["portugal"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/portugal.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet as for some strange reason, I never managed to get a photo of me entering Portugal from Spain.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (78 mph) on motorways.
 
 Like Spain, the motorways are the A roads, the main non-motorway roads are the N roads, but in Portugal the smaller main roads are the M roads.
 

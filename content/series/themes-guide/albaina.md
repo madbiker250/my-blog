@@ -1,16 +1,16 @@
 +++
 title = "Biking in Albania"
 date = 2022-09-11T15:38:30+01:00
-header_img = ""
+header_img = "img/albania.jpg"
 toc = true
 tags = ["albania"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/albania.jpg)
 
-The speed limits are as you can see in the picture that I took at the border and I never saw any police speed traps nor saw any police parked up at the side of the road. 
+
+The speed limits in Albania are 40 km/h (25 mph) within built-up areas, 80 km/h (50 mph) outside built-up areas, 90 km/h (56 mph) on Dual Carriageways, and 110 km/h (68 mph) on Motorways.
 
 In Albania the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered and prefixed with the letters SH, the smaller roads just have the names of the town that they lead to on the signs.
 

@@ -1,16 +1,14 @@
 +++
 title = "Biking in Switzerland"
 date = 2019-11-10T20:45:30+01:00
-header_img = ""
+header_img = "img/switzerland.jpg"
 toc = true
 tags = ["switzerland"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/switzerland.jpg)
-
-The speed limits are as you can see in the picture that I again took from the internet as like when I entered Spain, I somehow never managed to get a picture of them.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 The motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads just have road names.
 

@@ -1,16 +1,14 @@
 +++
 title = "Biking in Spain"
 date = 2019-11-09T15:38:30+01:00
-header_img = ""
+header_img = "img/spain.jpg"
 toc = true
 tags = ["spain"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/spain.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet as for some strange reason, I never managed to get a photo of me entering Spain from France.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 Like France, the motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads are the C roads.
 

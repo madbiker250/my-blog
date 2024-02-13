@@ -1,16 +1,14 @@
 +++
 title = "Biking in North Macedonia"
 date = 2022-08-29T18:01:00+01:00
-header_img = ""
+header_img = "img/macedonia.jpg"
 toc = true
 tags = ["macedonia"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/macedonia.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet.
+The speed limits in North Macedonia are 50 km/h (31 mph) in built up areas, 80 km/h (50 mph) outside built up areas, and 120 km/h (78 mph) on motorways.
 
 In North Macedonia the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered and prefixed with the letter R, the smaller roads just have the names of the town that they lead to on the signs.
 

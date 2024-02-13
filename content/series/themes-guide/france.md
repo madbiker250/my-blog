@@ -1,16 +1,14 @@
 +++
 title = "Biking in France"
 date = 2019-09-30T15:38:30+01:00
-header_img = ""
+header_img = "img/france.jpg"
 toc = true
 tags = ["france"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/france.jpg)
-
-The speed limits are as you can see in the picture that I took at the border but the 130 kph limit on the motorways is reduced to 110 kph when it is raining.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways but the 130 kph limit on the motorways is reduced to 110 kph when it is raining.
 
 The motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads are the C roads.
 

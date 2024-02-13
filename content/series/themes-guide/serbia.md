@@ -1,16 +1,14 @@
 +++
 title = "Biking in Serbia"
 date = 2022-08-25T08:13:00+01:00
-header_img = ""
+header_img = "img/serbia.jpg"
 toc = true
 tags = ["serbia"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/serbia.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet.
+The speed limits in Serbia are 60 km/h (38 mph) in built up areas, 100 km/h (62 mph) outside built up areas, and 120 km/h (74 mph) on motorways.
 
 In  the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered, the smaller roads just have the names of the town that they lead to on the signs.
 

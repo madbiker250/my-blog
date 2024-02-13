@@ -1,16 +1,14 @@
 +++
 title = "Biking in Slovakia"
 date = 2020-04-03T12:32:30+01:00
-header_img = ""
+header_img = "img/slovakia.jpg"
 toc = true
 tags = ["slovakia"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/slovakia.jpg)
-
-The speed limits are as you can see in the picture that I took at the Polish/Slovakian border.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways
 
 The motorways are numbered. All of the motorways are toll roads. The main non-motorway roads are also just numbered, and the smaller main roads are also just numbered.
 

@@ -1,18 +1,16 @@
 +++
 title = "Biking in Lithuania"
 date = 2020-09-25T17:55:30+01:00
-header_img = ""
+header_img = "img/lithuania.jpg"
 toc = true
 tags = ["lithuania"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/lithuania.jpg)
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways
 
-The speed limits are as you can see in the picture that I took from the internet as for some strange reason, I never managed to get a photo of me entering Lithuania from Poland.
-
-In Lithuania the motorways and the non motowary main roads are the A roads and the smaller roads just have numbers.
+In Lithuania the motorways and the non motowary main roads are both called A roads and the smaller roads just have numbers.
 
 I never rode on the motorways so I cannot comment on them. The main roads that I rode on are of a poorer standard than those in the rest of Europe that I have ridden on to date.
 

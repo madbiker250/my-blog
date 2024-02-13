@@ -1,16 +1,14 @@
 +++
 title = "Biking in Turkey"
 date = 2020-11-11T15:51:00+01:00
-header_img = ""
+header_img = "img/turkie.jpg"
 toc = true
 tags = ["turkey"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/turkie.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet.
+The speed limits in Serbia are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (74 mph) on motorways.
 
 In Turkey the motorways are numbered and prefixed with the letter D, the non motoway main roads are numbered and also prefixed with the letter D, the smaller roads just have the names of the town that they lead to on the signs.
 

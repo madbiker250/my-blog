@@ -1,16 +1,14 @@
 +++
 title = "Biking in Montenegro"
 date = 2022-09-12T12:42:00+01:00
-header_img = ""
+header_img = "img/mont.jpg"
 toc = true
 tags = ["montenegro"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/montenegro.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet.
+The speed limits in Montenegro are 50 km/h (31 mph) in built up areas, 80 km/h (50 mph) outside built up areas, and 100 km/h (60 mph) on motorways.
 
 In Montenegro the motorways are numbered and prefixed with the letter M, the non motoway main roads are numbered and prefixed with the letter P, the smaller roads just have the names of the town that they lead to on the signs.
 

@@ -1,16 +1,14 @@
 +++
 title = "Biking in Slovenia"
 date = 2022-09-18T10:53:00+01:00
-header_img = ""
+header_img = "img/slovenia.jpg"
 toc = true
 tags = ["slovenia"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/slovenia.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet.
+The speed limits in Slovenia are 50 km/h (31 mph) in built up areas, 90 km/h (56 mph) outside built up areas, 110 km/h (68 mph) on dual carriageways and 130 km/h (81 mph) on motorways.
 
 In Slovenia the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered, the smaller roads have the name of the place that the road lead to on them.
 

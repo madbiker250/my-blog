@@ -1,16 +1,14 @@
 +++
 title = "Biking in Hungary"
 date = 2020-09-30T10:15:30+01:00
-header_img = ""
+header_img = "img/hungary.jpg"
 toc = true
 tags = ["hungary"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/hungary.jpg)
-
-The speed limits are as you can see in the picture that I took entering Hungary from Poland.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 In Hungary the motorways M roads, the non motoway main roads are just numbered and the smaller roads just have numbers.
 

@@ -1,16 +1,14 @@
 +++
 title = "Biking in Poland"
 date = 2019-12-18T17:11:30+01:00
-header_img = ""
+header_img = "img/poland.jpg"
 toc = true
 tags = ["poland"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-![targets](/img/poland.jpg)
-
-The speed limits are as you can see in the picture that I took from the internet as like when I entered Spain, I somehow never managed to get a picture of them.
+The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways
 
 The motorways are numbered and prefixed with the letter A. Some of the motorways or stretches of a motorway are toll roads but most are not. The main non-motorway roads are also just numbered, and the smaller main roads are also just numbered.
 
