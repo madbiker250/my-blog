@@ -17,15 +17,13 @@ As I departed from the Gasthof the weather was not great and it started to rain 
 
 <!--more-->
 
-I crossed the border in to the Czech Republic in the rain and rode across to the other side of the county but all the while it continued to rain intermittently. I only stopped for petrol and then moved on trying to get to my destination for that day, the city of Brno as quickly as I could. As I arrived in Brno I got caught in a huge thunderstorm and I got thoroughly soaked before reaching my accommodation for the night 
+I crossed the border in to the Czech Republic in the rain and rode across to the other side of the county but all the while it continued to rain intermittently. I only stopped for petrol and then moved on trying to get to my destination for that day, the city of Brno as quickly as I could. As I arrived in Brno I got caught in a huge thunderstorm and I got thoroughly soaked before reaching my accommodation for the night. Once sorted out, as the rain had passed I walked in to Brno old town and I found it to be quite pleasant, however, the walk in was not quite as nice. There were lots of people hanging around street corners in large groups, mostly men in the twenties and although they never hassled me, I felt a certain tension in the air. In addition, the streets where these groups were congregating were full of litter and graffiti covered almost every wall.
 
-Once sorted out, I walked in to Brno old town and I found it to be quite pleasant, however, the walk in was not quite as nice. There were lots of people hanging around street corners in large groups, mostly men in the twenties and although they never hassled me, I felt a certain tension in the air. In addition, the streets where these groups were congregating were full of litter and graffiti covered almost every wall.
-
-I had to do a favour for someone the next day so I did not ride the next day but once the favour had been attended to I spent another evening in Brno old town but to be honest I was glad that I was leaving the following morning as Brno city centre is very touristy but just outside the city centre it is a shit hole and not a place on my “I need to revisit this place” list.
+I had to do a favour for someone the next day so I did not ride that day but once the favour had been attended to I spent another evening in Brno old town but to be honest I was glad that I was leaving the following morning as Brno city centre is very touristy but just outside the city centre it is a shit hole and not a place on my “I need to revisit this place” list.
 
 # Day 32
 
-I left the following morning heading for the city of Olomuc and en route I passed through a small village that had a tank parked on a small piece of grass at the side of the road.
+I left Brno the following morning heading for the city of Olomuc, it was overcast and en route I passed through a small village that had a tank parked on a small piece of grass at the side of the road.
 
 {{< fig-res res="01-31.jpg" >}}
 
@@ -49,7 +47,7 @@ My destination was Gliwice where I had agreed to help coach a team for a few wee
 
 # POSTSCRIPT
 
-Although I was staying in Gliwice for a few weeks,whilst I was there  I managed to do some away days to Opole, Wroclaw, and Chestohowa and I took some photgraphs of these Polish cites. 
+Although I was staying in Gliwice for a few weeks,whilst I was there I managed to do some away days to Opole, Wroclaw, and Chestohowa and I took some photgraphs of these Polish cites. 
 
 {{< fig-res res="09-31.jpg" >}}
 

@@ -22,7 +22,7 @@ Riding a bike in the Pyrenees in the summer is a great experience, well surfaced
 
 {{< fig-res res="02-28.jpg" >}}
 
-After lots of energetic cornering and one or two more coffees I reached the border with Andora. As it is a duty free enclave so I used my time there to stock up on cigars but definitely not petrol, at 1.75 Euros per litre it was some of the most expensive that I have seen. Once stocked up on contraband I left Andora and within minutes I was at the French border.
+After lots of energetic cornering and one or two more coffees I reached the border with Andora. As it is a duty free enclave I used my time there to stock up on cigars but definitely not on petrol, at 1.75 Euros per litre it was some of the most expensive that I had seen. Once stocked up on contraband I left Andora and within minutes I was at the French border.
 
 {{< fig-res res="03-28.jpg" >}}
 
@@ -40,11 +40,11 @@ including a spectacular hilltop castle.
 
 {{< fig-res res="07-28.jpg" >}}
 
-As I reached Carcassonne I did however find a picturesque spot on the North of the city by a canal to stop and have a break.
+As I reached the outskirts of Carcassonne I did however find a picturesque spot on the North of the city by a canal to stop and have a break.
 
 {{< fig-res res="09-28.jpg" >}}
 
-Descending the foothills of the Pyrenees the road I took wound through lots of towns an villages that were full of old buildings and spectacular views, my destination for that day was Montpellier and as I had been invited to stay overnight with a friend, I had plenty of time to take in the sights and stop for the odd coffee or two en route. 
+Descending the foothills of the Pyrenees the road I took wound through lots of towns an villages that were full of old buildings and spectacular views. My destination for that day was Montpellier and as I had been invited to stay overnight with a friend, I had plenty of time to take in the sights and stop for the odd coffee or two en route. 
 
 {{< fig-res res="10-28.jpg" >}}
 
@@ -58,9 +58,7 @@ A few miles along this road I found a bike graveyard that I just had to stop and
 
 {{< fig-res res="13-28.jpg" >}}
 
-Sad to see so many bikes discarded and appaerently not being worked on, I continuted to ride West until I arrived in Montpellier where I met up with my friend and set thereafter out to explore the city. 
-
-I had passed it by a few times but I had never explore Montpellier before and I found it to be a lovely city to walk around in.
+For me it was sad to see so many bikes discarded and appaerently not being worked on, I continuted to ride West until I arrived in Montpellier where I met up with my friend and set thereafter out to explore the city. I had passed it by a few times but I had never explore Montpellier before and I found it to be a lovely city to walk around in.
 
 {{< fig-res res="14-28.jpg" >}}
 

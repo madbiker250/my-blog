@@ -13,9 +13,7 @@ tags:
 
 # Day 79
 
-As the world is still mad and borders are still shut because of the alleged virus, or wars, or other political nonsense, and all roads East from Central Europe are still closed. So, its on the merry go round once again and back to Spain to visit my friend.
-
-However, this time the Balkans are open for business (well apart from Kosovo and Serbia going at it again!) so I decided to take the opportunity to visit these countries whilst I can. Therefore on 15th August 2022 I headed South from Krakow and took the road from there to the Southern Polish city of Bielsko-Biala. I had never actually been here before so this was a perfect time for a visit and I found it to be quite surprising. The town was obviously fortified at some time and the nicer part of the town is to be found within these walls.
+As the world is still mad and borders are still shut because of the alleged virus, or wars, or other political nonsense, and all roads East from Central Europe are still closed. So, its on the merry go round once again and back to Spain to visit my friend. However, this time the Balkans are open for business (well apart from Kosovo and Serbia going at it again!) so I decided to take the opportunity to visit these countries whilst I can. Therefore on 15th August 2022 I headed South from Krakow and took the road from there to the Southern Polish city of Bielsko-Biala. I had never actually been here before so this was a perfect time for a visit and I found it to be quite surprising. The town was obviously fortified at some time and the nicer part of the town is to be found within these walls.
 
 {{< fig-res res="01-79.jpg" >}}
 
@@ -23,7 +21,7 @@ However, this time the Balkans are open for business (well apart from Kosovo and
 
 {{< fig-res res="02-79.jpg" >}}
 
-Once I left the city I continued South till I left Poland and entered Slovakia. I had been to Slovakia a couple of times before but only to pass though so this time I decided to explore the parts of the country that I have never seen before. My first stop was in the city of Banska Bystrica where I got a nice room for about thirty Euros and I found the city to be quite small but very clean and well worth a visit.
+Once I left the city I continued South till I left Poland and entered Slovakia. I had been to Slovakia a couple of times before but only to pass though so this time I decided to explore the parts of the country that I have never seen before. My first stop was in the city of Banska Bystrica where I got a nice room for about 30 Euros and I found the city to be quite small but very clean and well worth a visit.
 
 {{< fig-res res="03-79.jpg" >}}
 
@@ -48,9 +46,7 @@ The next morning I set off East for the city of Kosice however the journey took 
 
 {{< fig-res res="11-79.jpg" >}}
 
-My hotel for the evening was a little unusual as it looked like University accommodation that had been converted in to a hotel and that I obtained for about 25 Euros. The place was basic and functional and it was nothing more than that but as it was a place to sleep, then that is all I really needed. However, once I set about exploring the city I found it to be quite dirty and it had a unsettling vibe about it. 
-
-It was about 4 o'clock in the afternoon when I walked from my hotel in to the city and as I passed a patch of grass near to the main road, I saw a number of rats running about on the grass quite unperturbed by the passing pedestrians and disconcertingly they seemed quite used to being around people.
+My hotel for the evening was a little unusual as it looked like University accommodation that had been converted in to a hotel and that I obtained for about 25 Euros. The place was basic and functional and it was nothing more than that but as it was a place to sleep, then that is all I really needed. However, once I set about exploring the city I found it to be quite dirty and it had a unsettling vibe about it. It was about 4 o'clock in the afternoon when I walked from my hotel in to the city and as I passed a patch of grass near to the main road, I saw a number of rats running about on the grass quite unperturbed by the passing pedestrians and disconcertingly they seemed quite used to being around people.
 
 {{< fig-res res="12-79.jpg" >}}
 
@@ -70,7 +66,7 @@ Overall I was not that impressed with Kosice and it is not a place that I would 
 
 {{< fig-res res="19-79.jpg" >}}
 
-On arriving at the Tatras I took a twisty road that runs along the base of the South side of the mountains and whilst I enjoyed riding on this road it was way too short of a ride in the twistys but it was also to time to head for the Hungarian border so I turned South.
+On arriving at the Tatra mountains I took a twisty road that runs along the base of the South side of the mountains and whilst I enjoyed riding on this road it was way too short of a ride but it was now time to head for the Hungarian border, so I turned South.
 
 {{< fig-res res="20-79.jpg" >}}
 
@@ -84,7 +80,7 @@ After my brief photo stop at Poprad castle I continued towards the Hungarian bor
 
 {{< fig-res res="21-79.jpg" >}}
 
-I entered Hungary at about two in the afternoon and by that time it was already approaching forty degrees celcius. 
+I entered Hungary at about 2 o'clock in the afternoon and by that time it was already approaching 40 degrees celcius. 
 
 {{< fig-res res="22-79.jpg" >}}
 

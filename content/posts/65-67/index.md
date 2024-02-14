@@ -12,17 +12,13 @@ tags:
 
 # Day 65
 
-One of the main reasons for leaving Turkey was because all of the land routes to the East from Turkey were closed and because of this I had to decide where to go for the winter. Staying in Turkey was an option but having a 90 day limit to my stay would have meant having to leave Turkey at the end of January to go back a European country. Another factor for consideration was the potential for the alleged virus to affect border crossings at the end of January in to February. As the borders were still open at that time I decided that it would be better to make that journey in early November rather than at the beginning of February.
-
-I left Kırklareli early the next day and headed for the Bulgarian border. On approaching the border the road rose sharply and in the shaded parts, the road was covered in frost. A few minutes at the border and I was once again in Bulgaria. I rode along the coast past Burgas and Varna, I only stopped for fuel and coffee as it was not warming up and it had become overcatst and I was at the Romanian border by late afternoon. Once through I headed for the unremarkable city of Constanta where I spent the night.
+One of the main reasons for leaving Turkey was because all of the land routes to the East from Turkey were closed and because of this I had to decide where to go for the winter. Staying in Turkey was an option but having a 90 day limit to my stay would have meant having to leave Turkey at the end of January to go back a European country. Another factor for consideration was the potential for the alleged virus to affect border crossings at the end of January in to February. As the borders were still open at that time I decided that it would be better to make that journey in early November rather than at the beginning of February. I left Kırklareli early the next day and headed for the Bulgarian border. On approaching the border the road rose sharply and in the shaded parts, the road was covered in frost. A few minutes at the border and I was once again in Bulgaria. I rode along the coast past Burgas and Varna, I only stopped for fuel and coffee as it was not warming up and it had become overcast. I was at the Romanian border by late afternoon and once through I headed for the unremarkable city of Constanta where I spent the night.
 
 <!--more-->
 
 # Day 66
 
-The next day I headed from Constanta for the border with Moldova as it was my intention to visit that country and then ride on to Ukraine. I had tried to get in to Ukraine earlier in the year but the borders were closed due to the virus, however, Ukraine's borders were now open and I was looking forward to eventually getting in to the country. 
-
-Staying off the motorways I took the main road to Galati where the main Romanian/Moldovan border crossing is situated but on reaching the town of Smardan I found that the only way to cross the Danube river on this particular route was by a small car ferry.
+The next day I headed from Constanta for the border with Moldova as it was my intention to visit that country and then ride on to Ukraine. I had tried to get in to Ukraine earlier in the year but the borders were closed due to the madness, however, Ukraine's borders were now open and I was looking forward to eventually getting in to the country. Staying off the motorways I took the main road to Galati where the main Romanian/Moldovan border crossing is situated but on reaching the town of Smardan I found that the only way to cross the Danube river on this particular route was by a small car ferry.
 
 {{< fig-res res="03-65.jpg" >}}
 

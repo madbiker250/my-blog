@@ -15,17 +15,11 @@ tags:
 
 <!--more-->
 
-I arrived at the the Greek/Turkish border under a cloudy sky which looked like it could produce some rain. After the usual rounds of producing my passport and bike ownership documents to the Greek and Turkish border and customs officials, I was almost cleared to enter Turkey. However, I first had to go to one of the buildings at the border and purchase insurance that covered me for riding my bike in Turkey. For the price of about 15 Euros I obtained 90 days cover. Now I was in Turkey and I set off for Isatnbul.
-
-The rain was light and came and went and I was getting a bit bored  and then I saw this at the side of the road. 
+I arrived at the the Greek/Turkish border under a cloudy sky which looked like it could produce some rain. After the usual rounds of producing my passport and bike ownership documents to the Greek and Turkish border and customs officials, I was almost cleared to enter Turkey. However, I first had to go to one of the buildings at the border and purchase insurance that covered me for riding my bike in Turkey. For the price of about 15 Euros I obtained 90 days cover. Now I was in Turkey and I set off for Isatnbul. The rain was light and came and went and I was getting a bit bored and then I saw this at the side of the road. A Boeing 737 restaurant.
 
 {{< fig-res res="02-53.jpg" >}}
 
-A Boeing 737 restaurant.
-
-I have ridden in London, Paris, Athens, Rome, Berlin, in fact in most major European cities but nothing prepared me for the size of Istanbul. I first hit the traffic on the motorway about twenty miles from Istanbul. It was a solid three and four lane car park the whole way, interspersed with a number of Le Mans style race starts when traffic very briefly started moving again. I spent the next twenty miles filtering stationary and lane swapping cars just to get anywhere, in the rain and such traffic conditions, it was not my idea of fun. However, eventually I managed to get off the motorway in the city, to get lost a few times, before I finally arrived at my destination, a hostel in the Nurosmaniye district of Istanbul where I had arranged to meet up with a fellow bike traveller Nate Allen, who is an American from Oklahoma riding a heavily modified BMW G650 X-Challenge on a RTW. 
-
-Once there I spent a couple of days doing a bit of sightseeing.
+I have ridden in London, Paris, Athens, Rome, Berlin, in fact in most major European cities but nothing prepared me for the size of Istanbul. I first hit the traffic on the motorway about 20 miles from Istanbul. It was a solid 3 and 4 lane car park the whole way, interspersed with a number of Le Mans style race starts when traffic very briefly started moving again. I spent the next 20 miles filtering stationary and lane swapping cars just to get anywhere, in the rain and such traffic conditions, it was not my idea of fun. However, eventually I managed to get off the motorway in the city, to get lost a few times, before I finally arrived at my destination, a hostel in the Nurosmaniye district of Istanbul where I had arranged to meet up with a fellow bike traveller Nate Allen, who is an American from Oklahoma riding a heavily modified BMW G650 X-Challenge on a RTW. Once there I spent a couple of days doing a bit of sightseeing.
 
 {{< fig-res res="03-53.jpg" >}}
 
@@ -37,11 +31,11 @@ Once there I spent a couple of days doing a bit of sightseeing.
 
 {{< fig-res res="07-53.jpg" >}}
 
-Whilst there we were joined by Stefan Olsen a Norwegian on a BMW GS1200  and we all agreed to travel together for a few days and do some off road riding the in mountains to the South of Istanbul.
+Whilst there we were joined by Stefan Olsen a Norwegian on a BMW GS1200 and we all agreed to travel together for a few days and do some off road riding the in mountains to the South of Istanbul.
 
 # Day 54
 
-Nate is a big off road fan and been doing that for years whilst Stefan also had a fair bit of off road experience. On the other hand, apart from a few recent off road excursions during this trip, I had not done any serious off road stuff since my mid twenties on my Honda XL125. So it was with a bit of trepidation that I set off with both of them from the hostel and headed south to the ferry at Eskihisar that would take us across the sea of Marmara to Asia. A short crossing of just under an hour and I was on the continent of Asia.
+Nate is a big off road fan and been doing that for years whilst Stefan also had a fair bit of off road experience. On the other hand, apart from a few recent off road excursions during this trip, I had not done any serious off road stuff since my mid 20's on my Honda XL125. So it was with a bit of trepidation that I set off with both of them from the hostel and headed south to the ferry at Eskihisar that would take us across the sea of Marmara to Asia. A short crossing of just under an hour and I was on the continent of Asia.
 
 {{< fig-res res="08-53.jpg" >}}
 

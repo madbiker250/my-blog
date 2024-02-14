@@ -29,7 +29,7 @@ I continued riding on the D2204 and went over the Coll De Braus and Coll De Sain
 
 {{< fig-res res="06-95.jpg" >}}
 
-I rode on to Nice and then on to the Spanish border. My plan was to go up in to the Pyrenees but as I approached the border French / Spanish border the mountains were topped with lots of black clouds in which lightning flashed every so often. I had no choice but to head for the gap in the clouds and in to sunny Spain beyond. As by now it was getting dark I headed for the seaside holiday resort of Lloret de Mar where I got a room in a five star hotel for 30 Euros, good value even if stuffed with tourists.
+I rode on to Nice and then on to the Spanish border. My plan was to go up in to the Pyrenees but as I approached the French/Spanish border the mountains were topped with lots of black clouds in which lightning flashed every so often. I had no choice but to head for the gap in the clouds and in to sunny Spain beyond. As by now it was getting dark I headed for the seaside holiday resort of Lloret De Mar where I got a room in a 5 star hotel for 30 Euros, good value even if it was stuffed with tourists.
 
 {{< fig-res res="07-95.jpg" >}}
 
@@ -37,19 +37,17 @@ I rode on to Nice and then on to the Spanish border. My plan was to go up in to 
 
 # Day 96
 
-The next morning I set off to Reus where I was planning to stay with a friend for a few days. I had just gotten south of Barcelona on the N340 and I was approaching a petrol station when the front end went all squirrelly again. Yes, it was yet another puncture to the front tyre, however, this time I had forgotten to buy a spare inner tube. So it was off with the wheel etc. in the forecourt of a petrol station about 3 miles from the nearest town. However, because it was around 1 o'clock, all of the shops in the nearby town would soon be closing for lunch and would not open again till about 4 o'clock in the afternoon.
+The next morning I set off to Reus where I was planning to stay with a friend for a few days. I had just gotten South of Barcelona on the N340 and I was approaching a petrol station when the front end went all squirrelly again. Yes, it was yet another puncture to the front tyre, however, this time I had forgotten to buy a spare inner tube. So it was off with the wheel etc. in the forecourt of a petrol station about 3 miles from the nearest town. However, because it was around 1 o'clock, all of the shops in the nearby town would soon be closing for lunch and would not open again till about 4 o'clock in the afternoon.
 
 {{< fig-res res="09-95.jpg" >}}
 
 {{< fig-res res="10-95.jpg" >}}
 
-The tube was cut and after checking the tyre for anything responsible for the puncture, I found that there was nothing. I had also done this when I got the first puncture in Italy but found nothing stuck in the tyre then either. However, I now had a dilemma and sat drinking a coffee thinking about how I could repair it as I did not have a puncture repair kit. I bought some tyre foram, the stuff meant for the emegency repair of tubeless car tyres, and tried that. It not only did not work but now the tube and the inside of the tyre was coated with this sticky mess that i then had to wash off of everything. I bought another coffee and sat again thinking about how to solve my dilema, and then inspiration struck.
+The tube was cut and after checking the tyre for anything responsible for the puncture, I found that there was nothing. I had also done this when I got the first puncture in Italy but found nothing stuck in the tyre then either. However, I now had a dilemma and sat drinking a coffee thinking about how I could repair it as I did not have a puncture repair kit. I bought some tyre foam, the stuff meant for the emegency repair of tubeless car tyres, and tried that. It not only did not work but now the tube and the inside of the tyre were coated with this sticky mess that I then had to wash off of everything. I bought another coffee and sat again thinking about how to solve my dilema, and then inspiration struck.
 
 {{< fig-res res="11-95.jpg" >}}
 
-In my spares that i carried was a couple of lengths of Neoprene cable tubing, the stuff that you place over two joined electrical wires and heat up to make it shrink. I also had some superglue, so I cut the tubing in to rectangles and used the superglue to fix them to the rubber inner tube over the cut. The repair held when I inflated it, so put the tube back in the tyre, refitted the front wheel and I rode to the nearest bike shop to find a replacement tube. It took me visits to three separate shops before I got one. 
-
-Now 4 hours behind schedule I again set off for Reus but I only got about forty miles before my repair failed. So, after another roadside episode of unload the bike, front wheel off, etc. etc and the newly purchased spare inner tube was now in the front tyre and once inflated, I continued my journey and I eventually made it Reus just before it got dark. 
+In the spares that I carried was a couple of lengths of Neoprene cable tubing, the stuff that you place over 2 joined electrical wires and heat up to make it shrink. I also had some superglue, so I cut the tubing in to rectangles and used the superglue to fix them to the rubber inner tube over the cut. The repair held when I inflated it, so put the tube back in the tyre, refitted the front wheel and I rode to the nearest bike shop to find a replacement tube. It took me visits to three separate shops before I got one. Now 4 hours behind schedule I again set off for Reus but I only got about 40 miles (60 km) before my repair failed. So, after another roadside episode of unload the bike, front wheel off, etc. etc and the newly purchased spare inner tube was now in the front tyre and once inflated, I continued my journey and I eventually made it Reus just before it got dark. 
 
 # Day 97
 
@@ -57,7 +55,7 @@ I obtained a replacement spare tube in Reus and after a few days of rest I set o
 
 {{< fig-res res="12-95.jpg" >}}
 
-As I approached my hotel on the outskirts of Benavente on the N6 the front end went squirelly on me again. On stopping in the hotel car par, I saw that the front tire had deflated somewhat but it was not quite flat, so after checking in and unloading the bike I used my air compressor to inflate it and it seemed to hold the pressure. I again checked the tyre for anything sticking in it but found nothing. 
+As I approached my hotel on the outskirts of Benavente on the N6 the front end went squirelly on me again. On stopping in the hotel car park, I saw that the front tyre had deflated somewhat but it was not quite flat, so after checking in and unloading the bike I used my air compressor to inflate it and it seemed to hold the pressure. I again checked the tyre for anything sticking in it but found nothing. 
 
 # Day 98
 

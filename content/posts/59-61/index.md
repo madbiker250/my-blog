@@ -17,7 +17,7 @@ After out encounter with the wolves the previous night we decided that later tha
 
 <!--more-->
 
-As usual we took some smaller scenic routes and at a lesiurely pace I was able to stop to take the odd photo. 
+As usual we took some smaller scenic routes and at a lesiurely pace I was able to stop to take the odd photo 
 
 {{< fig-res res="02-59.jpg" >}}
 
@@ -25,22 +25,19 @@ As usual we took some smaller scenic routes and at a lesiurely pace I was able t
 
 {{< fig-res res="04-59.jpg" >}}
 
-and then eventually we headed for our hotel in the city of Eskisehir. Everything was going smoothly as we checked in and then we were told that we were not actually staying there but in an annex, but the trouble was the annex was about a kilometer away. 
+and then eventually we headed for our hotel in the city of Eskisehir. 
 
-Once we got there and started to unload and then we found out that here was no Wi-Fi so a change of plan was needed. They then decided to put us in another annex which was two kilometers way, no problem. We ride over, unload the bikes and wait while the rooms are being prepared. We wait and we wait but then they try to put us all in to one room instead of the three we paid for. Nate tries to explain to the woman but he has limited Turkish and she has no English. It all goes sideways very quickly. 
+Everything was going smoothly as we checked in and then we were told that we were not actually staying there but in an annex, but the trouble was the annex was about 1 kilometer away. Once we got there and started to unload and then we found out that here was no Wi-Fi so a change of plan was needed. They then decided to put us in another annex which was 2 kilometers way, no problem. We ride over, unload the bikes and wait while the rooms are being prepared. We wait and we wait but then they try to put us all in to one room instead of the three we paid for. Nate tried to explain to the woman but he had limited Turkish and she had no English. It all went sideways very quickly. 
 
-The woman does not like being in the presence of a six foot four American who is tired, in need of a shower and getting to the end of his rope, so she runs out of the building using her mobile phone. I see the writing on the wall and sure enough her male relatives come back with her but when they see the three of us, and we are all very much bigger thany any of them, they change their minds and the police are called.
-
-Nate calmly explains the situation to the cops via google translate on his mobile phone while Stefan and I sit on the stairs and spectate, expecting to be arrested at any time. However, all is resolved and eventually we get in to the rooms at about 9 pm and after a quick shower, change of clothes and we were out for food in about 30 minutes.
+The woman did not like being in the presence of a six foot four American who is tired, in need of a shower and getting to the end of his rope, so she ran out of the building using her mobile phone. I saw the writing on the wall and sure enough her male relatives come back with her but when they see the three of us, and we are all very much bigger than any of them, they changed their minds and the police were called. Nate calmly explained the situation to the cops via google translate on his mobile phone while Stefan and I sat on the stairs and spectated, expecting to be arrested at any time. However, all was resolved and eventually we got in to the rooms at about 9 o'clock in the evening and after a quick shower, change of clothes and we were out for food in about 30 minutes.
 
 # Day 60
 
-The next day we did some more scenic roads and off road riding exporing trails but nothing much to to write home about, and even less to photograph, so as the day was drawing to a close we headed for the city of Kutahya for the night.
-
+The next day we did some more scenic roads and off road riding exporing trails but nothing much to to write home about, and even less to photograph, so as the day was drawing to a close we headed for the city of Kutahya for the night where we found a reasonably priced hotel.
 
 # Day 61
 
-The next day we decided to visit the remains of the ancient Greek/Roman city of Aizanoi which is situated about 50 km west of Kutahya, and as Stefan had something to do he arranged to meet us there later in the moring. Nate and I set off together however a section of one of the dirt roads that we were using had been blocked by a landslide which was just in the process of being cleared as we arrived at that part.
+The next day we decided to visit the remains of the ancient Greek/Roman city of Aizanoi which is situated about 50 km West of Kutahya, and as Stefan had something to do he arranged to meet us there later in the moring. Nate and I set off together however a section of one of the dirt roads that we were using had been blocked by a landslide which was just in the process of being cleared as we arrived at that part.
 
 {{< fig-res res="05-59.jpg" >}}
 
