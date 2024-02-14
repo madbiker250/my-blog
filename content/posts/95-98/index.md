@@ -6,6 +6,7 @@ categories:
 - Blog
 - Europe
 tags:
+- france
 - spain
 ---
 
