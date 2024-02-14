@@ -1,5 +1,5 @@
 ---
-title: "Spain 2019 and 2 Years Down"
+title: "Spain 2019 and Two Years Down"
 date: 2019-04-26T19:40:32-01:00
 draft: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "4 Years Down"
+title: "Four Years Down and the Tatra Mountains"
 date: 2021-07-29T11:48:57-01:00
 draft: false
 categories:
@@ -8,9 +8,7 @@ categories:
 tags:
 - poland
 ---
-It has now been 4 years since I left the UK on my adventures, however, as I mentioned in my previous post because of all of the madness engendered in politicians in respect of restrictions on individual movement I am unable to travel much and I am presently marking time in Krakow in Poland. 
-
-I just thought that I would post this update on my stalled RTW trip and to share a few photographs of my jaunts around Southern Poland in to the Tatra Mountains and Krakow during the last few months of captivity.
+It has now been 4 years since I left the UK on my adventures, however, as I mentioned in my previous post because of all of the madness engendered in politicians in respect of restrictions on individual movement I am unable to travel much and I am presently marking time in Krakow in Poland. I just thought that I would post this update on my stalled RTW trip and to share a few photographs of my jaunts around Southern Poland in to the Tatra Mountains and around Krakow during the last few months of captivity.
 
 The Krynica Area of Southern Poland
 
