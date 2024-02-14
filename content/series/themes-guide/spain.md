@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
+The speed limits in Spain are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 Like France, the motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads are the C roads.
 

@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
+The speed limits in Switzerland are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 The motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads just have road names.
 
@@ -20,4 +20,4 @@ Switizerland is famous for it's Alpine passes so there is not much else to say a
 
 Petrol is usually about 10 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.90 Euros per litre.
 
-I do not remember seeing many speed cameras in Switzerland but there are a lot of police patrol cars on the motorways.
+I do not remember seeing many speed cameras in Switzerland but there are a lot of police patrol cars on the motorways, these patrol cars regularly stop drivers to check that they have a Vignette.allowing them to use the motorways. The fine for not having a vignette is way more than the cost of buying one so be warned.

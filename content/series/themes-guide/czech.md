@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
+The speed limits in the Czech Republic are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 The motorways are are just numbered and although they are toll roads they are free for motorbikes, the main non-motorway roads are also just numbered, and the smaller main roads just have road names.
 
@@ -18,4 +18,6 @@ The samller roads are generally in much poorer states of repair than in other Eu
 
 I never saw any speed cameras and partolling police cars I only saw on the motorways once or twice during my time in the country.
 
-The Czech Republic does not use the Euro but petrol was generally cheaper than Germany and at the time of writing was the equivalent of 1.30 Euros per litre. 
+The Czech Republic does not use the Euro but petrol was generally cheaper than Germany and at the time of writing was the equivalent of 1.30 Euros per litre.
+
+My favourite roads in the Czech Republic are those to the South of the country near to the Hungarian border.

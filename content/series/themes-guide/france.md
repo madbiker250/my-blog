@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways but the 130 kph limit on the motorways is reduced to 110 kph when it is raining.
+The speed limits in France are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways but the 130 kph limit on the motorways is reduced to 110 kph when it is raining.
 
 The motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads are the C roads.
 
@@ -20,7 +20,7 @@ The motorways signs are in Blue, the N road signs are in Red, and signs for the 
 
 France is a huge country and most of the other roads are well maintained, my personal favourites are the N roads, the old main National routes before the motorways were built and if I can, I use these in preference to the motorways.
 
-Petrol is usually about 20 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.60 Euros per litre.
+Petrol is usually about 20 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.70 Euros per litre.
 
 France has lots of speed cameras but a lot of them face forward and photograph the vehicle as it is approaching the camera, as bikes have no front number plates, any transgressors may not be identified. However, there are some that photograph vehicles from the rear so be warned.
 

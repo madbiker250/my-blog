@@ -1,6 +1,6 @@
 ---
 title: "Aizanoi"
-date: 2020-10-04T12:52:36-01:00
+date: 2020-11-04T12:52:36-01:00
 draft: false
 categories:
 - Blog

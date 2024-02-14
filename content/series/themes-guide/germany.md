@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
+The speed limits in Germany are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
 The motorways are are called Autobahns and are just numbered. They are also toll free. The non-motorway main roads are also just numbered, and the smaller roads just have road names.
 
@@ -21,3 +21,5 @@ All of the roads in Germany are very well mainatained.
 Therre are a lot of speed cameras and partolling police cars everywhere in Germany.
 
 Petrol was generally 20 cents more expensive per litre on the Autobahns and at the time of writing the cost elsewhere was 1.60 per litre. 
+
+My favourite German roads are in Bavaria in the Black Forrest area. 

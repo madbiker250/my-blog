@@ -16,7 +16,7 @@ The North Macedonian motorways and the non motorway main roads that I rode on ar
 
 Like those in Serbia, the motorways signs have a Green background with White numbers for the motorway number, the non motorway main road signs have a Blue background with White numbers, and signs for the smaller roads have a Yellow background with Black names.
 
-North Macedonia are not in the EU so they still have their national borders and depending on what insurance policy you have for your bike you may be required to purchase insurance for it at the border. They also do not use the Euro in Serbia and petrol at the time of writing was the equivalent of about 1.30 Euros per litre. 
+North Macedonia are not in the EU so they still have their national borders and depending on what insurance policy you have for your bike you may be required to purchase insurance for it at the border. They also do not use the Euro in North Macedonia and petrol at the time of writing was the equivalent of about 1.30 Euros per litre. 
 
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 

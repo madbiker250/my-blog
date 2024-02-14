@@ -5,9 +5,7 @@ draft: false
 categories:
 - Blog
 tags:
-- france
-- switzerland
-- czech republic
+- uk
 ---
 
 Another cold winter in Scotland and retirement is almost upon me. 
@@ -21,7 +19,7 @@ I tried it once before but circumstances outwith my control forced me to get bac
 
 As I am preparing to depart this country on what could loosely be described as some kind of disorganised adventure, probably never to return, my thoughts are somewhat mixed but surprisingly free of conflict. As the finish line draws ever nearer I had anticipated feeling a twinge or two of uncertainty about my decision to leave the country but, surprisingly I have no such concerns.
 
-Reflecting on my life in Scotland I have realised that the country that has been my home since the day I was born some 50 odd years ago has morphed in to a place that not only do I struggle to recognise socially, but in which I find myself less and less at home in. I will undoubtedly miss some of my favourite people and places but truth be told, I shall be glad when my bike hurtles southward on the motorway and over the border in to England.
+Reflecting on my life in Scotland I have realised that the country that has been my home since the day I was born some 50 odd years ago has morphed in to a place that not only do I struggle to recognise socially, but in which I find myself less and less at home in. I will undoubtedly miss some of my favourite people and places but truth be told, I shall be glad when my bike hurtles Southward on the motorway and over the border in to England.
 
 I shall also not miss the cold and wet weather and I intend to avoid it whenever I am able to. 
 

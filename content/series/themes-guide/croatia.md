@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Slovenia are 50 km/h (31 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (81 mph) on motorways.
+The speed limits in Croatia are 50 km/h (31 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (81 mph) on motorways.
 
 In Croatia the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered, the smaller roads have the name of the place that the road lead to on them.
 
@@ -16,7 +16,7 @@ The Croatian motorways and the non motorway main roads that I rode on are of a g
 
 Like most countires in the Blakans, the motorways signs have a Green background with White numbers for the motorway number, the non motorway main road signs have a Blue background with White numbers, and signs for the smaller roads have a Yellow background with Black names.
 
-At the time of writing Croatia do not use the Euro butn that will soon change, petrol at the time of writing was the equivalent of about 1.40 Euros per litre. 
+At the time of writing Croatia do not use the Euro but that will soon change, petrol at the time of writing was the equivalent of about 1.40 Euros per litre. 
 
 I never saw any signs speed cameras nor any patrolling police vehicles.
 

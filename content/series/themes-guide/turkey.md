@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Serbia are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (74 mph) on motorways.
+The speed limits in Turkey are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (74 mph) on motorways.
 
 In Turkey the motorways are numbered and prefixed with the letter D, the non motoway main roads are numbered and also prefixed with the letter D, the smaller roads just have the names of the town that they lead to on the signs.
 
@@ -20,4 +20,4 @@ Turkey are not in the EU so they still have their national borders and depending
 
 I saw any signs for average speed cameras on the motorway but I never saw any patrolling police vehicles.
 
-Turkey has lots of great biking roads but my experience of them is limited to the West of the country and these road were very good for bikes.
+Turkey has lots of great biking roads but my experience of them is limited to the West of the country and all of the roads that I rode on were very good for bikes.

@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (78 mph) on motorways.
+The speed limits in Portugal are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (78 mph) on motorways.
 
 Like Spain, the motorways are the A roads, the main non-motorway roads are the N roads, but in Portugal the smaller main roads are the M roads.
 

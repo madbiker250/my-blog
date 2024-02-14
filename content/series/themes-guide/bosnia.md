@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Slovenia are 50 km/h (31 mph) in built up areas, 80 km/h (50 mph) outside built up areas, and 130 km/h (81 mph) on motorways.
+The speed limits in Bosnia are 50 km/h (31 mph) in built up areas, 80 km/h (50 mph) outside built up areas, and 130 km/h (81 mph) on motorways.
 
 In Bosnia the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered and prefixed with the letter M, the smaller roads are numbered and prefixed with the letter R.
 

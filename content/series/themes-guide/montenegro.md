@@ -16,8 +16,8 @@ The Montenegran motorways and the non motorway main roads that I rode on are of 
 
 Again like those in Serbia, the motorways signs have a Green background with White numbers for the motorway number, the non motorway main road signs have a Blue background with White numbers, and signs for the smaller roads have a Yellow background with Black names.
 
-Montenegro are not in the EU so they still have their national borders and depending on what insurance policy you have for your bike you may be required to purchase insurance for it at the border. They also do not use the Euro in Serbia and petrol at the time of writing was the equivalent of about 1.50 Euros per litre. 
+Petrol at the time of writing was about 1.50 Euros per litre. 
 
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
-Montenegro has lots of great biking roads and like North Macedonia, most of these I found in the mountainous areas of the country. The coastal road is very scenic however, it was full of tourist traffic when I was there and it took a long time to cover a few miles.
+Montenegro has lots of great biking roads and like North Macedonia, most of these I found in the inland mountainous areas of the country. The coastal road is very scenic however, it was full of tourist traffic when I was there and it took a long time to cover a few miles.

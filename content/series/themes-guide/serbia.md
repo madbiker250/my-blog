@@ -10,7 +10,7 @@ series = ["Themes Guide"]
 
 The speed limits in Serbia are 60 km/h (38 mph) in built up areas, 100 km/h (62 mph) outside built up areas, and 120 km/h (74 mph) on motorways.
 
-In  the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered, the smaller roads just have the names of the town that they lead to on the signs.
+In Serbia the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered, the smaller roads just have the names of the town that they lead to on the signs.
 
 The Serbian motorways and the non motorway main roads that I rode on are of a good standard, the condition of the smaller roads are generally good but there is always the odd exception.
 

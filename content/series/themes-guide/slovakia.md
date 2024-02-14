@@ -8,7 +8,7 @@ categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
 
-The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways
+The speed limits in Slovakia are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways
 
 The motorways are numbered. All of the motorways are toll roads. The main non-motorway roads are also just numbered, and the smaller main roads are also just numbered.
 
@@ -19,3 +19,5 @@ The smaller roads are generally in much poorer states of repair than in other Eu
 I never saw any patrolling police cars and I never saw any speed cameras.
 
 Petrol was generally much cheaper than most countiries that use the Euro and at the time of writing was 1.30 Euros per litre.
+
+My favourite Slovakian roads were those in the North of the country in the Tatra mountain region.

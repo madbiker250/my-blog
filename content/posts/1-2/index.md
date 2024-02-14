@@ -1,6 +1,6 @@
 ---
 title: "Days 1 to 2 August 2019"
-date: 2019-09-29T15:27:12-01:00
+date: 2019-09-27T11:42:00-01:00
 draft: false
 categories:
 - Blog

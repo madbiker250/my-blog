@@ -35,8 +35,6 @@ Having rested and recharged my batteries so to speak, and attended to some well 
 
 {{< fig-res res="08-43.jpg" >}}
 
-{{< fig-res res="09-43.jpg" >}}
-
 This location I found on a website called Atlas Obscura that focuses on "unusual" things to see and it has a section in it where one can look up whatever particular country you happen to be in and see what unusual sights there are to be seen there, here is a link to that part of the website. 
 
 [https://www.atlasobscura.com/destinations/](https://www.atlasobscura.com/destinations/)
