@@ -59,7 +59,7 @@ weight = 50
 [[menu.main]]
 identifier = "Website"
 name = "My Website"
-url = "https://offthehamsterwheel.co.uk/"
+url = "https://themadbiker.co.uk/"
 weight = 100
 
 [params]
