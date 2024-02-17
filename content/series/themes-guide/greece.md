@@ -10,7 +10,7 @@ series = ["Themes Guide"]
 
 The speed limits in Greece are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
-In Greece the motorways are just numbered, the non motoway main roads are just numbered and the smaller roads just have the names of the town that they lead to on the signs.
+In Greece the motorways are just numbered, the non motorway main roads are just numbered and the smaller roads just have the names of the town that they lead to on the signs.
 
 The Greek motorways and the non motorway main roads that I rode on are of a good standard, however service stations were few and far between. The condition of the smaller roads are generally good but there is always the odd exception.
 
@@ -20,4 +20,4 @@ Petrol at the time of writing it was about 1.70 Euros per litre.
 
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
-Greece has lots of great biking roads but my favourites are in the Peleponnese penisula which is to the South West of Athens.
+Greece has lots of great biking roads but my favourites are in the Peleponnese peninsula which is to the South West of Athens.

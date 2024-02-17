@@ -39,7 +39,7 @@ So, with a heavy heart I hit the motorways and by the end of the day I was in Ma
 
 {{< fig-res res="07-sp.jpeg" >}}
 
-In my opinion, this city is pleasant enough in the touristy areas such as the harbour pictured above, but the rest of the place was very run down and during the night as my bike was parked on the pavement directly ouside the front door of my hotel, three immigrants tried to steal it only to b chased off by the nighshift hotel staff. Unfortunatley Marseilles has become a crime ridden dump of a city and personally I will never go back.
+In my opinion, this city is pleasant enough in the touristy areas such as the harbour pictured above, but the rest of the place was very run down and during the night as my bike was parked on the pavement directly outside the front door of my hotel, three immigrants tried to steal it only to b chased off by the nighshift hotel staff. Unfortunately Marseilles has become a crime ridden dump of a city and personally I will never go back.
 
 {{< fig-res res="08-sp.jpeg" >}}
 
@@ -81,8 +81,8 @@ The hotel was very moderately priced at around 30 Euros, clean, and run by an ex
 
 {{< fig-res res="15-sp.jpeg" >}}
 
-After a restful night in Ljubliana, I headed off for Poland. I was on a bit of a schedule and I had promised to be in Krakow by the end of that day, therefore I had no choice but to again hit the motorways. I don't particularly like using motorways but there is no denying that to cover anything like 500 miles in a day they are the only way to travel and on the way I passed through both Hungary and Slovakia. That days riding was long and not particularly enjoyable as I passed by lots of interesting places that I could see from the motorways and that I wanted to stop at. However, I did make some mental notes and I am certain that during my travells I will come back for a closer look.
+After a restful night in Ljubliana, I headed off for Poland. I was on a bit of a schedule and I had promised to be in Krakow by the end of that day, therefore I had no choice but to again hit the motorways. I don't particularly like using motorways but there is no denying that to cover anything like 500 miles in a day they are the only way to travel and on the way I passed through both Hungary and Slovakia. That days riding was long and not particularly enjoyable as I passed by lots of interesting places that I could see from the motorways and that I wanted to stop at. However, I did make some mental notes and I am certain that during my travels I will come back for a closer look.
 
 {{< fig-res res="16-sp.jpeg" >}}
 
-By late afternoon I had arrived at my destination in Krakow and for the time being my travells were over.
+By late afternoon I had arrived at my destination in Krakow and for the time being my travels were over.

@@ -62,4 +62,4 @@ Full of tight hairpins, swooping bends over rivers and rocky gullies, small vill
 
 {{< fig-res res="15-65.jpg" >}}
 
-By the end of the day I had reached my destination of a hotel about 3 kilometers from the Romanian/Hungarian border and I checked in, there were not many guests and the resteraunt was closed, so I just made some coffee in my room using my camping stove and worked on my route for the follwoing day.
+By the end of the day I had reached my destination of a hotel about 3 kilometres from the Romanian/Hungarian border and I checked in, there were not many guests and the restaurant was closed, so I just made some coffee in my room using my camping stove and worked on my route for the following day.

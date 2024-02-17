@@ -48,4 +48,4 @@ As the engine had been rebuilt I had to "run it in" over the next five hundred m
 
 {{< fig-res res="10-rb.jpg" >}}
 
-Around Christmas I got a call aking me to return and coach in Krakow again over the spring and early summer, I was hoping to put off my return till the late spring when the better weather would return, however circumstances dictated that I needed to be back there by the middle of the following January. I reluctantly agreed and started to plan my journey which I knew would be cold at that time of year.
+Around Christmas I got a call asking me to return and coach in Krakow again over the spring and early summer, I was hoping to put off my return till the late spring when the better weather would return, however circumstances dictated that I needed to be back there by the middle of the following January. I reluctantly agreed and started to plan my journey which I knew would be cold at that time of year.

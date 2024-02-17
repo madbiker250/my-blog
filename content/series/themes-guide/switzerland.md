@@ -16,8 +16,8 @@ The motorways signs are in Blue, the N road signs are in Green, and signs for th
 
 The motorways are all of a high standard but they are all toll roads and to use them you must purchase a Vignette sticker which you can buy at tourist offices and service stations on the motorways.
 
-Switizerland is famous for it's Alpine passes so there is not much else to say about the Swiss roads as far as biking goes.
+Switzerland is famous for it's Alpine passes so there is not much else to say about the Swiss roads as far as biking goes.
 
 Petrol is usually about 10 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.90 Euros per litre.
 
-I do not remember seeing many speed cameras in Switzerland but there are a lot of police patrol cars on the motorways, these patrol cars regularly stop drivers to check that they have a Vignette.allowing them to use the motorways. The fine for not having a vignette is way more than the cost of buying one so be warned.
+I do not remember seeing many speed cameras in Switzerland but there are a lot of police patrol cars on the motorways, these patrol cars regularly stop drivers to check that they have a Vignette allowing them to use the motorways. The fine for not having a vignette is way more than the cost of buying one so be warned.

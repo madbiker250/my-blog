@@ -10,7 +10,7 @@ series = ["Themes Guide"]
 
 The speed limits in Turkey are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 120 km/h (74 mph) on motorways.
 
-In Turkey the motorways are numbered and prefixed with the letter D, the non motoway main roads are numbered and also prefixed with the letter D, the smaller roads just have the names of the town that they lead to on the signs.
+In Turkey the motorways are numbered and prefixed with the letter D, the non motorway main roads are numbered and also prefixed with the letter D, the smaller roads just have the names of the town that they lead to on the signs.
 
 The Turkish motorways and the non motorway main roads that I rode on are of a good standard, however around the Istanbul area expect extremely heavy traffic at all times. The condition of the smaller roads are generally good but there is always the odd exception.
 

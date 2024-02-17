@@ -10,7 +10,7 @@ series = ["Themes Guide"]
 
 The speed limits in Hungary are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
-In Hungary the motorways M roads, the non motoway main roads are just numbered and the smaller roads just have numbers.
+In Hungary the motorways M roads, the non motorway main roads are just numbered and the smaller roads just have numbers.
 
 The motorways and the non motorway main roads in Hungary that I rode on were of a good standard, however the smaller roads were not maintained to the same standard.
 

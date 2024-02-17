@@ -109,7 +109,7 @@ Visiting the monument to King Leonidas at the pass of Thermopylae was one of the
 
 {{< fig-res res="29-47.jpg" >}}
 
-From there I made my way to the city of Thessaloniki where I found a hotel in the city centre for under 20 Euros. Thessalonika was dirty and full of unsavoury charachters so I returned to my hotel before it got dark and settled down for the night.
+From there I made my way to the city of Thessaloniki where I found a hotel in the city centre for under 20 Euros. Thessalonika was dirty and full of unsavoury characters so I returned to my hotel before it got dark and settled down for the night.
 
 # Day 52
 
@@ -119,6 +119,6 @@ The next morning I was up and away early towards the Turkish border and taking t
 
 {{< fig-res res="31-47.jpg" >}}
 
-At the end of the day I found a almost deserted roadside hotel on the far side of Alexandroupoli where I got a really nice room for under 25 Euros for the night and as it was only about 10 miles from the border with Turkey I was well placed for an easy crossing the next day. I sat on my patio with my usual coffee and cigars wondering what that Turkey would be like to travel in as I had never been there before and then I aslo though about the last 2 weeks that I had spent travelling in Greece.
+At the end of the day I found a almost deserted roadside hotel on the far side of Alexandroupoli where I got a really nice room for under 25 Euros for the night and as it was only about 10 miles from the border with Turkey I was well placed for an easy crossing the next day. I sat on my patio with my usual coffee and cigars wondering what that Turkey would be like to travel in as I had never been there before and then I thought about the last 2 weeks that I had spent travelling in Greece.
 
 I was very disappointed with my time in Greece, the whole country is very expensive to travel in and everywhere is strewn with litter. Even up in the mountains, plastic water and soft drink bottles fill the edges of the roads. Daily I saw vehicle occupants launch all sorts of litter from the windows of their vehicles as they drove along the road. The infrastructure in the country is obviously devoid of funding whist almost every house looks well appointed and there are only a few old cars to be seen which suggests to me that paying any form of tax is not a popular pastime with the Greeks. The country is a mess and no-one seems to give a damn about it, and I won't be going back nor would I recommend it to anyone as a biking destination.

@@ -17,7 +17,7 @@ It has been five years since I left Scotland to begin my Round The World trip (R
 
 <!--more-->
 
-Since leaving, I have traveled in excess of forty thousand miles on my bike(s) and yet I find myself still in Europe. The reasons for this are a combination of my own tardiness and the world shutting down in 2020. As I wait, hoping that I will soon be able to continue with my RTW trip, my thoughts about the dramatic changes that have taken place in the world over the past two years have made me wonder in what direction the world will now move because of those changes.
+Since leaving, I have travelled in excess of forty thousand miles on my bike(s) and yet I find myself still in Europe. The reasons for this are a combination of my own tardiness and the world shutting down in 2020. As I wait, hoping that I will soon be able to continue with my RTW trip, my thoughts about the dramatic changes that have taken place in the world over the past two years have made me wonder in what direction the world will now move because of those changes.
 
 I have never really felt as if I fitted in well with the rest of society in which I grew up and as an adult, whether that be in employment or in general society, that feeling has only grown and the events of the last two years have only served to greatly exacerbate such feelings. I have always been somewhat of a societal outlier, never comfortable with attention nor desiring popularity, I always seemed to see a different reality than most other people so maybe that is why I am a biker.
 
@@ -33,7 +33,7 @@ Then came 2020.
 
 All over the world, at the same time, an identical new false reality was rolled out by the Governments in every country supported by willing partners, the media and the so called academics and scientists. Driven by a fear of contracting a supposedly deadly virus that would kill billions across the globe if left unchecked, the majority of the public who were gripped by fear of death, readily accepted this new reality that caused them to willingly accept imprisonment within their own homes, unprecedented draconian restrictions on their lives, their freedoms, and devastation to the economies of their countries.
 
-The only choices that were promulgated to them were to accept an experimental gene therapy injection with undisclosed contents or certain death or not and be labeled a "Granny Killer" and become a social leper. Thus another new delusional reality that was intentionally created and pushed on to everyone became mainstream opinion and belief. 
+The only choices that were promulgated to them were to accept an experimental gene therapy injection with undisclosed contents or certain death or not and be labelled a "Granny Killer" and become a social leper. Thus another new delusional reality that was intentionally created and pushed on to everyone became mainstream opinion and belief. 
 
 Then came March 2022. Russia invaded Ukraine. Again, just as with the so called pandemic, all over the world, at the same time, another new purpose built reality was rolled out by the media in every country. Russia is evil and Ukraine is an innocent victim of Russian aggression. Oh and by the way, because of this war, everything that you need to survive, food, water, fuel, etc. will be in short supply in every country in the world and these things will cost you much more than it previously cost solely because of this particular war.
 

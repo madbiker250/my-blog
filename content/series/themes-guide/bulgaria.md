@@ -10,7 +10,7 @@ series = ["Themes Guide"]
 
 The speed limits in Bulgaria are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.
 
-In Bulgaria the motorways A roads, the non motoway main roads are just numbered and the smaller roads just have numbers.
+In Bulgaria the motorways A roads, the non motorway main roads are just numbered and the smaller roads just have numbers.
 
 I never rode on the motorways and the non motorway main roads in Bulgaria that I rode on are of a mixed standard, some are good and some can be very bad. The smaller roads were not maintained to the same standard and are generally in a poor state of repair.
 

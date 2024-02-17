@@ -53,7 +53,7 @@ The next morning we stayed on the dirt exploring some ruins on the top of a hill
 
 {{< fig-res res="11-53.jpg" >}}
 
-Later that day we headed for Bursa and we all got in to a hotel in the centre of the city, as there was not garage, we parked out bkes on the pavement in front of the hotel entrance.
+Later that day we headed for Bursa and we all got in to a hotel in the centre of the city, as there was no garage, we parked out bikes on the pavement in front of the hotel entrance.
 
 {{< fig-res res="14-53.jpg" >}}
 

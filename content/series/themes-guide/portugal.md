@@ -20,6 +20,6 @@ In Portugal my personal favourites are the N roads, the old main National routes
 
 Petrol is usually about 20 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.80 Euros per litre.
 
-Portugal has speed cameras however they are generally good enough to warn you of them in advance, so when you see a sign for a speed camera on the road that you are on, generally there will be one within a few kilometers from the sign.
+Portugal has speed cameras however they are generally good enough to warn you of them in advance, so when you see a sign for a speed camera on the road that you are on, generally there will be one within a few kilometres from the sign.
 
 There are many great biking roads in Portugal but in my opinion the best are to be found in the North and West of the country near to the Spanish border.

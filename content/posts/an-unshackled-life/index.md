@@ -9,7 +9,7 @@ tags:
 - spain
 
 ---
-Once I had spent a relaxing night in Santiago de Compostela I boarded a train to the town of Monforte de Lemos which is near to the village where my good friend stays. I had purchased a ticket online (in Spanish) the previous evening and on boarding the train I found that my Spanish was not as good as I had hoped.
+Once I had spent a relaxing night in Santiago de Compostella I boarded a train to the town of Monforte de Lemos which is near to the village where my good friend stays. I had purchased a ticket online (in Spanish) the previous evening and on boarding the train I found that my Spanish was not as good as I had hoped.
 
 As the ticket price was 24 Euros for the 70 odd mile journey I had assumed that it was a standard fare but when I took my numbered seat I was quickly ejected from it by an elderly Spanish woman who thrust her ticket under my nose whilst at the same time shouting loudly and pointing at me. Surely the train company had not issued two tickets for the same seat?
 

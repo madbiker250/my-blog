@@ -11,9 +11,9 @@ tags:
 
 # The Greek/Roman City of Aizanoi
 
-This site was one of the best and undeveloped sites that I have yet encountered on my travells. Apart from a partially complete temple, the site had row upon row of stone carvings that were used to decotate the many buildings that used to stand on this site.
+This site was one of the best and undeveloped sites that I have yet encountered on my travels. Apart from a partially complete temple, the site had row upon row of stone carvings that were used to decorate the many buildings that used to stand on this site.
 
-One of the most amaizing things on this site was a complete underground vault that had survied from when it was originaly contructed.
+One of the most amazing things on this site was a complete underground vault that had survived from when it was originally constructed.
 
 {{< fig-res res="01-az.jpg" >}}
 

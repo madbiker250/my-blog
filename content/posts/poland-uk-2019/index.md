@@ -13,7 +13,7 @@ tags:
 
 I had always known that my Kawasaki ZZR1200 would not be a suitable bike to use on an RTW trip and although I had planned to change it, I had not really decided on what bike that should be nor when I should change it, so in July 2019 I made the decision that the time was now right to change my bike. 
 
-As during my RTW trip I necessarily had planned to cover a lot of miles, the fuel that I would use would be a significant part of my daily expenditure, therefore low fuel consumption would be a very important factor in whatever bike that I chose. Ease of maintenance and repair were the next most important factors on my list of requirments, closely followed by being a bike light enough for me to pick up unassisted. After doing a lot of research and reading a lot of reviews I decided that the Royal Enfield Himalayan was the one that I though most suited my needs as an RTW bike. So in August 2019 I decided to return to the UK and to buy one.
+As during my RTW trip I necessarily had planned to cover a lot of miles, the fuel that I would use would be a significant part of my daily expenditure, therefore low fuel consumption would be a very important factor in whatever bike that I chose. Ease of maintenance and repair were the next most important factors on my list of requirements, closely followed by being a bike light enough for me to pick up unassisted. After doing a lot of research and reading a lot of reviews I decided that the Royal Enfield Himalayan was the one that I though most suited my needs as an RTW bike. So in August 2019 I decided to return to the UK and to buy one.
 
 <!--more-->
 

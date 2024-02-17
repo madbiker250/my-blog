@@ -49,7 +49,7 @@ I decided to go in to a local bar near to my apartment for a coffee and inside I
 
 # Day 89
 
-I left Tirana and headed for the Montenegro border, whilst passing through a small town on the waay I could smell meat being grilled at the side of the road and I just had to stop and eat some freshly made kebabs for breakfast just like the locals in the town.
+I left Tirana and headed for the Montenegro border, whilst passing through a small town on the way I could smell meat being grilled at the side of the road and I just had to stop and eat some freshly made kebabs for breakfast just like the locals in the town.
 
 {{< fig-res res="11-88.jpg" >}}
 
@@ -57,13 +57,13 @@ After crossing the border from Albania in to Montenegro I spotted 2 bikers parke
 
 {{< fig-res res="12-88.jpg" >}}
 
-However, due to a combination of really heavy traffic and an abundance of only local road signs, I missed the turn off and found myself still riding up the busy coast road. Eventually I found a road to Podgorcia and on reaching it, total disappointment. Almost no building older than maybe 30 years old. I found the city to be very modern and very characterless, thereofre it was time to move on. I rode to Mojkovak and I then took the road along a gorge to Durdevica Tara Bridge which was quite spectacular.
+However, due to a combination of really heavy traffic and an abundance of only local road signs, I missed the turn off and found myself still riding up the busy coast road. Eventually I found a road to Podgorcia and on reaching it, total disappointment. Almost no building older than maybe 30 years old. I found the city to be very modern and very characterless, therefore it was time to move on. I rode to Mojkovak and I then took the road along a gorge to Durdevica Tara Bridge which was quite spectacular.
 
 {{< fig-res res="13-88.jpg" >}}
 
 {{< fig-res res="14-88.jpg" >}}
 
-As I was photographing the bridge a thunderstorm rolled in over the hill on the road to Savnik, I decided to try and get over the hill before the rain fell but just before getting over the summit and avoiding the heavy rain the skies opened up on me. Before I had a chance to get my waterprooff trousers on I was soaked. Once over the summit and as i headed downhill, because of the rain, the temperature had quickly fallen from about 27 degrees to about 15 degrees. It was cold. I rode for about 20 miles but I was not getting warmer so I saw a hotel with the "Bikers Welcome" sign outside and decided to stop for the evening. The hotel was about 35 Euros but it had a pleasant outdoor terrace where I could sit and smoke my cigars whilst drining my coffee, if still alittle cold for the time of year.
+As I was photographing the bridge a thunderstorm rolled in over the hill on the road to Savnik, I decided to try and get over the hill before the rain fell but just before getting over the summit and avoiding the heavy rain the skies opened up on me. Before I had a chance to get my waterproof trousers on I was soaked. Once over the summit and as i headed downhill, because of the rain, the temperature had quickly fallen from about 27 degrees to about 15 degrees. It was cold. I rode for about 20 miles but I was not getting warmer so I saw a hotel with the "Bikers Welcome" sign outside and decided to stop for the evening. The hotel was about 35 Euros but it had a pleasant outdoor terrace where I could sit and smoke my cigars whilst drinking my coffee, if still a little cold for the time of year.
 
 {{< fig-res res="15-88.jpg" >}}
 

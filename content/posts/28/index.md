@@ -50,7 +50,7 @@ Descending the foothills of the Pyrenees the road I took wound through lots of t
 
 {{< fig-res res="11-28.jpg" >}}
 
-Whist riding in thei part of France I hit a section of an old Route National that had huge trees lining each side of the roadway, this was the norm when I first visited France in the 1980's but sadly now sections of road like this are now few and far between.
+Whist riding in that part of France I hit a section of an old Route National that had huge trees lining each side of the roadway, this was the norm when I first visited France in the 1980's but sadly now sections of road like this are now few and far between.
 
 {{< fig-res res="12-28.jpg" >}}
 
@@ -58,7 +58,7 @@ A few miles along this road I found a bike graveyard that I just had to stop and
 
 {{< fig-res res="13-28.jpg" >}}
 
-For me it was sad to see so many bikes discarded and appaerently not being worked on, I continuted to ride West until I arrived in Montpellier where I met up with my friend and set thereafter out to explore the city. I had passed it by a few times but I had never explore Montpellier before and I found it to be a lovely city to walk around in.
+For me it was sad to see so many bikes discarded and apparently not being worked on, I continued to ride West until I arrived in Montpellier where I met up with my friend and set thereafter out to explore the city. I had passed it by a few times but I had never explore Montpellier before and I found it to be a lovely city to walk around in.
 
 {{< fig-res res="14-28.jpg" >}}
 

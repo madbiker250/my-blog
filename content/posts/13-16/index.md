@@ -45,9 +45,9 @@ It was still bitterly cold but this road ran along the very picturesque South ba
 
 {{< fig-res res="11-13.jpg" >}}
 
-I rode South out of Vienna on the number 17. This was a very frustrating road to ride on as every few miles there was a major junction controlled by traffic lights and the road between these junctions was speed restricted to about 70 kph. This combination led to pretty slow progress for me as it lasted for about 20 or 25 kilometers. Once this cleared the road was slightly better and eventually I got on to the 54 and headed for Gratz and this part of the road was scenic and very suited to riding a bike. 
+I rode South out of Vienna on the number 17. This was a very frustrating road to ride on as every few miles there was a major junction controlled by traffic lights and the road between these junctions was speed restricted to about 70 kph. This combination led to pretty slow progress for me as it lasted for about 20 or 25 kilometres. Once this cleared the road was slightly better and eventually I got on to the 54 and headed for Gratz and this part of the road was scenic and very suited to riding a bike. 
 
-Again, staying off the motorways slowed my progress but that choice rewarded me with empty roads and great scenery and as I approached Gratz I stopped for petrol and coffee. By this time it was mid afternoon, however, the skies had been clouding over and by now it was getting darker. On checking the weather forecast I saw that the area that I was panning to stop in overnight, near Klagenfurt, would receive heavy rain the following day. So decided to bite the bullet and hit the motorway and push on in to Northern Italy to avoid the worst of the weather. The petrol station I had stopped at sold the Austrian Motorway vignette, so 7 Euros later I turned on to the motorway just outside Gratz and headed for Italy as the rain started to fall. As I rode over the border from Austria in to Italy a few hours later, it was becoming very dark and cloudy. This road would have been absolutley stunning in bright sunshine but I only caught the occassional glimpse of the surrounding mountains as the light faded and as I descended the pass in to the flat plain of Northern Italy. I eventually arrived in the city of Udine in the dark and in light rain. more than a little cold and tired.
+Again, staying off the motorways slowed my progress but that choice rewarded me with empty roads and great scenery and as I approached Gratz I stopped for petrol and coffee. By this time it was mid afternoon, however, the skies had been clouding over and by now it was getting darker. On checking the weather forecast I saw that the area that I was panning to stop in overnight, near Klagenfurt, would receive heavy rain the following day. So decided to bite the bullet and hit the motorway and push on in to Northern Italy to avoid the worst of the weather. The petrol station I had stopped at sold the Austrian Motorway vignette, so 7 Euros later I turned on to the motorway just outside Gratz and headed for Italy as the rain started to fall. As I rode over the border from Austria in to Italy a few hours later, it was becoming very dark and cloudy. This road would have been absolutely stunning in bright sunshine but I only caught the occasional glimpse of the surrounding mountains as the light faded and as I descended the pass in to the flat plain of Northern Italy. I eventually arrived in the city of Udine in the dark and in light rain. more than a little cold and tired.
 
 # Day 15
 
@@ -61,7 +61,7 @@ I stopped nearby and examined the bike but he did not return. As there appeared 
 
 # Day 16
 
-It was sunny and but cold when I set off but the roads were getting twistier and the area less urbanised as I headed South towards Cueno and the Maratime Alps. En route I stopped to take a photo of a small fort or castle that sat on a hiltop near to the road.
+It was sunny and but cold when I set off but the roads were getting twistier and the area less urbanised as I headed South towards Cueno and the Maratime Alps. En route I stopped to take a photo of a small fort or castle that sat on a hilltop near to the road.
 
 {{< fig-res res="04-13.jpg" >}}
 
@@ -85,7 +85,7 @@ Riding the smooth twisty roads from the tunnel to the sea and after crossing the
 
 {{< fig-res res="09-13.jpg" >}}
 
-After a quick coffe and cigar break I made an unremarkable motorway jaunt from there to Aix En Provence where I had arranged to meet and spend the evening with a friend. However, what I did find in the city was a beautiful Laverda Jota 180 in the window of a local bike shop.
+After a quick coffee and cigar break I made an unremarkable motorway jaunt from there to Aix En Provence where I had arranged to meet and spend the evening with a friend. However, what I did find in the city was a beautiful Laverda Jota 180 in the window of a local bike shop.
 
 {{< fig-res res="10-13.jpg" >}}
 

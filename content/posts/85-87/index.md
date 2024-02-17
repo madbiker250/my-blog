@@ -10,7 +10,7 @@ tags:
 ---
 
 # Day 85
-So, after breakfast I headed West through the mountains in the direction of the Albanian border crossing at Lake Ohrid, however, as I was nearing the border I saw the dark clouds massing and just managed to get in to a petrol station before an enormous thunderstorm rolled in keeping me drinking coffee for nearly 2 hours untill it passed.
+So, after breakfast I headed West through the mountains in the direction of the Albanian border crossing at Lake Ohrid, however, as I was nearing the border I saw the dark clouds massing and just managed to get in to a petrol station before an enormous thunderstorm rolled in keeping me drinking coffee for nearly 2 hours until it passed.
 
 {{< fig-res res="01-85.jpg" >}}
 
@@ -23,8 +23,8 @@ All of the countries that I had visited since leaving have their own currencies 
 
 # Day 86
  
-I got up the next moring and I ate a breakfast of local cheese and some fig jam made by the owner's wife.
-Now, I don't really like figs but I have to say that this home made fig jam was absolutely delicious and once I had packed the bike and said my farewells to the hotel owner and his wife, I set off for the coastal city of Sarande. The road took me due South close to the Greek border before turning sharply North following the East side of a range of mountains before turning South again on the other side of the mountains to Sarande. From what I encountered I would say that Alabanian roads fall in to 2 broad categories, either long stretches of perfect tarmac or tarmac roads that have been unmaintained for so long that they have disintegrated in to rubble strewn obstacle courses. 
+I got up the next morning and I ate a breakfast of local cheese and some fig jam made by the owner's wife.
+Now, I don't really like figs but I have to say that this home made fig jam was absolutely delicious and once I had packed the bike and said my farewells to the hotel owner and his wife, I set off for the coastal city of Sarande. The road took me due South close to the Greek border before turning sharply North following the East side of a range of mountains before turning South again on the other side of the mountains to Sarande. From what I encountered I would say that Albanian roads fall in to 2 broad categories, either long stretches of perfect tarmac or tarmac roads that have been unmaintained for so long that they have disintegrated in to rubble strewn obstacle courses. 
  
 {{< fig-res res="03-85.jpg" >}}
 

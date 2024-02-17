@@ -12,7 +12,7 @@ The speed limits in France are 50 km/h (50 mph) in built up areas, 90 km/h (56 m
 
 The motorways are the A roads, the main non-motorway roads are the N roads, and the smaller main roads are the C roads.
 
-The C roads sometimes change their numbers without warning, so for example lets say that you are on the C413, without warning it suddendly becomes say the the C116 (not a real example) I do not know the reason for this however it is worthwhile keeping an eye on this when using these roads to avoid getting lost or confused.
+The C roads sometimes change their numbers without warning, so for example lets say that you are on the C413, without warning it suddenly becomes say the the C116 (not a real example) I do not know the reason for this however it is worthwhile keeping an eye on this when using these roads to avoid getting lost or confused.
 
 The motorways are all of a high standard but they are all toll roads, therefore travelling on these roads will cost you money.
 

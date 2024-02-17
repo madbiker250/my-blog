@@ -15,11 +15,11 @@ The Northwest of Spain where my friend lives reminds me of Scotland, it is a pla
 
 <!--more-->
 
- During the winter months, largely due to the amount of water in this area, a ground frost or mist usually lingers till about 10 o'clock in the morning until the sun disposes of it.
+During the winter months, largely due to the amount of water in this area, a ground frost or mist usually lingers till about 10 o'clock in the morning until the sun disposes of it.
 
  {{< fig-res res="02-gal.jpg" >}}
 
- However much I may like to think that this place resembles Scotland it is most definitely does not and I am glad of that. The cleanliness of the village, the politeness of the inhabitants, and the absence of anti social individuals attests to this fact.
+However much I may like to think that this place resembles Scotland it is most definitely does not and I am glad of that. The cleanliness of the village, the politeness of the inhabitants, and the absence of anti social individuals attests to this fact.
 
 {{< fig-res res="03-gal.jpg" >}}
 
@@ -31,10 +31,10 @@ The local people where my friend lives are in the main are very welcoming of for
 
 {{< fig-res res="05-gal.jpg" >}}
 
-However, my days there all too quickly came to and end and I as I stated in my prevous post I have temporarily returned to Scotland in order to get rid of a final few anchors. 
+However, my days there all too quickly came to and end and I as I stated in my previous post I have temporarily returned to Scotland in order to get rid of a final few anchors. 
 
 Having been back in Scotland for a couple of weeks now, I realise that the decision that I have made to permanently leave this country is the correct one. I know that for some people I am merely doing what so many other people before me have done in that I perhaps see greener grass on the other side of the fence and most of those who I have told of my intentions are adamant that I will climb over only to find that it was not the case and have to return home.
 
 For me, trying to explain my reasons for leaving to such people is a pointless exercise. The lack of comprehension on their faces when I explain to them that there is more to life than the acquisition of wealth or possessions almost makes me laugh if it were not so sad.
 
-In my opinon time is the only valuable commodity that any of us ever really have and only fools squander it.
+In my opinion time is the only valuable commodity that any of us ever really have and only fools squander it.

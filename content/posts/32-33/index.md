@@ -47,7 +47,7 @@ My destination was Gliwice where I had agreed to help coach a team for a few wee
 
 # POSTSCRIPT
 
-Although I was staying in Gliwice for a few weeks,whilst I was there I managed to do some away days to Opole, Wroclaw, and Chestohowa and I took some photgraphs of these Polish cites. 
+Although I was staying in Gliwice for a few weeks,whilst I was there I managed to do some away days to Opole, Wroclaw, and Chestohowa and I took some photographs of these Polish cites. 
 
 {{< fig-res res="09-31.jpg" >}}
 

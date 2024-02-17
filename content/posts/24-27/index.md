@@ -12,13 +12,13 @@ tags:
 
 # Day 24
 
-After saying my goodbyes to my friends in Alvor I headed West. Riding along the N125 I passed by Faro and continued untill I had to join the motorway to cross the border in to Spain. I then continued on the A49 from the border, circumventing Seville and headed South on the N4 and A381 till I eventually reached Gibraltar.
+After saying my goodbyes to my friends in Alvor I headed West. Riding along the N125 I passed by Faro and continued until I had to join the motorway to cross the border in to Spain. I then continued on the A49 from the border, circumventing Seville and headed South on the N4 and A381 till I eventually reached Gibraltar.
 
 {{< fig-res res="01-24.jpg" >}}
 
 <!--more-->
 
- Once there I was disappointed as it was nothing like I had expected it to be and the only positive thing that I have to say about Gibraltar was the price of petrol at only 85 cents per liter. I don't really know what I was expecting but it seemed very cluttered, almost industrial in nature, so after a quick circuit it was back across the border and back in to Spain where I found a reasonable motel room for under 25 Euros for the night. 
+ Once there I was disappointed as it was nothing like I had expected it to be and the only positive thing that I have to say about Gibraltar was the price of petrol at only 85 cents per litre. I don't really know what I was expecting but it seemed very cluttered, almost industrial in nature, so after a quick circuit it was back across the border and back in to Spain where I found a reasonable motel room for under 25 Euros for the night. 
 
  # Day 25
 

@@ -16,7 +16,7 @@ The motorways signs are in Green, the SP road signs are in Blue, and signs for t
 
 The motorways are all of a high standard but they are all toll roads and they are very expensive to use, they cost about double of what they cost in France and Spain to go a similar distance.
 
-Italy is also famous for it's Alpine passes so there is not much else to say about the Italian roads as far as biking goes except that some of the coastal roads South of Rome have specatular views.
+Italy is also famous for it's Alpine passes so there is not much else to say about the Italian roads as far as biking goes except that some of the coastal roads South of Rome have spectacular views.
 
 Petrol is usually about 30 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.90 Euros per litre.
 

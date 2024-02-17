@@ -26,11 +26,11 @@ Needless to say my journey that day through the French Alps was nothing short of
 
 {{< fig-res res="04-29.jpg" >}}
 
-I had booked a room in a remote Gite but on arrival I found a notice in the window saying that it was closed. I managed to raise the occupant from a drunken stupor and he told me that there was no water due to a plumbing problem. When I asked him in my limited French about alternative accommodation, he looked at me, shrugged his shoulders, took a large swing from his bottle of wine and closed the door. I eventually found an alternative about 20 miles away and as I headed there I got caught in a massive thunderstorm so by the time I arrived at the place I was soaking wet. It was a ski lodge with lots of people staying there and it was a tad pricy at 50 Euros for a night without breakfast. However, it was warm and dry and I settled down for the night as the rain continued to fall.
+I had booked a room in a remote Gite but on arrival I found a notice in the window saying that it was closed. I managed to raise the occupant from a drunken stupor and he told me that there was no water due to a plumbing problem. When I asked him in my limited French about alternative accommodation, he looked at me, shrugged his shoulders, took a large swing from his bottle of wine and closed the door. I eventually found an alternative about 20 miles away and as I headed there I got caught in a massive thunderstorm so by the time I arrived at the place I was soaking wet. It was a ski lodge with lots of people staying there and it was a tad pricey at 50 Euros for a night without breakfast. However, it was warm and dry and I settled down for the night as the rain continued to fall.
 
 # Day 30
 
-It had rained all night and although it was now lighter, it was still falling when I departed. However, as I headed for Les Deux Alpes the skies cleared. When I arrived at Les Deux Alpes it took me a few minutes to find the unpaved dirt road that led to the summit but once I did I scooted up it and very quickly the town disappeared as the altitude increased. Fully loaded, the bike easilly climbed up the road which has numerous steep inclines and hairpins. 
+It had rained all night and although it was now lighter, it was still falling when I departed. However, as I headed for Les Deux Alpes the skies cleared. When I arrived at Les Deux Alpes it took me a few minutes to find the unpaved dirt road that led to the summit but once I did I scooted up it and very quickly the town disappeared as the altitude increased. Fully loaded, the bike easily climbed up the road which has numerous steep inclines and hairpins. 
 
 {{< fig-res res="05-29.jpg" >}}
 
@@ -58,11 +58,11 @@ On the other side of the pass I headed for Aosta in Italy where I found a great 
 
 # Day 31
 
-The next day I decided to transverse three of the major Alpine passes in one day. The first one being, the Great St Bernard pass was just North of Aosta. The last time that I had been here I was forced to take the tunnel but not this time and despite some rain and low cloud I managed to get to the top but it was still clouded over and consequently no spectacular photgraphs from the summit. Then dropping down towards Martigny in Switzerland I headed for Gletsch at the base of the Grimsel pass.
+The next day I decided to transverse three of the major Alpine passes in one day. The first one being, the Great St Bernard pass was just North of Aosta. The last time that I had been here I was forced to take the tunnel but not this time and despite some rain and low cloud I managed to get to the top but it was still clouded over and consequently no spectacular photographs from the summit. Then dropping down towards Martigny in Switzerland I headed for Gletsch at the base of the Grimsel pass.
 
 {{< fig-res res="13-29.jpg" >}}
 
-I made a quick coffee and cigar stop  at a very traditional Swiss hotel and sat in the sun for a while to heat up a little. Then once refreshed, I headed forthe Grimsel pass.
+I made a quick coffee and cigar stop  at a very traditional Swiss hotel and sat in the sun for a while to heat up a little. Then once refreshed, I headed for the Grimsel pass.
 
 {{< fig-res res="14-29.jpg" >}}
 

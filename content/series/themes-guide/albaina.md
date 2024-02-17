@@ -12,7 +12,7 @@ series = ["Themes Guide"]
 
 The speed limits in Albania are 40 km/h (25 mph) within built-up areas, 80 km/h (50 mph) outside built-up areas, 90 km/h (56 mph) on Dual Carriageways, and 110 km/h (68 mph) on Motorways.
 
-In Albania the motorways are numbered and prefixed with the letter A, the non motoway main roads are numbered and prefixed with the letters SH, the smaller roads just have the names of the town that they lead to on the signs.
+In Albania the motorways are numbered and prefixed with the letter A, the non motorway main roads are numbered and prefixed with the letters SH, the smaller roads just have the names of the town that they lead to on the signs.
 
 Again like those in Serbia, the motorways signs have a Green background with White numbers for the motorway number, the non motorway main road signs have a Blue background with White numbers, and signs for the smaller roads have a Yellow background with Black names.
 

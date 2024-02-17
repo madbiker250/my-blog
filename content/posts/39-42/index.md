@@ -12,7 +12,7 @@ tags:
 
 # Day 39
 
-The next day I head off South from my hotel in Kompachy in the direction of Hungary and at about 12 noon I get to a small border crossing, as expexted there is no one on the slovakian side but I am surprised to see that there are two guards carrying AK47's on the Hungarian side. As I drive towards them I get stopped by the guards and they ask for my passport. They give it back to me and then hand me a form that they have just filled out. As I do not read Hungarian I ask what it is and they tell me it is permission to enter and leave the country so I put it in my passport, thank them and ride on to Budapest where I had booked accommodation for two nights.
+The next day I head off South from my hotel in Kompachy in the direction of Hungary and at about 12 noon I get to a small border crossing, as expected there is no one on the Slovakian side but I am surprised to see that there are two guards carrying AK47's on the Hungarian side. As I drive towards them I get stopped by the guards and they ask for my passport. They give it back to me and then hand me a form that they have just filled out. As I do not read Hungarian I ask what it is and they tell me it is permission to enter and leave the country so I put it in my passport, thank them and ride on to Budapest where I had booked accommodation for two nights.
 
 {{< fig-res res="01-39.jpg" >}}
 
@@ -28,7 +28,7 @@ It turned out because of the ongoing madness Hungary had closed it's borders to 
 
 {{< fig-res res="05-39.jpg" >}}
 
-As night fell I noticed something strange, all of the shops, bars, and restaurants were closing. Yes the madness had also reached here and there was a curfew in place for these premises. So once again, I wandered the streets of a different city, along with lots of other people, looking at closed bars and restaurants before heading back to my accomodation for the night.
+As night fell I noticed something strange, all of the shops, bars, and restaurants were closing. Yes the madness had also reached here and there was a curfew in place for these premises. So once again, I wandered the streets of a different city, along with lots of other people, looking at closed bars and restaurants before heading back to my accommodation for the night.
 
 The next day I did some more exploring.
 
@@ -58,9 +58,9 @@ I decided to spend the night in the city and found a nice small hotel for under 
 
 # Day 41
 
-As a biker I had heard of and been curious about one of the great roads of Europe, the Transfagarasan, so since I was In Romanaia I decided to go and see what all the fuss was about so the next day it was time to ride the famous Transfagarasan pass. I had seen many reports of riding this road by other bikers and most of them had raved about it being the one of the best biking roads in Europe so I was understandably looking forward to it. However, I can say that in my opinion it was no better than many of the Alpine passes that I rode over in France and Switzerland. 
+As a biker I had heard of and been curious about one of the great roads of Europe, the Transfagarasan, so since I was In Romania I decided to go and see what all the fuss was about so the next day it was time to ride the famous Transfagarasan pass. I had seen many reports of riding this road by other bikers and most of them had raved about it being the one of the best biking roads in Europe so I was understandably looking forward to it. However, I can say that in my opinion it was no better than many of the Alpine passes that I rode over in France and Switzerland. 
 
-In fact in a number of ways it not as good, at the top of the pass the traffic and number of stalls selling various stuff was unbelievable. I could hardly get through the number of parked cars, tour buses and throngs of people walking about the road. Too touristy for me by a long way. In fact it was so busy on the way up that I was unable to stop and take any pictures however, on the way down (South, as I had approached it from the North) it was less busy and I managed to get some taken. Also, the road surface was very, very, poor in comparison to the Alpine passes of Western Europe. However I did note that the madness seemd to be lessened at this altitude as dozens and dozens of people were all milling about on the road, no one wearing a mask and no one more than six inches away from the person next to them. Mind you the allegedl highly infectious and contagious alleged virus probably knows that it can't infect anyone above an altitude of 500 meters or alternatively no one there gave a damn. You decide! 
+In fact in a number of ways it not as good, at the top of the pass the traffic and number of stalls selling various stuff was unbelievable. I could hardly get through the number of parked cars, tour buses and throngs of people walking about the road. Too touristy for me by a long way. In fact it was so busy on the way up that I was unable to stop and take any pictures however, on the way down (South, as I had approached it from the North) it was less busy and I managed to get some taken. Also, the road surface was very, very, poor in comparison to the Alpine passes of Western Europe. However I did note that the madness seemed to be lessened at this altitude as dozens and dozens of people were all milling about on the road, no one wearing a mask and no one more than six inches away from the person next to them. Mind you the allegedly highly infectious and contagious alleged virus probably knows that it can't infect anyone above an altitude of 500 meters or alternatively no one there gave a damn. You decide! 
 
 {{< fig-res res="14-39.jpg" >}}
 
@@ -72,7 +72,7 @@ About half way down I started seeing stalls at the side of the road selling saus
 
 {{< fig-res res="17-39.jpg" >}}
 
-I bought a bag of sausages, a big cheese and a cup of coffee all for under 10 Euros. I couldn't resist and I ate some of the sausages and cheese on the spot, washed down with a cup of coffee, both were absolutely delicious. After my impromptu lunch I headed in the direction of the two Dracula's castles.One castle is the actual castle of Vlad the impaler and the other is the castle that Bram Stoker used as the setting for his Count Dracula novel. However, both locations were swarming with tourists so I decided to pass on visiting them but near to the castle of Vlad the Impaler, I turned a corner on a road running through a deep gorge only to find the road blocked by parked cars. I saw that lots of people were out of their cars and I presumed there had been some sort of accident. 
+I bought a bag of sausages, a big cheese and a cup of coffee all for under 10 Euros. I couldn't resist and I ate some of the sausages and cheese on the spot, washed down with a cup of coffee, both were absolutely delicious. After my impromptu lunch I headed in the direction of the two Dracula's castles. One castle is the actual castle of Vlad the impaler and the other is the castle that Brahm Stoker used as the setting for his Count Dracula novel. However, both locations were swarming with tourists so I decided to pass on visiting them but near to the castle of Vlad the Impaler, I turned a corner on a road running through a deep gorge only to find the road blocked by parked cars. I saw that lots of people were out of their cars and I presumed there had been some sort of accident. 
 
 Not so!
 

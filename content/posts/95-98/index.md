@@ -44,7 +44,7 @@ The next morning I set off to Reus where I was planning to stay with a friend fo
 
 {{< fig-res res="10-95.jpg" >}}
 
-The tube was cut and after checking the tyre for anything responsible for the puncture, I found that there was nothing. I had also done this when I got the first puncture in Italy but found nothing stuck in the tyre then either. However, I now had a dilemma and sat drinking a coffee thinking about how I could repair it as I did not have a puncture repair kit. I bought some tyre foam, the stuff meant for the emegency repair of tubeless car tyres, and tried that. Not only did it not work but now the tube and the inside of the tyre was coated with this sticky mess that I then had to wash off. I bought another coffee and sat again thinking about how to solve my dilema, and then inspiration struck.
+The tube was cut and after checking the tyre for anything responsible for the puncture, I found that there was nothing. I had also done this when I got the first puncture in Italy but found nothing stuck in the tyre then either. However, I now had a dilemma and sat drinking a coffee thinking about how I could repair it as I did not have a puncture repair kit. I bought some tyre foam, the stuff meant for the emergency repair of tubeless car tyres, and tried that. Not only did it not work but now the tube and the inside of the tyre was coated with this sticky mess that I then had to wash off. I bought another coffee and sat again thinking about how to solve my dilemma, and then inspiration struck.
 
 {{< fig-res res="11-95.jpg" >}}
 

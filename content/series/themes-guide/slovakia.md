@@ -18,6 +18,6 @@ The smaller roads are generally in much poorer states of repair than in other Eu
 
 I never saw any patrolling police cars and I never saw any speed cameras.
 
-Petrol was generally much cheaper than most countiries that use the Euro and at the time of writing was 1.30 Euros per litre.
+Petrol was generally much cheaper than most countries that use the Euro and at the time of writing was 1.30 Euros per litre.
 
 My favourite Slovakian roads were those in the North of the country in the Tatra mountain region.
