@@ -19,6 +19,6 @@ Reviews of any riding gear or accessories that I use during my trip are posted o
 
 Any opinions and views expressed by me in this blog have been formed through personal experience and are expressed with the sole intention of providing accurate information about my travells in the places that I have ridden in during my trip or to provide an alternative perspective on biking in a crazy world. 
 
-I do not wish to offend anyone, intentionally or otherwise, however I am aware that some people may are more easily offended than others, therefore If any of the content of this website or the views expressed within are not to your liking, then please exercise your freedom of choice to go to another blog or website that better suits your particular tastes.
+I do not wish to offend anyone, intentionally or otherwise, however I am aware that some people may be more easily offended than others, therefore If any of the content of this website or the views expressed within are not to your liking, then please exercise your freedom of choice to go to another blog or website that better suits your particular tastes.
 
 I hope that you will find this blog entertaining and if you have any suggestions as to what content could be added to improve it then please use the email button at the bottom of this page to contact me.
