@@ -25,11 +25,11 @@ The hostel was cheap at $10 per night but one of the downsides of the place was 
 
 {{< fig-res res="05-99.jpg" >}}
 
-Anyway, once I had settled in at the hostel, a day or two later I took a ride along the coast road till I could go no further but to my disappointment I never saw the great beaches nor annything else worthwhile photographing, it was a very uninspiring trip and to add to make matters worse the road was full of potholes. 
+Anyway, once I had settled in at the hostel, a day or two later I took a ride along the coast road till I could go no further but to my disappointment I never saw the great beaches nor annything else worthwhile photographing, it was a very uninspiring trip and to make matters worse the road was full of potholes. 
 
 # Day 100
 
-When I rode into the town of Portobello a few days earlier I had seen that there were a couple of quite impressive old forts that sat on the shore. As I passed them on the bike I made a mental note to photograph them during my stay here, but once in the hostel I discovered that the local carnival was on in the town therefore I decided to postpone taking a couple of photos of the forts until I was on my way out of town. However on my last day as I was packing the bike to leave it started raining so I never stopped to do so therefore a photograph from the internet will have to suffice in this instance.
+When I rode into the town of Portobello a few days earlier I had seen that there were a couple of quite impressive old forts that sat on the shore. As I passed them on the bike I had made a mental note to photograph them during my stay here, but once in the hostel I discovered that the local carnival was on in the town therefore I decided to postpone taking a couple of photos of the forts until I was on my way out of town. However on my last day as I was packing the bike to leave it started raining so I never stopped to do so therefore a photograph from the internet will have to suffice in this instance.
 
 {{< fig-res res="11-99.jpg" >}}
 
