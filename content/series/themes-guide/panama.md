@@ -3,7 +3,7 @@ title = "Biking in Panama"
 date = 2024-03-18T14:53:00+01:00
 header_img = "img/panama.jpg"
 toc = true
-tags = ["slovenia"]
+tags = ["panama"]
 categories = ["Countries","Central America",]
 series = ["Themes Guide"]
 +++

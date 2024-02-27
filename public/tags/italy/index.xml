@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italy on OFF THE HAMSTER WHEEL</title>
-    <link>https://www.offthehamsterwheel.co.uk/tags/italy/</link>
+    <link>http://localhost:1313/tags/italy/</link>
     <description>Recent content in Italy on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Mar 2020 17:11:56 -0100</lastBuildDate>
-    <atom:link href="https://www.offthehamsterwheel.co.uk/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/italy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Days 13 to 16 February 2020</title>
-      <link>https://www.offthehamsterwheel.co.uk/posts/13-16/</link>
+      <link>http://localhost:1313/posts/13-16/</link>
       <pubDate>Fri, 20 Mar 2020 17:11:56 -0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/posts/13-16/</guid>
+      <guid>http://localhost:1313/posts/13-16/</guid>
       <description>&lt;h1 id=&#34;day-13&#34;&gt;Day 13&lt;a class=&#34;anchorjs-link&#34; href=&#34;#day-13&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Sometimes you just know that your plans will not work out and despite your best efforts everything turns to shit. In most cases, the reason for your plans going sideways is usually the actions of another person, and in my case things were no different.&lt;/p&gt;&#xA;&lt;p&gt;An asshole is an asshole and there is just no other way to say it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biking in Italy</title>
-      <link>https://www.offthehamsterwheel.co.uk/series/themes-guide/italy/</link>
+      <link>http://localhost:1313/series/themes-guide/italy/</link>
       <pubDate>Mon, 11 Nov 2019 16:53:30 +0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/series/themes-guide/italy/</guid>
+      <guid>http://localhost:1313/series/themes-guide/italy/</guid>
       <description>The speed limits in Italy are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways.&#xA;The motorways are the A roads, the main non-motorway roads are the SP roads, and the smaller main roads just have road names.&#xA;The motorways signs are in Green, the SP road signs are in Blue, and signs for the smaller roads are white.</description>
     </item>
     <item>
       <title>Spain to Poland 2019</title>
-      <link>https://www.offthehamsterwheel.co.uk/posts/spain-poland-2019/</link>
+      <link>http://localhost:1313/posts/spain-poland-2019/</link>
       <pubDate>Thu, 04 Jul 2019 16:21:46 -0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/posts/spain-poland-2019/</guid>
+      <guid>http://localhost:1313/posts/spain-poland-2019/</guid>
       <description>&lt;p&gt;On 16th April 2019 I left the home of my friend in Galicia for Poland where I intended to keep myself busy for a few months doing some coaching. Usually, when going from A to B I would take the fastest route, however, on this trip I wanted to try some alternatives to the fast but expensive toll motorways that are the norm in most of Europe now and see if I could still maintain some sort of schedule. Therefore, I started off by crossing Spain, passing the cites of Leon, Burgos and Soria using the extensive network of N class roads that exist as an alternative to the motorways.&lt;/p&gt;</description>
     </item>
   </channel>

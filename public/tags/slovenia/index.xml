@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slovenia on OFF THE HAMSTER WHEEL</title>
-    <link>https://www.offthehamsterwheel.co.uk/tags/slovenia/</link>
+    <link>http://localhost:1313/tags/slovenia/</link>
     <description>Recent content in Slovenia on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 14:53:00 +0100</lastBuildDate>
-    <atom:link href="https://www.offthehamsterwheel.co.uk/tags/slovenia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Biking in Panama</title>
-      <link>https://www.offthehamsterwheel.co.uk/series/themes-guide/panama/</link>
-      <pubDate>Mon, 18 Mar 2024 14:53:00 +0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/series/themes-guide/panama/</guid>
-      <description>The speed limits in Panama are 40 km/h (25 mph) in built up areas, 60 km/h (37 mph) outside built up areas, 80 km/h (50 mph) on dual carriageways and 100 km/h (62 mph) on certain sections of dual carriageways and Toll motorways.&#xA;In Panama there are only 3 Toll motorways. They are all in and around Panama city. The first 2 are the South Corridor and the North Corridor which form a ring road around Panama city.</description>
-    </item>
+    <lastBuildDate>Sun, 18 Sep 2022 10:53:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/slovenia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biking in Slovenia</title>
-      <link>https://www.offthehamsterwheel.co.uk/series/themes-guide/slovenia/</link>
+      <link>http://localhost:1313/series/themes-guide/slovenia/</link>
       <pubDate>Sun, 18 Sep 2022 10:53:00 +0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/series/themes-guide/slovenia/</guid>
+      <guid>http://localhost:1313/series/themes-guide/slovenia/</guid>
       <description>The speed limits in Slovenia are 50 km/h (31 mph) in built up areas, 90 km/h (56 mph) outside built up areas, 110 km/h (68 mph) on dual carriageways and 130 km/h (81 mph) on motorways.&#xA;In Slovenia the motorways are numbered and prefixed with the letter A, the non motorway main roads are numbered, the smaller roads have the name of the place that the road lead to on them.</description>
     </item>
     <item>
       <title>Spain to Poland 2019</title>
-      <link>https://www.offthehamsterwheel.co.uk/posts/spain-poland-2019/</link>
+      <link>http://localhost:1313/posts/spain-poland-2019/</link>
       <pubDate>Thu, 04 Jul 2019 16:21:46 -0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/posts/spain-poland-2019/</guid>
+      <guid>http://localhost:1313/posts/spain-poland-2019/</guid>
       <description>&lt;p&gt;On 16th April 2019 I left the home of my friend in Galicia for Poland where I intended to keep myself busy for a few months doing some coaching. Usually, when going from A to B I would take the fastest route, however, on this trip I wanted to try some alternatives to the fast but expensive toll motorways that are the norm in most of Europe now and see if I could still maintain some sort of schedule. Therefore, I started off by crossing Spain, passing the cites of Leon, Burgos and Soria using the extensive network of N class roads that exist as an alternative to the motorways.&lt;/p&gt;</description>
     </item>
   </channel>
