@@ -21,3 +21,5 @@ Romania does not use the Euro and Petrol at the time of writing it was about the
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 Romania has lots of great biking roads but my favourites are in the Transylvanian region.
+
+To buy a SIM card for a mobile phone all you need to is to go in to any mobile phone shop that sells prepaid SIM cards. No ID is required and when I did this the cost was around 5 Euros for one month of unlimited internet.

@@ -21,3 +21,5 @@ I never saw any patrolling police cars and I never saw any speed cameras.
 Petrol was generally much cheaper than most countries that use the Euro and at the time of writing was 1.30 Euros per litre.
 
 My favourite Slovakian roads were those in the North of the country in the Tatra mountain region.
+
+I did not buy a SIM card for a mobile phone whilst I was in Slovakia so I have no information about how to do this.

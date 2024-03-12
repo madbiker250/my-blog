@@ -25,3 +25,5 @@ Petrol is usually about 20 cents per litre more expensive on the motorways than 
 France has lots of speed cameras but a lot of them face forward and photograph the vehicle as it is approaching the camera, as bikes have no front number plates, any transgressors may not be identified. However, there are some that photograph vehicles from the rear so be warned.
 
 There are many great biking roads in France but one of my favourite roads is the N85, the "Route Napoleon" that runs between Grenoble and Cannes.
+
+I did not buy a SIM card for a mobile phone whilst I was in France so I have no information about how to do this.

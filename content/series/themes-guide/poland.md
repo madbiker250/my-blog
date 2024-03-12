@@ -21,3 +21,5 @@ There are some speed cameras and there are a lot partolling police cars on the m
 The Poland does not use the Euro but petrol was generally much cheaper than any country that uses the Euro and at the time of writing was the equivalent of 0.90 Euros per litre.
 
 My favourite Polish roads are those to the South of the country in the Tatra mountain region.
+
+To buy a SIM card for a mobile phone you need to go to a mobile phone service provider shop and you are required to produce your passport to buy the SIM card. When I did this the cost was around 10 Euros for one month of internet.

@@ -21,3 +21,5 @@ Switzerland is famous for it's Alpine passes so there is not much else to say ab
 Petrol is usually about 10 cents per litre more expensive on the motorways than on the other roads and at the time of writing it was about 1.90 Euros per litre.
 
 I do not remember seeing many speed cameras in Switzerland but there are a lot of police patrol cars on the motorways, these patrol cars regularly stop drivers to check that they have a Vignette allowing them to use the motorways. The fine for not having a vignette is way more than the cost of buying one so be warned.
+
+I did not buy a SIM card for a mobile phone whilst I was in Switzerland so I have no information about how to do this.

@@ -21,3 +21,5 @@ North Macedonia are not in the EU so they still have their national borders and 
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 North Macedonia has lots of great biking roads and most of these I found in the mountainous areas of the country. 
+
+I did not buy a SIM card for a mobile phone whilst I was in North Macedonia so I have no information about how to do this.

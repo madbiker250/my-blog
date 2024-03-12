@@ -21,3 +21,5 @@ I never saw any speed cameras and patrolling police cars I only saw on the motor
 The Czech Republic does not use the Euro but petrol was generally cheaper than Germany and at the time of writing was the equivalent of 1.30 Euros per litre.
 
 My favourite roads in the Czech Republic are those to the South of the country near to the Hungarian border.
+
+To buy a SIM card for a mobile phone all you need to is to go in to any small shop that sells prepaid SIM cards. These shops are mostly small grocery shops and they are everywhere. No ID is required and when I did this the cost was around 5 Euros for one month of internet.

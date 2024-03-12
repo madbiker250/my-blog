@@ -21,3 +21,5 @@ Petrol at the time of writing it was about 1.70 Euros per litre.
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 Greece has lots of great biking roads but my favourites are in the Peleponnese peninsula which is to the South West of Athens.
+
+To buy a SIM card for a mobile phone you need to go to a mobile phone service provider shop and you are required to produce your passport to buy the SIM card. When I did this the cost was around 20 Euros for one month of internet.

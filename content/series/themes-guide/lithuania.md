@@ -21,3 +21,5 @@ In was only in Lithuania for 2 days, to go from Poland to Vilnius and then to re
 Petrol at the time of writing it was about 1.30 Euros per litre.
 
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
+
+I did not buy a SIM card for a mobile phone whilst I was in Lithuania so I have no information about how to do this.

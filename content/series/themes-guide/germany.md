@@ -23,3 +23,5 @@ There are a lot of speed cameras and patrolling police cars everywhere in German
 Petrol was generally 20 cents more expensive per litre on the Autobahns and at the time of writing the cost elsewhere was 1.60 per litre. 
 
 My favourite German roads are in Bavaria in the Black Forest area. 
+
+I did not buy a SIM card for a mobile phone whilst I was in Germany so I have no information about how to do this.

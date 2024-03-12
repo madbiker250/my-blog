@@ -21,3 +21,5 @@ Petrol at the time of writing was about 1.50 Euros per litre.
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 Montenegro has lots of great biking roads and like North Macedonia, most of these I found in the inland mountainous areas of the country. The coastal road is very scenic however, it was full of tourist traffic when I was there and it took a long time to cover a few miles.
+
+I did not buy a SIM card for a mobile phone whilst I was in Montenegro so I have no information about how to do this.

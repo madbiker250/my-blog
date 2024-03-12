@@ -23,3 +23,5 @@ Petrol is usually about 30 cents per litre more expensive on the motorways than 
 I do not remember seeing many speed cameras in Italy nor a lot of police patrol cars on the motorways.
 
 My personal favourite Italian roads are those in and around the are of the Italian lakes but during peak holiday season they can be very congested.
+
+I did not buy a SIM card for a mobile phone whilst I was in Italy so I have no information about how to do this.

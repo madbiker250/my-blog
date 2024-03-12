@@ -27,3 +27,5 @@ A major difference in Spain is encountered when negotiating roundabouts. The law
 In practice on small roundabouts that only have 1 lane this is not a problem, however, on roundabouts with 2 or more lanes this can be a problem if you are not aware of this law.
 
 There are many great biking roads in Spain but one of my favourite roads is the N 120 that runs between Logrono and Vigo.
+
+To buy a SIM card for a mobile phone you need to go to a mobile phone retailer or service provider shop and you are required to produce your passport to buy the SIM card. When I did this the cost was around 5 Euros for one month of unlmited internet.

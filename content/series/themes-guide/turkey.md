@@ -21,3 +21,5 @@ Turkey are not in the EU so they still have their national borders and depending
 I saw any signs for average speed cameras on the motorway but I never saw any patrolling police vehicles.
 
 Turkey has lots of great biking roads but my experience of them is limited to the West of the country and all of the roads that I rode on were very good for bikes.
+
+To buy a SIM card for a mobile phone you need to go to a mobile phone service provider shop and you are required to produce your passport to buy the SIM card. When I did this the cost was around 10 Euros for one month of internet.

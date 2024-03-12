@@ -21,3 +21,5 @@ Bosnia are not in the EU so they still have their national borders and depending
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 My personal experience of biking in Bosnia was that it had very few roads that I enjoyed riding in. Only once I approached the border with Croatia did the roads get more to my liking. 
+
+I did not buy a SIM card for a mobile phone whilst I was in Bosnia so I have no information about how to do this.

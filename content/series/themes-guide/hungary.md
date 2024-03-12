@@ -21,3 +21,5 @@ Hungary is in the EU but they do not use the Euro and Petrol at the time of writ
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 Hungary is a mostly flat country therefore the roads were pretty boring to ride on for me. The only exception was when the road ran alongside a river.
+
+I did not buy a SIM card for a mobile phone whilst I was in Hungary so I have no information about how to do this.

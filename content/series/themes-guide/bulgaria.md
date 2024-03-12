@@ -21,3 +21,5 @@ Bulgaria does not use the Euro and Petrol at the time of writing it was about th
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 Bulgaria has lots of great biking roads but my favourites are in the South of the country in the area where they go skiing in the winter.
+
+To buy a SIM card for a mobile phone you need to go to a mobile phone supplier shop and you are required to produce your passport to buy the SIM card. When I did this the cost was around 10 Euros for one month of internet.

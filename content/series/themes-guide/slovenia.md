@@ -21,3 +21,5 @@ Petrol at the time of writing was about 1.50 Euros per litre.
 I never saw any signs speed cameras nor any patrolling police vehicles.
 
 My personal experience of biking in Slovenia is limited to 2 short visits, but most of the roads in the country that I rode on are very scenic.
+
+I did not buy a SIM card for a mobile phone whilst I was in Slovenia so I have no information about how to do this.

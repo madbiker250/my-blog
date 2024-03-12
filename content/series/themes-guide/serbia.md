@@ -21,3 +21,5 @@ Serbia are not in the EU so they still have their national borders and depending
 I never saw any signs for speed cameras and I never saw any patrolling police vehicles.
 
 My personal experience of biking in Serbia was that it had very few roads that I enjoyed riding in. Only once I approached the border with North Macedonia did the roads get more to my liking. 
+
+To buy a SIM card for a mobile phone all you need to is to go in to any small moblie phone shop that sells prepaid SIM cards. These shops are mostly mobile phone accessory retailers and they are everywhere. No ID is required and when I did this the cost was around 10 Euros for one month of internet.
