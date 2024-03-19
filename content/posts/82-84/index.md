@@ -9,6 +9,7 @@ tags:
 - poland
 - slovakia
 - hungary
+- macedonia
 ---
 
 # Day 82

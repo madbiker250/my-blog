@@ -6,8 +6,22 @@
     <description>Recent content in Categories on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2024 18:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 14:53:00 +0100</lastBuildDate>
     <atom:link href="https://www.offthehamsterwheel.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Central America</title>
+      <link>https://www.offthehamsterwheel.co.uk/categories/central-america/</link>
+      <pubDate>Mon, 18 Mar 2024 14:53:00 +0100</pubDate>
+      <guid>https://www.offthehamsterwheel.co.uk/categories/central-america/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Countries</title>
+      <link>https://www.offthehamsterwheel.co.uk/categories/countries/</link>
+      <pubDate>Mon, 18 Mar 2024 14:53:00 +0100</pubDate>
+      <guid>https://www.offthehamsterwheel.co.uk/categories/countries/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog</title>
       <link>https://www.offthehamsterwheel.co.uk/categories/blog/</link>
@@ -16,24 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Central America</title>
-      <link>https://www.offthehamsterwheel.co.uk/categories/central-america/</link>
-      <pubDate>Thu, 07 Mar 2024 18:30:00 +0000</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/categories/central-america/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Europe</title>
       <link>https://www.offthehamsterwheel.co.uk/categories/europe/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0500</pubDate>
       <guid>https://www.offthehamsterwheel.co.uk/categories/europe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Countries</title>
-      <link>https://www.offthehamsterwheel.co.uk/categories/countries/</link>
-      <pubDate>Sun, 18 Sep 2022 10:53:00 +0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/categories/countries/</guid>
       <description></description>
     </item>
   </channel>
