@@ -1,7 +1,7 @@
 +++
 title = "Biking in Costa Rica"
 date = 2024-04-05T14:53:00+01:00
-header_img = "img/panama.jpg"
+header_img = "img/costarica.jpg"
 toc = true
 tags = ["costa rica"]
 categories = ["Countries","Central America",]
