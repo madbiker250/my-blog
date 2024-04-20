@@ -27,3 +27,4 @@ When entering Costa Ricaou are required to purchase mandatory vehicle inurance a
 
 I bought the mandatory insurance and the TIP was issued to me for free. When apllying for the TIP you have to fill out a form in where you record your passport and vehicle details, you also have to specify what length of time you want the TIP to be valid for, I opted for 14 days. 
 
+https://globalviaruta27.com/inicio-english/
