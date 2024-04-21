@@ -78,7 +78,7 @@ Again I was asked for my passport, driving licence, my bike ownership document a
 
 However, then the tourist office guy who had a desk next to the TIP window snaffled me for my tourist tax. Then I went to the TIP window where again i was asked for my passport, driving licence, my bike ownership document and my CDF. Another 10 minutes of reading and looking at the computer passed and as I suspected the United Kingdom is called Reino Unido in Spanish so unless you know what to look for you wont find it under U on a Spanish language computer. Eventually i was asked to confirm my country was Reino Unido and when this happened I got my TIP.
 
-Then I went to the cashiers window which was the next one along from the TIP window and I paid for my vehicle fumigation and my TIP. Then outside the front door of the main building I had to buy insurance for the bike and thereafter I was free t legally enter Nicaragua.
+Then I went to the cashiers window which was the next one along from the TIP window and I paid for my vehicle fumigation and my TIP. Then outside the front door of the main building I had to buy insurance for the bike and thereafter I was free to legally enter Nicaragua.
 
 {{< fig-res res="12-112.jpg" >}}
 
