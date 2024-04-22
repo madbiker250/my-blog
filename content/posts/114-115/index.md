@@ -6,7 +6,7 @@ categories:
 - Central America
 tags:
 - nicaragua
-draft: true
+draft: false
 ---
 
 # Day 114
