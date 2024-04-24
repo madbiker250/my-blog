@@ -27,7 +27,7 @@ I was now stranded in 35 degree heat with no shade and only 1 litre of water.
 
 I sat for a while trying to figure out if there was anything that I could do but the heat was now getting to me as I had been exerting myself and sweating profusely for a while. Eventually I decided that I needed to get back to Puerto Cabeza so I flagged down a passing taxi but he could not help as he was going to pick someone up. I had now been sitting at the side of the road for about an hour when I saw a truck heading in the direction of the town.
 
-I flagged the truck down and asked the driver if he could take me and my bags in to town so that I could arrange a bike shop to come back and pick up the bike. The driver told me that I should nbot leave the bike unattended and offered to put the bike in the back of his truck. So the driver, his 3 helpers who were sitting in the back of the truck and I lifted my bike on to the truck which was carrying a load of sand.
+I flagged the truck down and asked the driver if he could take me and my bags in to town so that I could arrange a bike shop to come back and pick up the bike. The driver told me that I should not leave the bike unattended and offered to put the bike in the back of his truck. So the driver, his 3 helpers who were sitting in the back of the truck and I lifted my bike on to the truck which was carrying a load of sand.
 
 Once we got in to town the driver took me to a tyre repair shack that he knew and then the guys unloaded my bike so that I could get the puncture fixed.
 
