@@ -1,12 +1,12 @@
 ---
 title: "Day 116 April 2024"
-date: 2024-04-20T10:30:00-00:00
+date: 2024-04-23T17:30:00-00:00
 categories:
 - Blog
 - Central America
 tags:
 - nicaragua
-draft: true
+draft: false
 ---
 
 # Day 116
