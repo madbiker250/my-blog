@@ -1,12 +1,12 @@
 ---
 title: "Days 117 to 118 April 2024"
-date: 2024-04-23T08:30:00-00:00
+date: 2024-04-26T08:30:00-00:00
 categories:
 - Blog
 - Central America
 tags:
 - nicaragua
-draft: true
+draft: false
 ---
 
 # Day 117
@@ -21,13 +21,13 @@ I negotiated the roadworks with ease but I knew that as soon as I reached somewh
 
 {{< fig-res res="03-117.jpg" >}}
 
-I reached the town of Siuna about lunchtime and I decided to take a different road from there to the West coast rather than the one that I had previously used to get there. I took road number 5 and just outside the town it became a gravel road. It lasted for 60 miles! The scenery was quite spectacular but I seldom had a chance to look at it due to the more than occasional steep inclines and declines at the road wound its way through the mountains. 
+I reached the town of Siuna about lunchtime and I decided to take a different road from there to the West coast rather than the one that I had previously used to get there. I took road number 5 and just outside the town it became a gravel road. It lasted for 60 miles! The scenery was quite spectacular but I seldom had a chance to look at it due to the more than occasional steep inclines and declines as the road wound its way through the mountains. 
 
 {{< fig-res res="04-117.jpg" >}}
 
 {{< fig-res res="05-117.jpg" >}}
 
-There were also a few bridges over rivers without anything to stop a vehicle from running over the edge and down in to the river below. I did stop a couple of times however to take a few photos.
+There were also a few bridges over rivers without anything to stop a vehicle from running over the edge and down in to the river below. I did stop a couple of times however to take a few photos of the gravel road and one of the bridges over the river.
 
 {{< fig-res res="06-117.jpg" >}}
 
@@ -45,9 +45,7 @@ I had seen on the map that there was a small town called Corinto on a small peni
 
 {{< fig-res res="12-117.jpg" >}}
 
-The reason that I was so pleased was because until now I had not been able to find any cigars for sale in Costa Rica or the rest of Nicaragua. I asked the woman in the shop why this was so and apparently this is the only province in Nicaragua where they are freely available. So having purchased what I needed I retraced my steps and headed on my route for the coast.
-
-About an hour later I stopped at a roadside shack for a coffee. They were barbecuing meat so I had to have some, $4 for a plate of grilled pork and a coffee. 
+The reason that I was so pleased was because until now I had not been able to find any cigars for sale in Costa Rica or the rest of Nicaragua. I asked the woman in the shop why this was so and apparently this is the only province in Nicaragua where they are freely available. So having purchased what I needed I retraced my steps and headed on my route for the coast. About an hour later I stopped at a roadside shack for a coffee. They were barbecuing meat so I had to have some, $4 for a plate of grilled pork and a coffee. 
 
 {{< fig-res res="09-117.jpg" >}}
 
@@ -57,7 +55,7 @@ By the time I was approaching Managua it was about 5 pm and again I saw some foo
 
 {{< fig-res res="13-117.jpg" >}}
 
-I found a nice hotel for 3 nights for $89 
+I found a nice hotel in the centre of Managua and it cost me 3 nights for $89 
 
 {{< fig-res res="14-117.jpg" >}}
 
@@ -65,7 +63,9 @@ However, I did notice that in most of the street in the area where my hotel was 
 
 {{< fig-res res="15-117.jpg" >}}
 
-Once I got settled in I spent the evening on the balcony smoking some of my newly purchased Nicaraguan cigars and very nice they were too! I then spent the next couple of days doing some emails and finding some new relays for the bike. I also had plenty of time to walk about Managua and take in the sights and sounds of the city. I must say that I liked the feel of the place despite the massive police presence. As it is quite a small city, the place was very much quieter than Panama city or San Jose in Costa Rica, it was also very much cleaner than both of these other cities.
+Once I got settled in I spent the evening on the balcony smoking some of my newly purchased Nicaraguan cigars and very nice they were too! I then spent the next couple of days catching up with my blog posts and trying to find some new relays for the bike. 
+
+I also had plenty of time to walk about Managua and take in the sights and sounds of the city. I must say that I liked the feel of the place despite the massive police presence. As it is quite a small city, the place was very much quieter than Panama city or San Jose in Costa Rica, it was also very much cleaner than both of these other cities.
 
 {{< fig-res res="16-117.jpg" >}}
 
@@ -75,14 +75,16 @@ Once I got settled in I spent the evening on the balcony smoking some of my newl
 
 {{< fig-res res="19-117.jpg" >}}
 
-The main street running through the city to the fornt of lake Managua was not chocked with traffic and this helped give the city a very relaxed and pleasant atmosphere.
+The main street running through the city to the front of lake Managua was not clogged with traffic and this helped give the city a very relaxed and pleasant atmosphere.
 
 {{< fig-res res="20-117.jpg" >}}
 
-In the middle of a roandabout in the main road was a giant image of Hugo Chavez.
+In the middle of a roundabout in the main road was a giant image of Hugo Chavez.
 
 {{< fig-res res="21-117.jpg" >}}
 
-One other odd thing is that a lot oif the taxis here in Nicaragua are a small 125cc motorbike with the front end chopped off and a small two wheeled carriage stuck on to the front of it. Very odd indeed.
+One other odd thing is that a lot of the taxis here in Nicaragua are a small 125cc motorbike with the front end chopped off and a small two wheeled carriage stuck on to the front of it. 
 
 {{< fig-res res="22-117.jpg" >}}
+
+Very odd indeed.
