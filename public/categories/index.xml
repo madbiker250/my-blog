@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OFF THE HAMSTER WHEEL</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.offthehamsterwheel.co.uk/categories/</link>
     <description>Recent content in Categories on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Apr 2024 08:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.offthehamsterwheel.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/categories/blog/</link>
+      <link>https://www.offthehamsterwheel.co.uk/categories/blog/</link>
       <pubDate>Fri, 26 Apr 2024 08:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Central America</title>
-      <link>http://localhost:1313/categories/central-america/</link>
+      <link>https://www.offthehamsterwheel.co.uk/categories/central-america/</link>
       <pubDate>Fri, 26 Apr 2024 08:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/central-america/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/categories/central-america/</guid>
       <description></description>
     </item>
     <item>
       <title>Countries</title>
-      <link>http://localhost:1313/categories/countries/</link>
+      <link>https://www.offthehamsterwheel.co.uk/categories/countries/</link>
       <pubDate>Wed, 24 Apr 2024 12:53:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/countries/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/categories/countries/</guid>
       <description></description>
     </item>
     <item>
       <title>Europe</title>
-      <link>http://localhost:1313/categories/europe/</link>
+      <link>https://www.offthehamsterwheel.co.uk/categories/europe/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0500</pubDate>
-      <guid>http://localhost:1313/categories/europe/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/categories/europe/</guid>
       <description></description>
     </item>
   </channel>

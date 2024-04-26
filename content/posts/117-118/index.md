@@ -37,7 +37,7 @@ Eventually the road turned in to tarmac and I made for the town of Matagalpa whe
 
 {{< fig-res res="08-117.jpg" >}}
 
-# Day 117
+# Day 118
 
 I had seen on the map that there was a small town called Corinto on a small peninsula on the West coast and according to the photos of the place on Google maps it looked quite nice, so I chose that as my destination for the day. I set off about 7 am but my mind was on obviously other things and I missed my turn to the coast. By the time I realised my mistake I had just entered Esteli province but fortune was smiling on me as I saw a cigar shop at the side of the road. 
 
