@@ -7,7 +7,7 @@ categories:
 tags:
 - nicaragua
 - honduras
-draft: true
+draft: false
 ---
 
 # Day 119
