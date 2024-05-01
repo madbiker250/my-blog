@@ -1,12 +1,11 @@
 +++
 title = "Biking in Nicaragua"
-date = 2024-04-24T12:53:00+01:00
+date = 2024-04-30T12:53:00+01:00
 header_img = "img/nicaragua.jpg"
 toc = true
 tags = ["nicaragua"]
 categories = ["Countries","Central America",]
 series = ["Themes Guide"]
-draft = true
 +++
 
 The speed limits in Nicaragua are 40 km/h (25 mph) or 60 km/h (37 mph) in built up areas, outside built up areas all roads are limited to 80 km/h (50 mph)

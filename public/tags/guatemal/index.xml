@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guatemal on OFF THE HAMSTER WHEEL</title>
+    <link>http://localhost:1313/tags/guatemal/</link>
+    <description>Recent content in Guatemal on OFF THE HAMSTER WHEEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Apr 2024 12:53:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/guatemal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biking in Guatemala</title>
+      <link>http://localhost:1313/series/themes-guide/guatemala/</link>
+      <pubDate>Tue, 30 Apr 2024 12:53:00 +0100</pubDate>
+      <guid>http://localhost:1313/series/themes-guide/guatemala/</guid>
+      <description>The speed limits in Guatemala are 40 km/h (25 mph) or 60 km/h (37 mph) in built up areas, outside built up areas all roads are limited to 80 km/h (50 mph)&#xA;All of the road signs for the main roads are Green with White writing and the local roads are Blue with White writing.&#xA;The main roads in Guatemla are either tarmac or concrete and they are all generally very good and reasonably well maintained.</description>
+    </item>
+  </channel>
+</rss>
