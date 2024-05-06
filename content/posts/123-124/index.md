@@ -6,7 +6,7 @@ categories:
 - Central America
 tags:
 - guatemala
-draft: true
+draft: false
 ---
 
 # Day 123
@@ -61,7 +61,7 @@ Just after I had taken the photos I heard the rumble of thunder and a few spots 
 
 # Day 124
 
-The previous evening as I had sat outside the hotel restaurant drinking my coffee and smoking my cigar, it was cold, cold enough that I could see my breath when I exhaled (not my cigar smoke!) I also had to put on an extra layer and that's the first time that I have had to do that since leaving Spain on this trip 5 months ago. Whilst sitting drinking coffe and smoking, I decided that my destination for the following day was to be Antigua Guatemala, the old capital city.
+The previous evening as I had sat outside the hotel restaurant drinking my coffee and smoking my cigar, it was cold, cold enough that I could see my breath when I exhaled (not my cigar smoke!) I also had to put on an extra layer and that's the first time that I have had to do that since leaving Spain on this trip 5 months ago. Whilst sitting drinking coffee and smoking, I decided that my destination for the following day was to be Antigua Guatemala, the old capital city.
 
 The reason for this choice of destination was that I had previously spoken with a Danish guy called Dennis that I become friends with whilst staying in Panama city and he had previously been to Guatemala. Dennis told me to avoid Guatemala city as there was nothing to see there and when he was there a year or so ago, there were a lot of robberies in the city, even during the day. 
 
@@ -126,6 +126,6 @@ Another thing that I have noticed here in Guatemala is that almost no one wears 
 
 {{< fig-res res="25-123.jpg" >}}
 
-The only bike issue that I experienced today was a small oil leak from the camshaft cover. This appears to have been a one off as it seems to have stopped, however, when I first got the bike I had a leak from here caused by faulty O ring seals. Hopefully it was just because of the high temperatures that the bike was running in that the leak occurred, however, once I get back to panama city I will check it out properly.
+The only bike issue that I experienced today was a small oil leak from the camshaft cover. This appears to have been a one off as it seems to have stopped, however, when I first got the bike I had a leak from here caused by faulty O ring seals. Hopefully it was just because of the high temperatures that the bike was running in that the leak occurred, however, once I get back to Panama city I will check it out properly.
 
 {{< fig-res res="22-123.jpg" >}}

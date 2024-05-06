@@ -1,9 +1,9 @@
 +++
 title = "Biking in Guatemala"
-date = 2024-04-30T12:53:00+01:00
+date = 2024-05-03T12:30:00+01:00
 header_img = "img/guatemala.jpg"
 toc = true
-tags = ["guatemal"]
+tags = ["guatemala"]
 categories = ["Countries","Central America",]
 series = ["Themes Guide"]
 draft = true
@@ -19,7 +19,8 @@ Petrol at the time of writing was about 1 US Dollar per litre.
 
 Guatemala has a very small police presence on the road and I never saw a police speed trap or a patrolling police car looking for speeding vehicles. However there are frequent police checkpoints on most of the major roads.
 
-I did not have to buy a SIM card in Guatemala as the one that I bought in Honduras still worked when I got in to Guatemala. 
+Initially I did not have to buy a SIM card in Guatemala as the one that I bought in Honduras still worked when I got in to Guatemala, however once I ran out of credit I was unable to top it up and I had to by a new one. I went to a shop with the mobile phone network signs outside and I bought one for 35 Quetzals (4.50 US Dollars) and it gave me internet for 15 days.
 
-No vehicle insurance was required for me to enter Guatemala. The TIP was issued to me for 18 US Dollars for 30 days. The only issue with this one was that when you purchase the TIP you can not pay in cash, you need to pay by bank transfer. For a foregin traveller this is almost impossible. To see the full story of my experience with this got to the blog post using the link below. 
+No vehicle insurance was required for me to enter Guatemala. The TIP was issued to me for 18 US Dollars for 30 days. The only issue with this one was that when you purchase the TIP you can not pay in cash, you need to pay by bank transfer. For a foreign traveller this is almost impossible. To see the full story of my experience with this got to the blog post using the link below. 
 
+https://offthehamsterwheel.co.uk/posts/121-122/
