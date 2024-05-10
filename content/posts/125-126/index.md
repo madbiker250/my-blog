@@ -82,7 +82,7 @@ I parked up at the El Salvadorian immigration and customs offices.
 
 The time was now 10 o'clock. I went to El Salvadorian immigration, the guy stamped my passport, wrote in the number of days that I had left in the C4-A area, and welcomed me to El Salvador. All done in under 5 minute and at no cost. The I went to the customs for my TIP. They needed my passport, original bike documents, plus one copy of each and my original cancelled Guatemalan TIP. 
 
-I was then given a form to fill out with the usual details, you know the details that were already in my documents,such as my passport number etc. I filled it out, signed it. and my bike was once again examined for the correct frame number. After that I was issued with my TIP, again at no cost, and that was it, all done and dusted in 30 minutes.
+I was then given a form to fill out with the usual details, you know the details that were already in my documents, such as my passport number etc. I filled it out, signed it, and my bike was once again examined for the correct frame number. After that I was issued with my TIP, again at no cost, and that was it, all done and dusted in 30 minutes.
 
 I stopped just after the El Salvadorian border for the usual photo and again a short distance down the road for the main sign to indicate that I was now in El Slavador.
 
@@ -100,7 +100,7 @@ The owner and his wife, Manuel and Marisha, were most welcoming and did everythi
 
 {{< fig-res res="17-125.jpg" >}}
 
-I then ventured out and bought a SIM card for 1 US Dollar and 4 US Dollars for a top up but for some reason it was not working properly and that I would probably have to buy another one so I realised that that was my fist job for the next day.
+I then ventured out and bought a SIM card for 1 US Dollar and 4 US Dollars for a top up but for some reason it was not working properly and I would probably have to buy another one so I realised that that was my fist job for the next day.
 
 In the courtyard of the hostel building 
 
@@ -128,4 +128,4 @@ Whilst staying at the hostel of my friend Manuel in Santa Ana in El Salvador, I 
 
 Apparently they were on a bus going from one part of Guatemala to another and Billy had just finished one of those small plastic wags full of water that they sell in here Central America. Billy put the empty bag on the floor between his feet and then a local woman who was sitting across the aisle from him, gestured for him to throw it out of the open bus window, naturally Billy declined to do so.
 
-This story together with what I saw with my own eyes whilst riding through Guatemala tell me something about the nature of the people who live there, namely that throwing litter out of a vehicle on to the road is a perfectly acceptable thing for them to do. No woder the place looks like a giant rubbish dump.
+This story together with what I saw with my own eyes whilst riding through Guatemala tells me something about the nature of the people who live there, namely that throwing litter out of a vehicle on to the road is a perfectly acceptable thing for them to do. No woder the place looks like a giant rubbish dump.

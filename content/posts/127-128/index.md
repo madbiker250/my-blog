@@ -1,6 +1,6 @@
 ---
 title: "Days 127 to 128 May 2024"
-date: 2024-05-05T18:00:00-00:00
+date: 2024-05-10T17:00:00-00:00
 categories:
 - Blog
 - Central America
@@ -11,12 +11,11 @@ draft: true
 
 # Day 127
 
-After spending 2 nights at ny accommodation in Santa Ana it was time to leave. Due to having to return to Panama to attend to some personal business, I have had to cut my Central America trip short. Now having no time to visit Mexico, it was time to start heading South towards Panama but not before taking another couple of days to explore El Salvador.
+After spending 2 nights at my accommodation in Santa Ana it was time to leave. Due to having to return to Panama to attend to some personal business, I have had to cut my Central America trip short. Now having no time to visit Mexico, it was time to start heading South towards Panama but not before taking another couple of days to explore El Salvador.
 
 I left Santa Ana at about 9 'o'clock in the morning heading generally South, and an hour later I had stopped for a coffee high above lake Coatepeque. The view was great except for the heat haze that restricted it somewhat.
 
 {{< fig-res res="02-127.jpg" >}}
-
 
 <!--more-->
 
@@ -36,9 +35,9 @@ It was difficult to get a clear view of the coast due to thick roadside vegetati
 
 {{< fig-res res="07-127.jpg" >}}
 
-I had planned to stay in San Salvador for a night but my friend Manuel, the owner of the hostel in Santa Ana, advised me not to bother as it was too overcrowded and there was not much to see or do there. Instead he recommended that I head for the town of Suchitot, North of the capital city, that sits on the South shore of a large lake formed by the Rio Largo.
+I had planned to stay in San Salvador for a night but my friend Manuel, the owner of the hostel in Santa Ana, advised me not to bother as it was too overcrowded and there was not much to see or do there. Instead he recommended that I head for the town of Suchitoto, North of the Capital city, that sits on the South shore of a large lake formed by the Rio Largo.
 
-So after finishing my coffees and cigar I set off for Suchitoto but to get there I had to drive through San Salvador. It was nuts! The city is quite big and it was full choked with traffic, the area near the centre where all the photogenic buildings are was being dug up so I gave that a miss and headed out of the city. Despite not stopping, it took me over an hour to get through the city and out the other side.
+So after finishing my coffees and cigar I set off for Suchitoto but to get there I had to drive through San Salvador. It was nuts! The city is quite big and it was choked with traffic, the area near the centre where all the photogenic buildings are was being dug up so I gave that a miss and headed out of the city. Despite not stopping, it took me over an hour to get through the city and out the other side.
 
 Fortunately Suchitoto was only about an hour's ride from San Salvador and by 3 o'clock I had reached my accommodation for the night, a small hostel that I got for 21 US Dollars for the night. Again it was very nice as I was the only guest, so I had the place to myself, and it had secure parking for the bike (guard dog included!)
 
@@ -59,7 +58,7 @@ Then I did my usual thing of exploring the town and taking a few photos of the p
 
 # Day 128
 
-My friend Miguel from the hostel had told me that there was a ferry crossing from Suchitoto to the other side of the lake so I had decided to take that as opposed to riding all the way around it by road. once I was packed I headed down from the town on a very steep cobbled road and eventually found myself at the edge of the lake. There was no actual car park or dock, just a bit of the lake shore where the ferry would dock against.
+My friend Miguel from the hostel had told me that there was a ferry crossing from Suchitoto to the other side of the lake so I had decided to take that as opposed to riding all the way around it by road. Once I was packed I headed down from the town on a very steep cobbled road and eventually found myself at the edge of the lake. There was no actual car park or dock, just a bit of the lake shore where the ferry would dock against.
 
 {{< fig-res res="15-127.jpg" >}}
 
@@ -85,8 +84,10 @@ This road was also populated with "Tumulos" but as I previously said, at least h
 
 {{< fig-res res="22-127.jpg" >}}
 
-I then dropped dwon of the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with xecure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it befor paying him. I don't usually carry these large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
+I then dropped down of the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with secure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it before paying him. I don't usually carry these large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
 
-So I trotted fo in to the town to find a bank and have a look around. I found a bank quite quickly and got what I needed, the I saw a barbers and as I badly needed a haircut I stopped in for a haircut and open razor shave for 6 US Dollars. The town was not that nice and all i did was take a quick photo of the cathedreal and then headed back to the hotel to plan my next day.
+So I trotted fo in to the town to find a bank and have a look around. I found a bank quite quickly and got what I needed, the I saw a barbers and as I badly needed a haircut I stopped in for a haircut and open razor shave for 6 US Dollars. The town was not that nice and all i did was take a quick photo of the cathedral and then headed back to the hotel to plan my next day.
 
-I planned to cross in to Honduras and then in to Nicaragua the following day, I didn't plan anything else for that day as my previous border crossing experiences had shown me that they can be an arduous and time consuming process.
+{{< fig-res res="23-127.jpg" >}}
+
+I planned to cross in to Honduras and then in to Nicaragua the following day, I didn't plan anything else for that day as my previous border crossing experiences had shown me that they can be both an arduous and time consuming process.

@@ -1,12 +1,11 @@
 +++
 title = "Biking in Guatemala"
-date = 2024-05-03T12:30:00+01:00
+date = 2024-05-10T17:30:00+01:00
 header_img = "img/guatemala.jpg"
 toc = true
 tags = ["guatemala"]
 categories = ["Countries","Central America",]
 series = ["Themes Guide"]
-draft = true
 +++
 
 The speed limits in Guatemala are 40 km/h (25 mph) or 60 km/h (37 mph) in built up areas, outside built up areas all roads are limited to 80 km/h (50 mph)
@@ -17,7 +16,7 @@ The main roads in Guatemla are either tarmac or concrete and they are all genera
 
 Petrol at the time of writing was about 1 US Dollar per litre. 
 
-Guatemala has a very small police presence on the road and I never saw a police speed trap or a patrolling police car looking for speeding vehicles. However there are frequent police checkpoints on most of the major roads.
+Guatemala has a very small police presence on the road and I never saw a police speed trap or a patrolling police car looking for speeding vehicles. However there are frequent police and military checkpoints on most of the major roads.
 
 Initially I did not have to buy a SIM card in Guatemala as the one that I bought in Honduras still worked when I got in to Guatemala, however once I ran out of credit I was unable to top it up and I had to by a new one. I went to a shop with the mobile phone network signs outside and I bought one for 35 Quetzals (4.50 US Dollars) and it gave me internet for 15 days.
 
