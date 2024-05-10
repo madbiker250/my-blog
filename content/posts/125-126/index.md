@@ -1,6 +1,6 @@
 ---
 title: "Days 125 to 126 May 2024"
-date: 2024-05-08T18:00:00-00:00
+date: 2024-05-09T18:00:00-00:00
 categories:
 - Blog
 - Central America
@@ -62,7 +62,9 @@ On looking at this photograph one would think that Guatemala is a beautiful plac
 
 {{< fig-res res="12-125.jpg" >}}
 
-I reached the Guatemalan side of the border shortly before 9 o'clock in the morning where I was directed to park my bike in the middle of the road outside the immigration and customs building 
+When I took the above photo I was about 20 miles or so away from the border. As Guatemala obviously has no mandatory helmet laws I decided to ride for a while without wearing my helmet as it would probably be the last time that I have the option to do so. The last time that I did this was in the 1980's in Sardinia where it was also legal to do so at that time. So, I rode with my helmet over my arm to the border and to be honest, I enjoyed much it more than I did when I last did it so many years ago but that's probably down to the fact that I was only doing a maximum for 50 MPH and not 70 MPH as I previously did without a helmet.
+
+Anyway, helmetless I reached the Guatemalan side of the border shortly before 9 o'clock in the morning where I was directed to park my bike in the middle of the road outside the immigration and customs building 
 
 {{< fig-res res="13-125.jpg" >}}
 
