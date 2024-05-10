@@ -7,7 +7,7 @@ categories:
 tags:
 - guatemala
 - el salvador
-draft: true
+draft: false
 ---
 
 # Day 125
