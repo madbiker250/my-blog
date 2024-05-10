@@ -59,8 +59,34 @@ Then I did my usual thing of exploring the town and taking a few photos of the p
 
 # Day 128
 
-My friend Miguel from the hostel had told me that there was a ferry crossing from Suchitoto to the other side of the lake so I had decided to take that as opposed to riding all the way around it by road. once I was packed i headed down from the town on a very steep cobbled road and eventually found myself at the edge of the lake. There was no actual car park or dock, just a bit of the lake shore where the ferry would dock against.
+My friend Miguel from the hostel had told me that there was a ferry crossing from Suchitoto to the other side of the lake so I had decided to take that as opposed to riding all the way around it by road. once I was packed I headed down from the town on a very steep cobbled road and eventually found myself at the edge of the lake. There was no actual car park or dock, just a bit of the lake shore where the ferry would dock against.
 
 {{< fig-res res="15-127.jpg" >}}
 
 {{< fig-res res="16-127.jpg" >}}
+
+I waited on the ferry crossing the lake and it arrived at just before 9 o'clock. I rode the bike on and waited. 
+
+{{< fig-res res="18-127.jpg" >}}
+
+The ferry was not going to leave with just me and my bike on it, so I had to wait until other people turned up to use it. About 45 minutes later a car appeared with 3 people in it and once that was reversed on to the ferry, it set off for the other side of the lake. 
+
+{{< fig-res res="19-127.jpg" >}}
+
+About 40 minutes later the ferry reached the other side of the lake.
+
+{{< fig-res res="20-127.jpg" >}}
+
+I then rode along the road that goes from Chalatenango to Osicala and although it was an enjoyable ride on this very twisty road, again the heat haze and the dense vegetation along the roadside limited what I could see. i did however pass over a bridge where a deep gorge had been cut in the land by the water flowing down from the mountains. It was pretty awesome to see the power of what just water can do to rocks when there is a lot of it.
+
+{{< fig-res res="21-127.jpg" >}}
+
+This road was also populated with "Tumulos" but as I previously said, at least here in El Salvador they are good enough to paint them and provide suitable advance warning so that I could slow down for them.
+
+{{< fig-res res="22-127.jpg" >}}
+
+I then dropped dwon of the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with xecure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it befor paying him. I don't usually carry these large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
+
+So I trotted fo in to the town to find a bank and have a look around. I found a bank quite quickly and got what I needed, the I saw a barbers and as I badly needed a haircut I stopped in for a haircut and open razor shave for 6 US Dollars. The town was not that nice and all i did was take a quick photo of the cathedreal and then headed back to the hotel to plan my next day.
+
+I planned to cross in to Honduras and then in to Nicaragua the following day, I didn't plan anything else for that day as my previous border crossing experiences had shown me that they can be an arduous and time consuming process.

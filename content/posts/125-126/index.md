@@ -30,7 +30,7 @@ The beach is very wide and there were lots of locals scooting up and down it on 
 
 {{< fig-res res="04-125.jpg" >}}
 
-A small seawater canal separated the beach from the town, unfortunately it was full of rubbish and it was bordered on one side by some shanty town dwellings. As I was taking the photograph and inhabitant of one of the shacks threw some rubbish in to the water.
+A small seawater canal separated the beach from the town, unfortunately it was full of rubbish and it was bordered on one side by some shanty town dwellings. As I was taking the photograph an inhabitant of one of the shacks threw some rubbish in to the water.
 
 {{< fig-res res="05-125.jpg" >}}
 
