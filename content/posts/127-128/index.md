@@ -59,3 +59,8 @@ Then I did my usual thing of exploring the town and taking a few photos of the p
 
 # Day 128
 
+My friend Miguel from the hostel had told me that there was a ferry crossing from Suchitoto to the other side of the lake so I had decided to take that as opposed to riding all the way around it by road. once I was packed i headed down from the town on a very steep cobbled road and eventually found myself at the edge of the lake. There was no actual car park or dock, just a bit of the lake shore where the ferry would dock against.
+
+{{< fig-res res="15-127.jpg" >}}
+
+{{< fig-res res="16-127.jpg" >}}
