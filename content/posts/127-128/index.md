@@ -41,9 +41,9 @@ I had planned to stay in San Salvador for a night but my friend Manuel, the owne
 
 San Salvador was nuts! Miles and miles of disorganised chaos! The city is quite big and it was choked with traffic, and thousands of pedestrians wandering in and about the stationary vehicles stuck in the traffic clogged roads. 
 
-The city also has a central tarmac road that is exclusively for use by the city's trams, but it was stuffed full of every type of vehicle (including my bike) except the for trams that are supposed to use it as drivers tried to negotiate the traffic congestion. 
+The city also has a central tarmac road that is exclusively for use by the city's trams, but it was stuffed full of every type of vehicle (including my bike) except the for trams that are supposed to use it, as drivers tried to negotiate the traffic congestion. 
 
-The area near the centre where all the photogenic buildings are was also being dug up with extensive road diversions etc. so I gave that a miss and headed out of the city. Despite not stopping, it took me over an hour to get through the city and out the other side. 
+The area near the city centre where all the photogenic buildings are was also being dug up with extensive road diversions etc. so I gave that a miss and headed out of the city. Despite not stopping, it took me over an hour to get through the city and out of the other side. 
 
 Fortunately Suchitoto was only about an hour's ride from San Salvador and by 3 o'clock I had reached my accommodation for the night, a small hostel that I got for 21 US Dollars for the night. Again it was very nice as I was the only guest, so I had the place to myself, and it had secure parking for the bike (guard dog included!)
 
@@ -82,7 +82,7 @@ About 40 minutes later the ferry reached the other side of the lake.
 
 {{< fig-res res="20-127.jpg" >}}
 
-I then rode along the road that goes from Chalatenango to Osicala and although it was an enjoyable ride on this very twisty road, again the heat haze and the dense vegetation along the roadside limited what I could see. i did however pass over a bridge where a deep gorge had been cut in the land by the water flowing down from the mountains.
+I then rode along the road that goes from Chalatenango to Osicala and although it was an enjoyable ride on this very twisty road, again the heat haze and the dense vegetation along the roadside limited what I could see. I did however pass over a bridge where a deep gorge had been cut in the land by the water flowing down from the mountains.
 
 {{< fig-res res="21-127.jpg" >}}
 
@@ -90,7 +90,7 @@ This road was also populated with "Tumulos" but as I previously said, at least h
 
 {{< fig-res res="22-127.jpg" >}}
 
-I then dropped down of the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with secure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it before paying him. I don't usually carry such large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
+I then dropped down off the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with secure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it before paying him. I don't usually carry such large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
 
 So I trotted off in to the town to find a bank and have a look around. I found a bank quite quickly and got what I needed, then I saw a barbers and as I badly needed a haircut I stopped in for a haircut and open razor shave for 6 US Dollars. The town was not that nice and all that I did was take a quick photo of the cathedral and then I headed back to the hotel to plan my next day.
 

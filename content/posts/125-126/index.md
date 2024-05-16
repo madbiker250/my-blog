@@ -68,7 +68,7 @@ Anyway, helmetless I reached the Guatemalan side of the border shortly before 9 
 
 {{< fig-res res="13-125.jpg" >}}
 
-I then went to immigration where I got cleared for exit to El Salvador in about 10 minutes at no cost. I then went to the Guatemalan customs to have the TIP for my bike cancelled and this was another dose of the border crossing pantomime. I needed to give them my passport and original bike documents plus copies of each, which I had. No problem. I had also to give them my driving licence, the Guatemalan TIP that I wanted cancelled, plus copies of each.
+I then went to immigration where I got cleared for exit from Guatemala in about 10 minutes at no cost. I then went to the Guatemalan customs to have the TIP for my bike cancelled and this was another dose of the border crossing pantomime. I needed to give them my passport and original bike documents plus copies of each, which I had. No problem. I had also to give them my driving licence, the Guatemalan TIP that I wanted cancelled, plus copies of each.
 
 They also wanted a copy of the page of my passport which had all my previous C4-A stamps in it. (Nicaragua, Honduras, and Guatemala) Since I did not have these copies I had to trot off to a small building that had the copy sign outside it. When I got there it was basically someone's house with a scanner and a photocopier in the kitchen.
 
@@ -124,8 +124,8 @@ I also wanted to have another look at the ABS rotor to see why the ABS problem w
 
 This is the reason why I try to do all my own maintenance on the bike, I have found over the years that most bike shops can't be trusted to do a proper job and it would appear that the same problem exists here in Central America.
 
-Whilst staying at the hostel of my friend Manuel in Santa Ana in El Salvador, I met and got in to conversation with a really nice English couple from Norfolk, Billy and Jemma, who had saved up to go on an extended trip in South and Central America. We exchanged stories about the places that we had been to and which ones that we liked and the usual stuff. However, when I mentioned to them that I had found Guatemala a really dirty country the told me the following story. 
+Whilst staying at the hostel of my friend Manuel in Santa Ana in El Salvador, I met and got in to conversation with a really nice English couple from Norfolk, Billy and Jemma, who had saved up to go on an extended trip in South and Central America. We exchanged stories about the places that we had been to and which ones that we liked and the usual stuff. However, when I mentioned to them that I had found Guatemala to be a really dirty country the told me the following story. 
 
 Apparently they were on a bus going from one part of Guatemala to another and Billy had just finished one of those small plastic wags full of water that they sell in here Central America. Billy put the empty bag on the floor between his feet and then a local woman who was sitting across the aisle from him, gestured for him to throw it out of the open bus window, naturally Billy declined to do so.
 
-This story together with what I saw with my own eyes whilst riding through Guatemala tells me something about the nature of the people who live there, namely that throwing litter out of a vehicle on to the road is a perfectly acceptable thing for them to do. No woder the place looks like a giant rubbish dump.
+This story together with what I saw with my own eyes whilst riding through Guatemala tells me something about the nature of the people who live there, namely that throwing litter out of a vehicle on to the road is a perfectly acceptable thing for them to do. No wonder the place looks like a giant rubbish dump.

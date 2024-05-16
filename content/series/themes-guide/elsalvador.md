@@ -6,21 +6,21 @@ toc = true
 tags = ["el salvador"]
 categories = ["Countries","Central America",]
 series = ["Themes Guide"]
-draft = true
+draft = false
 +++
 
-The speed limits in Guatemala are 40 km/h (25 mph) or 60 km/h (37 mph) in built up areas, outside built up areas all roads are limited to 80 km/h (50 mph)
+The speed limits in El Salvador are 40 km/h (25 mph) or 60 km/h (37 mph) in built up areas, outside built up areas all roads are limited to 80 km/h (50 mph)
 
 All of the road signs for the main roads are Green with White writing and the local roads are Blue with White writing. 
 
-The main roads in Guatemla are either tarmac or concrete and they are all generally very good and reasonably well maintained. There are older stretches of roads in the the more remote areas of the country and the condition of these can be patchy ranging from good to badly broken and potholed surfaces. 
+The main roads in El Salvador are either tarmac or concrete and they are all generally very good and reasonably well maintained. There are older stretches of roads in the the more remote areas of the country and the condition of these can be patchy but in general much better than in Guatemala. 
 
-Petrol at the time of writing was about 1 US Dollar per litre. 
+Petrol at the time of writing was about 1 US Dollar per litre and it is sold in US gallons.
 
-Guatemala has a very small police presence on the road and I never saw a police speed trap or a patrolling police car looking for speeding vehicles. However there are frequent police checkpoints on most of the major roads.
+El Salvador has a very small police presence on the road and I never saw a police speed trap or a patrolling police car looking for speeding vehicles. There is however a high military presence in the towns and cities.
 
-Initially I did not have to buy a SIM card in Guatemala as the one that I bought in Honduras still worked when I got in to Guatemala, however once I ran out of credit I was unable to top it up and I had to by a new one. I went to a shop with the mobile phone network signs outside and I bought one for 35 Quetzals (4.50 US Dollars) and it gave me internet for 15 days.
+To buy a SIM card in El Salvador you just go to any shop with the mobile phone network sign outside it, Then you buy a SIM card which needs your personal details to be entered in to the phone in order to activate it, I was fortunate to have a local help me with this process.
 
-No vehicle insurance was required for me to enter Guatemala. The TIP was issued to me for 18 US Dollars for 30 days. The only issue with this one was that when you purchase the TIP you can not pay in cash, you need to pay by bank transfer. For a foreign traveller this is almost impossible. To see the full story of my experience with this got to the blog post using the link below. 
+Once the SIM card has been activated you need to buy a top-up in order to get internet. I paid 1 US Dollar for the SIM card and a further 4 US Dollars for a top up and this gave me internet for 14 days.
 
-https://offthehamsterwheel.co.uk/posts/121-122/
+No vehicle insurance was required for me to enter El Salvador ad I could not buy any at the border even if I wished to do so. The TIP was issued to me for free for 30 days. I was able to cancel it when I left also at no cost.

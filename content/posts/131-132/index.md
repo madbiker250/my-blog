@@ -100,3 +100,7 @@ as I was nearing my accommodation I crossed another bridge but this time the wat
 so either this part of the country avoided the torrential rain or the hills above are mostly rocky with very little soil to wash in to the river, it was very picturesque in any case.
 
 I reached my accommodation at 3 o'clock in the afternoon just as it started to rain. The place that I had booked was a small "Hospedaje", which translates as Lodging, for 30 US Dollars for the night. I was one of the best places that I have stayed in so far.
+
+{{< fig-res res="18-131.jpg" >}}
+
+{{< fig-res res="19-131.jpg" >}}
