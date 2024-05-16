@@ -1,12 +1,12 @@
 ---
 title: "Days 127 to 128 May 2024"
-date: 2024-05-10T17:00:00-00:00
+date: 2024-05-16T09:00:00-00:00
 categories:
 - Blog
 - Central America
 tags:
 - el salvador
-draft: true
+draft: false
 ---
 
 # Day 127
@@ -23,7 +23,9 @@ I got back on the bike and headed South past the town of Sonsonate and then turn
 
 {{< fig-res res="03-127.jpg" >}}
 
-It was difficult to get a clear view of the coast due to thick roadside vegetation or the houses that were built with a great sea view, but on the occasions that I did catch a glimpse it was stunning. I stopped at a roadside cafe, perched on a cliff, that had great views of the ocean and beach below. I ordered a couple of coffees, I smoked a black market cigar that I had purchased in Santa Ana, and I sat absorbing the view for over an hour.
+It was difficult to get a clear view of the coast due to thick roadside vegetation or the houses that were built with a great sea view, but on the occasions that I did catch a glimpse it was stunning. 
+
+I stopped at a roadside cafe, perched on a cliff, that had great views of the ocean and beach below. I ordered a couple of coffees, I smoked a black market cigar that I had purchased in Santa Ana, and I sat absorbing the view for over an hour.
 \
 {{< fig-res res="04-127.jpg" >}}
 
@@ -35,9 +37,13 @@ It was difficult to get a clear view of the coast due to thick roadside vegetati
 
 {{< fig-res res="07-127.jpg" >}}
 
-I had planned to stay in San Salvador for a night but my friend Manuel, the owner of the hostel in Santa Ana, advised me not to bother as it was too overcrowded and there was not much to see or do there. Instead he recommended that I head for the town of Suchitoto, North of the Capital city, that sits on the South shore of a large lake formed by the Rio Largo.
+I had planned to stay in San Salvador for a night but my friend Manuel, the owner of the hostel in Santa Ana, advised me not to bother as it was too overcrowded and there was not much to see or do there. Instead he recommended that I head for the town of Suchitoto, North of the Capital city, that sits on the South shore of a large lake formed by the Rio Largo. So after finishing my coffees and cigar I set off for Suchitoto but to get there I had to drive through San Salvador. 
 
-So after finishing my coffees and cigar I set off for Suchitoto but to get there I had to drive through San Salvador. It was nuts! The city is quite big and it was choked with traffic, the area near the centre where all the photogenic buildings are was being dug up so I gave that a miss and headed out of the city. Despite not stopping, it took me over an hour to get through the city and out the other side.
+San Salvador was nuts! Miles and miles of disorganised chaos! The city is quite big and it was choked with traffic, and thousands of pedestrians wandering in and about the stationary vehicles stuck in the traffic clogged roads. 
+
+The city also has a central tarmac road that is exclusively for use by the city's trams, but it was stuffed full of every type of vehicle (including my bike) except the for trams that are supposed to use it as drivers tried to negotiate the traffic congestion. 
+
+The area near the centre where all the photogenic buildings are was also being dug up with extensive road diversions etc. so I gave that a miss and headed out of the city. Despite not stopping, it took me over an hour to get through the city and out the other side. 
 
 Fortunately Suchitoto was only about an hour's ride from San Salvador and by 3 o'clock I had reached my accommodation for the night, a small hostel that I got for 21 US Dollars for the night. Again it was very nice as I was the only guest, so I had the place to myself, and it had secure parking for the bike (guard dog included!)
 
@@ -64,7 +70,7 @@ My friend Miguel from the hostel had told me that there was a ferry crossing fro
 
 {{< fig-res res="16-127.jpg" >}}
 
-I waited on the ferry crossing the lake and it arrived at just before 9 o'clock. I rode the bike on and waited. 
+I waited on the ferry crossing the lake and it arrived at just before 9 o'clock. I rode the bike on to the ferry and I waited. 
 
 {{< fig-res res="18-127.jpg" >}}
 
@@ -76,7 +82,7 @@ About 40 minutes later the ferry reached the other side of the lake.
 
 {{< fig-res res="20-127.jpg" >}}
 
-I then rode along the road that goes from Chalatenango to Osicala and although it was an enjoyable ride on this very twisty road, again the heat haze and the dense vegetation along the roadside limited what I could see. i did however pass over a bridge where a deep gorge had been cut in the land by the water flowing down from the mountains. It was pretty awesome to see the power of what just water can do to rocks when there is a lot of it.
+I then rode along the road that goes from Chalatenango to Osicala and although it was an enjoyable ride on this very twisty road, again the heat haze and the dense vegetation along the roadside limited what I could see. i did however pass over a bridge where a deep gorge had been cut in the land by the water flowing down from the mountains.
 
 {{< fig-res res="21-127.jpg" >}}
 
@@ -84,10 +90,12 @@ This road was also populated with "Tumulos" but as I previously said, at least h
 
 {{< fig-res res="22-127.jpg" >}}
 
-I then dropped down of the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with secure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it before paying him. I don't usually carry these large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
+I then dropped down of the mountains in to the city of San Miguel where I had booked a small hotel for the night for 21 US Dollars with secure parking. The guy that ran the place was a bit of a pain in the ass as he refused to take a 100 US dollar bill and told me to go and change it before paying him. I don't usually carry such large notes but when I went to the ATM in Santa Ana that's what the machine gave me.
 
-So I trotted fo in to the town to find a bank and have a look around. I found a bank quite quickly and got what I needed, the I saw a barbers and as I badly needed a haircut I stopped in for a haircut and open razor shave for 6 US Dollars. The town was not that nice and all i did was take a quick photo of the cathedral and then headed back to the hotel to plan my next day.
+So I trotted off in to the town to find a bank and have a look around. I found a bank quite quickly and got what I needed, then I saw a barbers and as I badly needed a haircut I stopped in for a haircut and open razor shave for 6 US Dollars. The town was not that nice and all that I did was take a quick photo of the cathedral and then I headed back to the hotel to plan my next day.
 
 {{< fig-res res="23-127.jpg" >}}
 
-I planned to cross in to Honduras and then in to Nicaragua the following day, I didn't plan anything else for that day as my previous border crossing experiences had shown me that they can be both an arduous and time consuming process.
+By late that evening I had decided to cross in to Honduras and then cross in to Nicaragua the following day, I purposely didn't plan anything else for that day as my previous border crossing experiences had shown me that they can be both an arduous and time consuming process. 
+
+With having to make 2 border crossings in one day, El Slavador in to Honduras and then Honduras in to Nicaragua, and make a 130 mile ride through Honduras in between both borders, I suspected that I was in for a potentially stressful and possibly even entertaining time the next day at the border crossing pantomime show.

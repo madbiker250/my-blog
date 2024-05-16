@@ -63,7 +63,7 @@ url = "https://themadbiker.co.uk/"
 weight = 100
 
 [params]
-author = "The Madbbiker"
+author = "The Madbiker"
 description = "A Motorcycle Travel Blog"
 keywords = "blog,motorbike,personal"
 img_home = "img/main.jpg"
