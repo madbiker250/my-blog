@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OFF THE HAMSTER WHEEL</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.offthehamsterwheel.co.uk/tags/</link>
     <description>Recent content in Tags on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 May 2024 09:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 May 2024 17:30:00 +0100</lastBuildDate>
+    <atom:link href="https://www.offthehamsterwheel.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Salvador</title>
-      <link>http://localhost:1313/tags/el-salvador/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/el-salvador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/el-salvador/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Costa Rica</title>
-      <link>http://localhost:1313/tags/costa-rica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/costa-rica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nicaragua</title>
-      <link>http://localhost:1313/tags/nicaragua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nicaragua/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Honduras</title>
-      <link>http://localhost:1313/tags/honduras/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/honduras/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/el-salvador/</guid>
       <description></description>
     </item>
     <item>
       <title>Guatemala</title>
-      <link>http://localhost:1313/tags/guatemala/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/guatemala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/guatemala/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/guatemala/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rant</title>
-      <link>http://localhost:1313/tags/rant/</link>
+      <title>Honduras</title>
+      <link>https://www.offthehamsterwheel.co.uk/tags/honduras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rant/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/honduras/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nicaragua</title>
+      <link>https://www.offthehamsterwheel.co.uk/tags/nicaragua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/nicaragua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Costa Rica</title>
+      <link>https://www.offthehamsterwheel.co.uk/tags/costa-rica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/costa-rica/</guid>
       <description></description>
     </item>
     <item>
       <title>Panama</title>
-      <link>http://localhost:1313/tags/panama/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/panama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/panama/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/panama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rant</title>
+      <link>https://www.offthehamsterwheel.co.uk/tags/rant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/rant/</guid>
       <description></description>
     </item>
     <item>
       <title>France</title>
-      <link>http://localhost:1313/tags/france/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/france/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/france/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/france/</guid>
       <description></description>
     </item>
     <item>
       <title>Spain</title>
-      <link>http://localhost:1313/tags/spain/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/spain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spain/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/spain/</guid>
       <description></description>
     </item>
     <item>
       <title>Slovenia</title>
-      <link>http://localhost:1313/tags/slovenia/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/slovenia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/slovenia/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/slovenia/</guid>
       <description></description>
     </item>
     <item>
       <title>Croatia</title>
-      <link>http://localhost:1313/tags/croatia/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/croatia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/croatia/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/croatia/</guid>
       <description></description>
     </item>
     <item>
       <title>Bosnia</title>
-      <link>http://localhost:1313/tags/bosnia/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/bosnia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bosnia/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/bosnia/</guid>
       <description></description>
     </item>
     <item>
       <title>Montenegro</title>
-      <link>http://localhost:1313/tags/montenegro/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/montenegro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/montenegro/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/montenegro/</guid>
       <description></description>
     </item>
     <item>
       <title>Albania</title>
-      <link>http://localhost:1313/tags/albania/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/albania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/albania/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/albania/</guid>
       <description></description>
     </item>
     <item>
       <title>Macedonia</title>
-      <link>http://localhost:1313/tags/macedonia/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/macedonia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/macedonia/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/macedonia/</guid>
       <description></description>
     </item>
     <item>
       <title>Serbia</title>
-      <link>http://localhost:1313/tags/serbia/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/serbia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/serbia/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/serbia/</guid>
       <description></description>
     </item>
     <item>
       <title>Hungary</title>
-      <link>http://localhost:1313/tags/hungary/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/hungary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hungary/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/hungary/</guid>
       <description></description>
     </item>
     <item>
       <title>Poland</title>
-      <link>http://localhost:1313/tags/poland/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/poland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/poland/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/poland/</guid>
       <description></description>
     </item>
     <item>
       <title>Slovakia</title>
-      <link>http://localhost:1313/tags/slovakia/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/slovakia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/slovakia/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/slovakia/</guid>
       <description></description>
     </item>
     <item>
       <title>Germany</title>
-      <link>http://localhost:1313/tags/germany/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/germany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/germany/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/germany/</guid>
       <description></description>
     </item>
     <item>
       <title>Turkey</title>
-      <link>http://localhost:1313/tags/turkey/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/turkey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/turkey/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/turkey/</guid>
       <description></description>
     </item>
     <item>
       <title>Bulgaria</title>
-      <link>http://localhost:1313/tags/bulgaria/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/bulgaria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bulgaria/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/bulgaria/</guid>
       <description></description>
     </item>
     <item>
       <title>Romania</title>
-      <link>http://localhost:1313/tags/romania/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/romania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romania/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/romania/</guid>
       <description></description>
     </item>
     <item>
       <title>Greece</title>
-      <link>http://localhost:1313/tags/greece/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/greece/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/greece/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/greece/</guid>
       <description></description>
     </item>
     <item>
       <title>Lithuania</title>
-      <link>http://localhost:1313/tags/lithuania/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/lithuania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lithuania/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/lithuania/</guid>
       <description></description>
     </item>
     <item>
       <title>Czech Republic</title>
-      <link>http://localhost:1313/tags/czech-republic/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/czech-republic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/czech-republic/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/czech-republic/</guid>
       <description></description>
     </item>
     <item>
       <title>Switzerland</title>
-      <link>http://localhost:1313/tags/switzerland/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/switzerland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/switzerland/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/switzerland/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugal</title>
-      <link>http://localhost:1313/tags/portugal/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/portugal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portugal/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/portugal/</guid>
       <description></description>
     </item>
     <item>
       <title>Austria</title>
-      <link>http://localhost:1313/tags/austria/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/austria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/austria/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/austria/</guid>
       <description></description>
     </item>
     <item>
       <title>Italy</title>
-      <link>http://localhost:1313/tags/italy/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/italy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/italy/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/italy/</guid>
       <description></description>
     </item>
     <item>
       <title>Uk</title>
-      <link>http://localhost:1313/tags/uk/</link>
+      <link>https://www.offthehamsterwheel.co.uk/tags/uk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/uk/</guid>
+      <guid>https://www.offthehamsterwheel.co.uk/tags/uk/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: "Days 131 to 132 May 2024"
+title: "Days 131 to 133 May 2024"
 date: 2024-05-12T17:19:00-00:00
 categories:
 - Blog
@@ -10,7 +10,7 @@ tags:
 draft: true
 ---
 
-# Day 130
+# Day 131
 
 I set off from the city of Granada at about 8 o'clock in the morning and it was hot. I took the NIC-4 South in the direction of the border crossing at Pena Blanca. I stopped after about an hour for some breakfast at a roadside restaurant and then again about 20 miles from the border at a spot where the road ran close to the lake.
 
@@ -104,3 +104,35 @@ I reached my accommodation at 3 o'clock in the afternoon just as it started to r
 {{< fig-res res="18-131.jpg" >}}
 
 {{< fig-res res="19-131.jpg" >}}
+
+# Day 133
+
+I left my accommodation the following morning just after 10 o'clock and headed to the border with Panama at Paso Canoa which was about 30 miles away. I reached the border shortly before 11 o'clock but as Costa Rica and the rest of Central America are 1 hour behind Panama, it was nearly midday by Panamanian time.
+
+I parked up at the Costa Rican immigration and customs building which is a couple of hundered yards away from the actual border and I then went across the road to pay my 9 US Dollars exit fee from Costa Rica. Then I went to immigration with my passport and exit fee receipt and my passport got the exit stamp put in it.
+
+{{< fig-res res="20-131.jpg" >}}
+
+I then went to the customs to have my TIP cancelled, I was given a form to fill out with all the usual stuff, then I handed it back with my paper copy of my TIP. After a few minutes of bashing away on a keyboard the customs guy came out from behind the desk and went to look at my bike. On this occasion, no checking of numbers other than the registration number and that was it I was free to return to Panama. 
+
+I nparked up under the big canopy at the actual border and went to immigration. 
+
+{{< fig-res res="21-131.jpg" >}}
+
+There were no issues with my return to Panama and I got the entry stamp in my passport. Then I spoke to the customs guys who were standing under the canopy. They needed to see the permission to leave the country form that I had obtained from their colleagues in Panama city some 6 weeks previously. They scanned the form with a hand held device and shook their heads.
+
+Apparently because of the length of time I had been out of the country I needed to get my bike sprayed with posion (fumigated) before I could be let back in to the country. So I went over to the fumigation window and paid my 4 US Dollars, the guy then came out and sprayed the bike with some toxic shit.
+
+{{< fig-res res="22-131.jpg" >}}
+
+I then gave the customs guys with the hand held scanners my fumigation receipt and permmission to leave Panama form which they retained and that me. All done, and then I rode back in to Panama.
+
+I had arranged to visit some friends who were living in the town of Volcan which is very close to the border so I headed there. However, as I got in to the mountains on the way to where they were staying, a thunderstorm broke out. I sought refuge in a bus shelter from the torrential downpour which lasted for over an hour. 
+
+{{< fig-res res="23-131.jpg" >}}
+
+{{< fig-res res="24-131.jpg" >}}
+
+I waited till it was over and rode 5 miles further till another downpour had me hiding in a second bus shelter for about 30 minutes. Eventually I reached my destination where I stayed with my friends for a couple of nights before making the 300 mile long boring, speed trap infested, ride back to Panama city. 
+
+I arrived in Panama city early in the afternoon, thankfully dry as it had not rained during my ride, to bring this part of my RWT to a close until I head off to South America, hopefully at the end of this year.
