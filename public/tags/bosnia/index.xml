@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bosnia on OFF THE HAMSTER WHEEL</title>
-    <link>https://www.offthehamsterwheel.co.uk/tags/bosnia/</link>
+    <link>http://localhost:1313/tags/bosnia/</link>
     <description>Recent content in Bosnia on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Sep 2022 13:43:00 +0100</lastBuildDate>
-    <atom:link href="https://www.offthehamsterwheel.co.uk/tags/bosnia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bosnia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biking in Bosnia</title>
-      <link>https://www.offthehamsterwheel.co.uk/series/themes-guide/bosnia/</link>
+      <link>http://localhost:1313/series/themes-guide/bosnia/</link>
       <pubDate>Thu, 15 Sep 2022 13:43:00 +0100</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/series/themes-guide/bosnia/</guid>
+      <guid>http://localhost:1313/series/themes-guide/bosnia/</guid>
       <description>The speed limits in Bosnia are 50 km/h (31 mph) in built up areas, 80 km/h (50 mph) outside built up areas, and 130 km/h (81 mph) on motorways.&#xA;In Bosnia the motorways are numbered and prefixed with the letter A, the non motorway main roads are numbered and prefixed with the letter M, the smaller roads are numbered and prefixed with the letter R.&#xA;The Bosnian motorways and the non motorway main roads that I rode on are of a good standard, the condition of the smaller roads are generally good but there is always the odd exception.</description>
     </item>
     <item>
       <title>Days 91 to 94 September 2022</title>
-      <link>https://www.offthehamsterwheel.co.uk/posts/91-94/</link>
+      <link>http://localhost:1313/posts/91-94/</link>
       <pubDate>Mon, 05 Sep 2022 10:34:00 +0000</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/posts/91-94/</guid>
-      <description>&lt;h1 id=&#34;day-91&#34;&gt;Day 91&lt;a class=&#34;anchorjs-link&#34; href=&#34;#day-91&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;The next day I set off North from Sarajevo to Banja Luka which on arrival I found to be a very nondescript city, so deciding not to stop there, I then continued riding and headed West for the Croatian border.&lt;/p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://www.offthehamsterwheel.co.uk/posts/91-94/01-92.jpg&#34;/&gt; &#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/posts/91-94/</guid>
+      <description>&lt;h1 id=&#34;day-91&#34;&gt;Day 91&lt;a class=&#34;anchorjs-link&#34; href=&#34;#day-91&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;The next day I set off North from Sarajevo to Banja Luka which on arrival I found to be a very nondescript city, so deciding not to stop there, I then continued riding and headed West for the Croatian border.&lt;/p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/posts/91-94/01-92.jpg&#34;/&gt; &#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Days 88 to 90 August 2022</title>
-      <link>https://www.offthehamsterwheel.co.uk/posts/88-90/</link>
+      <link>http://localhost:1313/posts/88-90/</link>
       <pubDate>Fri, 26 Aug 2022 10:34:00 +0000</pubDate>
-      <guid>https://www.offthehamsterwheel.co.uk/posts/88-90/</guid>
-      <description>&lt;h1 id=&#34;day-88&#34;&gt;Day 88&lt;a class=&#34;anchorjs-link&#34; href=&#34;#day-88&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Once packed and on the road early the next morning, I headed in land for a bit before the road headed for the coast again.&lt;/p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://www.offthehamsterwheel.co.uk/posts/88-90/01-88.jpg&#34;/&gt; &#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/posts/88-90/</guid>
+      <description>&lt;h1 id=&#34;day-88&#34;&gt;Day 88&lt;a class=&#34;anchorjs-link&#34; href=&#34;#day-88&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Once packed and on the road early the next morning, I headed in land for a bit before the road headed for the coast again.&lt;/p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/posts/88-90/01-88.jpg&#34;/&gt; &#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
