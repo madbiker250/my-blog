@@ -6,9 +6,8 @@ categories:
 - Blog
 - Europe
 tags:
-- poland
-- slovakia
 - hungary
+- serbia
 - macedonia
 ---
 

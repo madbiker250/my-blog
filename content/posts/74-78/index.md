@@ -6,7 +6,10 @@ categories:
 - Blog
 - Europe
 tags:
-- hungary
+- spain
+- france
+- italy
+- austria
 - slovakia
 - poland
 ---

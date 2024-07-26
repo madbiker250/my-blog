@@ -6,6 +6,7 @@ categories:
 - Blog
 - Europe
 tags:
+- romania
 - hungary
 - slovakia
 - poland

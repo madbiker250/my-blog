@@ -3,7 +3,7 @@ title = "Biking in Bulgaria"
 date = 2020-10-15T17:35:00+01:00
 header_img = "img/bulgaria.jpg"
 toc = true
-tags = ["greece"]
+tags = ["bulgaria"]
 categories = ["Countries","Europe",]
 series = ["Themes Guide"]
 +++
