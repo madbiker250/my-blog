@@ -8,6 +8,10 @@ categories:
 tags:
 - montenegro
 - bosnia
+- croatia
+- slovenia
+- italy
+- france
 ---
 
 # Day 91
@@ -18,7 +22,7 @@ The next day I set off North from Sarajevo to Banja Luka which on arrival I foun
 
 <!--more-->
 
-Whilst the scenery was reasonably pleasant, like my time in Serbia, I found very little to hold my attention and like Serbia, it is not a country that I will return to. I crossed the border in to Croatia and I headed West to the coast. I stopped at the first reasonable sized town and I was able to get some Croatian money from an ATM. Luckily I had made better calculations than I had in Serbia so I had no Bosnian cash to try to get rid of, which was fortunate because yet again there were no money exchange facilities at the border crossing. A few weeks before setting off on the trip, I had encountered post in somewhere or other about a guy who ran a small operation hosting bikers in the spare rooms of his house, so having made contact with him I headed for his place. The guy used to run a motorbike shop in England and provided me with very comfortable accommodation for around 20 Euros a night. I stayed for 3 nights to get a bit of a break and to attend to an oil change and some minor tinkering here and there. 
+Whilst the scenery in Bosnia was reasonably pleasant, like my time in Serbia, I found very little to hold my attention and like Serbia, it is not a country that I will return to. I crossed the border in to Croatia and I headed West to the coast. I stopped at the first reasonable sized town and I was able to get some Croatian money from an ATM. Luckily I had made better calculations than I had in Serbia so I had no Bosnian cash to try to get rid of, which was fortunate because yet again there were no money exchange facilities at the border crossing. A few weeks before setting off on the trip, I had encountered post in somewhere or other about a guy who ran a small operation hosting bikers in the spare rooms of his house, so having made contact with him I headed for his place. The guy used to run a motorbike shop in England and provided me with very comfortable accommodation for around 20 Euros a night. I stayed for 3 nights to get a bit of a break and to attend to an oil change and some minor tinkering here and there. 
 
 Whilst staying at his house I asked him about routes to ride whilst in Croatia and he recommended that I stay away from the coast road as although it was very scenic, during the summer is is swamped with tourist traffic. The city of Zadar was about 40 miles away and he said that it was a nice place to go for visit so after the oil change I set off to see it. Zadar sits on the coast and true enough, as I approached it the traffic got worse. Getting in and out was relatively painless however, the old town is mainly pedestrianised and had a one way system that was very busy. I eventually found a place to park the bike and I went for a wander around the old town before settling down for a coffee and a spot of people watching.
 
