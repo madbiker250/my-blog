@@ -18,7 +18,7 @@ At the beginning of 2020 the world descended in to insanity and madness and, to 
 
 My tardiness at starting my trip caused me to get caught in Europe when the insanity started and thereafter as a result of many geopolitical changes and armed conflicts in many of the countries which I planned to travel to and through, any plans that I may have had to travel East from Europe vanished.
 
-I am now in Panama in Central America and here I am experiencing other forms of insanity, that of pedantic and parochial bureaucracy. As I have previously written about, having purchased a bike in Panama with the intention of travelling to other countries in the Americas, and at the end I set out to go to Costa Rica only to be turned back at the border due to not having the correct documentation.
+I am now in Panama in Central America and here I am experiencing other forms of insanity, that of pedantic and parochial bureaucracy. As I have previously written about, having purchased a bike in Panama with the intention of travelling to other countries in the Americas, I set out to go to Costa Rica only to be turned back at the border due to not having the correct documentation.
 
 A month on from being turned back at the border I now believe that I have obtained all of the necessary documentation however, it has been a long bureaucratic process which was full of visits to lots of different Government offices and with me having to make lots of different payments to obtain the necessary documentation.
 

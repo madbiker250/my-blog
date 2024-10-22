@@ -58,11 +58,12 @@ I decided to stop for a coffee and to let the bike cool down for a while so I pu
 
 Once refreshed I set off again North on the CA13 and whilst the ride to Flores was decent enough, because of the heat the scenery was obscured by a very thick haze, however the roads in Guatemala had so far been very good with the very occasional rough patch here and there so it was an easy, if a tad boring, ride.
 
-By about 2 o'clock in the afternoon I arrived at my destination for the night, a small hotel which I had booked the previous evening and I was cooked as by now the temperature was registering as 47 degrees Celsius. The hotel cost me about just under 200 Guatemalan Quetzals (27 US Dollars) and the first thing that I did was to have a cool shower. 
+By about 2 o'clock in the afternoon I arrived at my destination for the night, a small hotel which I had booked the previous evening. The hotel also had a secure parking area where I parked the bike for the night.
+I was cooked as by now the temperature was registering as 47 degrees Celsius. The hotel cost me about just under 200 Guatemalan Quetzals (27 US Dollars) and the first thing that I wanted to do was to have a cool shower. 
 
 {{< fig-res res="08-121.jpg" >}}
 
-The hotel also had a secure parking area where I parked the bike for the night.
+I got in to my room and headed for the shower. There was no running water in the room. I went down to the reception and the guy came up for a look to confirm that there was indeed no runnung water in my room. He then said that he would give me another room but... as the only onther rooms he had available had air conditioning, then this would be an extra $10 thank you very much! I proteseted but as it was made clear to me that it was a case of take it or leave it, I grudingly parted with the $10.
 
 {{< fig-res res="09-121.jpg" >}}
 

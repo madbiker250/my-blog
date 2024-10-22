@@ -53,9 +53,9 @@ The only place that I saw in Honduras that I liked was the beach at Puerto Corte
 
 Like Honduras, I had heard lot of stories about the country before riding through it and seeing it for myself. I had heard how beautiful Guatemala was and what a nice country it was to visit, however in my experience the country is a complete shit hole! 
 
-At the side of every road that I rode on both verges were filled with litter, obviously thrown from passing vehicles and this was evident even on very rural roads in the mountains where there was not great concentrations of population. 
+At the side of every road that I rode on both verges were filled with litter, obviously thrown from passing vehicles and this was evident even on very rural roads in the mountains where there were not great concentrations of population. 
 
-In much the same way as Nicaragua, the vast majority of the population outside of the cities and large towns, seem to live in wooden shacks at the side of the roads. The roads except for in the West of the country are very poorly maintained and they are also filled with speed bumps that are unmarked, and sometimes just around a corner where they can not be seen till it's too late to slow down.
+In much the same way as Nicaragua, the vast majority of the population outside of the cities and large towns, seem to live in wooden shacks at the side of the roads. The roads except for in the West of the country are very poorly maintained and they are also filled with speed bumps that are unmarked, and sometimes placed just around a corner where they can not be seen until it's too late to slow down.
 
 In Guatemala I got the same impression from the staff at nearly every place that I stayed in that I did in Costa Rica, a mix of resentment and disinterest, again this may be due to the large number of American tourists that visit the place. 
 
