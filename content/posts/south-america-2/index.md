@@ -19,7 +19,7 @@ I cleared immigration and customs with no problems and then I met my local conta
 
 I then sat about for the next six hours waiting for them to fill out and issue me with my temporary import permit (TIP). Whilst my contact did all of the speaking to the customs officers, the pacing up and down, and constantly giving them very frustrated looks, I just sat and let the boredom set in.
 
-I've gotten very used to all of this now and I no longer let it annoy me. As I was sitting twiddling my thumbs all of the other six bikers that I had travelled to the airport with in Panama slow trickled in to the customs office so I had a few conversations with them to pass the time. Suddenly at around 15:30 pm my contact told me to check my email and lo and behold my TIP had been sent to me and it was now time to head back over to the cargo terminal and collect my bike. 
+I've gotten very used to all of this now and I no longer let it annoy me. As I was sitting twiddling my thumbs all of the other six bikers that I had travelled to the airport with in Panama slow trickled in to the customs office so I had a few conversations with them to pass the time. Suddenly at around 3:30 pm my contact told me to check my email and lo and behold my TIP had been sent to me and it was now time to head back over to the cargo terminal and collect my bike. 
 
 {{< fig-res res="01-bo.jpg" >}}
 
