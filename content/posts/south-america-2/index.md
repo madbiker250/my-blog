@@ -51,4 +51,4 @@ As it was dark by the time I had reached my hotel I only ventured out of the hot
 
 {{< fig-res res="09-bo.jpg" >}}
 
-My plan is to spend about six weeks in Colombia before setting off for Ushuaia in Tierra del Fuego so when I spend any time in any major city or town in between my actual riding days I shall write a blog post just for that if there is enought to justify a post. So my next blog post will be a quick summary of my time in Bogota before setting off for Medellin.
+My plan is to spend about six weeks in Colombia before setting off for Ushuaia in Tierra del Fuego so when I spend any time in any major city or town in between my actual riding days I shall write a blog post just for that if there is enought to justify a post. So my next blog post will be a quick summary of my time in Bogota before setting off for Medellin and then the caribbean coast.
