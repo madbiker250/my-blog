@@ -73,4 +73,4 @@ I could not tell if the guy had jumped from one of the buildings next to the roa
 
 Just like in every other big city around the world, people kill other people for various reasons but that having been said I enjoyed my time in Bogota and I never saw anything that I would remotely consider as dangerous.
 
-The only other observation that I have about Bogota is that as it sits at an altitude of over 2,600 it was reasonably cool most of the time except during the day when the sun appeared.
+The only other observation that I have about Bogota is that as it sits at an altitude of over 2,600 meters above sea level it was reasonably cool most of the time except during the day when the sun appeared.
