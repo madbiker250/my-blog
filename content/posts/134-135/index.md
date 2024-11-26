@@ -58,7 +58,7 @@ I then stood and watched as the workmen cut the trees with chainsaws to get them
 
 Eventually about three hours after I had parked up the road was re-opened and I was on my way. It was like the Whacky Races for the first couple of miles. Naturally a large queue had built up on the other side of the landslide so as all of the people riding bikes swarmed away as fast as they could inevitably they met bikers coming the other way who were trying to get to the front of their queue. It was carnage, luckily there were no collisions, only lots of near misses.
 
-For about an hour afterwards one more than several occassions I rounded a bend or was approaching a bend only to be presented with a lorry being overtaken mid bend by another lorry obviously trying to make up the time lost due to the road closure.
+For about an hour afterwards on more than several occassions I rounded a bend or was approaching a bend only to be presented with a lorry being overtaken mid bend by another lorry obviously trying to make up the time lost due to the road closure.
 
 I know that riding towards two large lorries side by side approahching me on the bike at speed and taking up almost the whole road is quite a dangerous situation. However as I now encounter such situations on a regular basis it just somehow seems normal to just move over to the nearside of the road and let them get on with it as they pass me.
 
