@@ -41,7 +41,7 @@ Then I set about looking for somewhere to stay for the night but as the phone si
 
 Then in the town of San Juan De Uraba I found a cheap hotel for 50,000 pesos, about 11 USD for the night. Unfortunately the hotel did not have a secure parking place for the bike but the staff told me that the bike would be okay parked overnight in the street in front of the hotel as the nightshift staff would watch it for me.
 
-Once unpacked I walked down to the beach which was about a mile away from the town and I found a small bar and restaurant perched on the edge of the beach. I sat and had a local beer and a cigar as I looked out over the water and watched the sun set over the very South of Panama which was to my left. Very tranquil it was too.
+Once unpacked I walked down to the beach which was about a mile away from the town and I found a small bar and restaurant perched on the edge of a  small bluff overlooking the beach. I sat and had a local beer and a cigar as I looked out over the water and watched the sun set over the very South of Panama which was to my left. Very tranquil it was too.
 
 {{< fig-res res="07-136.jpg" >}}
 
@@ -61,7 +61,7 @@ Once I had watched the sun go down I headed back in to town for something to eat
 
 # Day 137
 
-The next day it was sunny and warm and as I prepared to leave I decided to take a photo of the hotel that I had stayed in the previous evening. As I took the photo a guy on a bike rode past and as you can see the guy was engrossed in reading something on his moblile phone whilst riding. This is a common occurrence in this part of the world and nothing about how peole ride or drive here surprises me now.
+The next day it was sunny and warm and as I prepared to leave I decided to take a photo of the hotel that I had stayed in the previous evening. As I took the photo a guy on a bike rode past and as you can see the guy was engrossed in reading something on his moblile phone whilst riding. This is a common occurrence in this part of the world and nothing about how people ride or drive here surprises me now.
 
 {{< fig-res res="14-136.jpg" >}}
 
@@ -79,9 +79,9 @@ An hours or so later I reached the main town of Monteria which was very busy, fu
 
 {{< fig-res res="18-136.jpg" >}}
 
-It took me a while to get out of the town but once on the road North to Cartagena the traffic disappeared and the road became much quieter and more enjoyable. As I was about an hour or so away from Cartagena I saw some heavy black clouds in front of me so I pulled off the road and sat in a small roadside restaurant for a coffee and a cigar. However, the owner was grilling some meat over a  fire so I couldn't resist and I had to have some. I had two coffees, a bottle of water, and a plate of grilled beef for 24,000 pesos which was about just over 5 USD.
+It took me a while to get out of the town but once on the road North to Cartagena the traffic disappeared and the road became much quieter and more enjoyable. By the time that I was about an hour or so away from Cartagena I saw some heavy black clouds over the road ahead of me in the distance so I pulled off the road and sat in a small roadside restaurant for a coffee and a cigar. However, the owner was grilling some meat over a  fire so I couldn't resist and I had to have some. I had two coffees, a bottle of water, and a plate of grilled beef for 24,000 pesos which was about just over 5 USD.
 
-By the time I had finished my after lunch cigar and coffees the thunderstorm had passed but before setting off on the bike again I decided to use the toilet. The toilet was very clean however it had a very unusual method for flushing away whatver was deposited in it. I just had to take a photo of what I saw.
+By the time I had finished my after lunch cigar and coffees the thunderstorm had passed but before setting off on the bike again I decided to use the facilities. The toilet was very clean however it had a very unusual method for flushing away whatver was deposited in it. I just had to take a photo of what I saw.
 
 {{< fig-res res="19-136.jpg" >}}
 
@@ -91,6 +91,6 @@ As I entered the outskirts of Cartagena I encountered another toll station and a
 
 {{< fig-res res="20-136.jpg" >}}
 
-I had some difficulty finding suitable accomodation in Cartagena online that had parking for my bike. I found a couple of places but they all appeared to be hostels and they were at the lower end of the price range. As there were no pictures of the exteriors I suspected that they were in not very nice areas but as it was getting late I decided that I would just take whatever was available. I got to the place that I had booked and eventually after about an hour the owner showed up only to tell me that the place was full but if I were to follow him then he had another place available nearby.
+I had some difficulty finding suitable accomodation in Cartagena online that had parking for my bike. I found a couple of places but they all appeared to be hostels and they were at the lower end of the price range. As there were no pictures of the exteriors I suspected that they were located in not very nice areas but as it was getting late I decided that I would just take whatever was available. I got to the place that I had booked and eventually after about an hour the owner showed up only to tell me that the place was full but if I were to follow him then he had another place available nearby.
 
-The first place that I had opted for was indeed in a not very nice neighbourhood so I was glad to escape from there. I followed the owner to the other place and arrived just as it was getting dark. This neighbourhood was only a slightly better place than where I had just been hanging around in but at least the bike and I would behind a locked gates and doors for the night. The place was very basic although clean enough (no insects or bad smells) but what can you expect in a big city for about 8 USD a night? I dedicded to stay behind bars for the rest of the evening and to leave exploring Caragena until daylight.
+The first place that I had opted for was indeed in a not very nice neighbourhood so I was glad to escape from there. I followed the owner to the other place and arrived just as it was getting dark. This neighbourhood was only a slightly better place than where I had just been hanging around in but at least the bike and I would behind a locked gates and doors for the night. The place was very basic although clean enough (no insects or bad smells) but what can you expect in a big city for about 7 USD a night? I dedicded to stay behind bars for the rest of the evening and to leave exploring Caragena until daylight the following day.
