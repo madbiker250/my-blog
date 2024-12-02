@@ -1,6 +1,6 @@
 ---
 title: "Cartagena"
-date: 2024-11-29T17:40:00-00:00
+date: 2024-12-02T11:40:00-00:00
 categories:
 - Blog
 - South America
@@ -12,7 +12,7 @@ draft: false
 
 # Impressions of Cartagena
 
-On my way in to Cartagena I had to ride through the city at around four o'clock in the afternoon and as one can imagine it was complete chaos. Where I was staying was close to the old fortress that is a major landmark and tourist attraction for the city but this area is also at the Northernmost part of the city so I had to ride through the the entire length of city to get to it.
+On my way in to Cartagena I had to ride through the city at around four o'clock in the afternoon and as one can imagine it was complete chaos. Where I was staying was close to the old fortress that is a major landmark and tourist attraction for the city but this area is also at the Northernmost edge of the city so I had to ride through the the entire length of city to get to it.
 
 However, now that I did not need to ride the bike to get anywhere I walked from the place where I was staying in to the old town within the walls of the fortress. This area reminded me a little of the Casco Viejo area of Panama City but it is much larger and much nicer. The whole area is enclosed by the old fortress walls along which I was able to walk to get an elevated view of the place. The walls are not particullarly high at around tweleve to fifteen feet.
 
@@ -82,7 +82,7 @@ Since I have been in Cartagena I have seen lots of people on bikes where the rid
  
  The logic of why anyone would want to ride a bike without basic protection such as a helemt, boots, and gloves escapes me but to get on the back of a bike with a local manaiac rider and pay for it! For me that is real insanity but I suppose these people do not have much money and for them it is either do this or walk. 
 
- As I walked back along the main road I could see that the place was very run down and very dirty, being full of rubbish that had been dumped everywhere and anywhere. I also saw a local supermarket with a lockable steel gate and a razor wire topped fence to prevent the place being pillaged during the night. Whenever I see these types of fortifications on a supermarket that is all I need to know about what the area is like. 
+ As I walked back along the main road I could see that the place was very run down and very dirty, being full of rubbish that had been dumped everywhere and anywhere. I also saw a local supermarket with a lockable steel gate and a razor wire topped fence to prevent the place being pillaged during the night whilst closed. Whenever I see these types of fortifications on a supermarket that is all I need to know about what the area is like. 
 
 {{< fig-res res="29-car.jpg" >}}
 
@@ -100,7 +100,7 @@ Eventually there were that many stalls on the pavement that all of the pedestria
 
 {{< fig-res res="33-car.jpg" >}}
 
-However as can be seen in the above photo whilst dodging the oncoming traffic I found a woman selling lemonade which appeared to have been made from fresh lemons. So I got a cup for 2000 Pesos and it was the best lemonade that I have ever tasted. As I continued to walk toward the sea front the market stalls disappeared and then suddenly I spotted a caslte which I had never noticed before.
+However as can be seen in the above photo whilst dodging the oncoming traffic I found a woman selling lemonade which appeared to have been made from fresh lemons. So I got a cup for 2000 Pesos, around 40 US Cents, and it was the best lemonade that I have ever tasted. As I continued to walk toward the sea front the market stalls disappeared and then suddenly I spotted a castle which I had never noticed before.
 
 {{< fig-res res="34-car.jpg" >}}
 
@@ -118,11 +118,11 @@ I don't normally do the touristy bit and visit such places as I have found them 
 
 {{< fig-res res="46-car.jpg" >}}
 
-On entering the castle paypoint area I had to pay 33,000 Pesos, just over 7 USD, to enter and the woman taking the money asked me for my name which I thought was rather strange. However I went with the flow and I gave her my name. The woman at the paypoint then told me to go to the turnstile where another woman was sitting and to give her my name. When I did this the woman at the turnstile then looked at her electronic tablet and located my name. Satisfied that I was indeed Thomas, she allowed me to enter the castle.
+On entering the castle paypoint area I had to pay 33,000 Pesos, just over 7 USD, to enter and the woman taking the money asked me for my name which I thought was rather strange. However I went with the flow and I gave her my name. The woman at the paypoint then told me to go to the turnstile where another woman was sitting and to give her my name. When I did this the woman at the turnstile then looked at her electronic tablet and located my name. Satisfied that I was indeed the person by the name of Tomas, she allowed me to enter the castle.
 
-If people can think of a complicated or an akward way to do simple things then Central and South America are the places where in my opinion such things are most likely to occur. Surely it would just have been simpler to put the paypoint next to the turnstile and open it when the money was handed over, but who am I to criticise the great business minds who run this place.
+If people can think of a complicated or an akward way to do simple things then Central and South America are the places where in my opinion such things are most likely to occur. Surely it would just have been simpler to put the paypoint next to the turnstile and open it when the money was handed over but who am I to criticise the great business minds who run the place.
 
-So I walked up the steep paths and uo in to the castle only to curse myself for doing so. Yes it was just the same as all of the other such places that I had been to so I just took some photos of Cartagena from the elevated position that the castle afforded me and then I hurried back down to escape the inevitable boredom which would have set in if I had stayed any longer.
+So I walked up the steep paths and uo in to the castle only to curse myself for doing so. Yes it was just the same as all of the other such places that I had previously been to. So I just took some photos of Cartagena from the elevated position that the castle afforded me and then I hurried back down to escape the inevitable boredom which would have set in if I had stayed any longer.
 
 {{< fig-res res="39-car.jpg" >}}
 
@@ -138,6 +138,6 @@ On my way back to my accomodation I spotted a small bike powered delivery truck.
 
 {{< fig-res res="44-car.jpg" >}}
 
-My overall impression of Cartagena is that apart from the tourist area inside the walls of the old fortress and the newly built area of Bocagrande, the city is a complete dump. Unfortunately, like all of the towns that I have so far visted on the Caribbean side of Central and South America, the city is a shit hole but because of its size it is the biggest one that I have yet been to.
+My overall impression of Cartagena is that apart from the tourist area inside the walls of the old fortress and the newly built area of Bocagrande, the city is a complete dump. Unfortunately, like all of the other towns and small cities that I have so far visted on the Caribbean side of Central and South America, the city is a shit hole but because of its size it is the biggest shit holes that I have yet been to.
 
 Once again I can not say that I saw anything that I would consider dangerous but on occasions and in some areas I felt that my presence, as an obvious tourist, was not welcomed. If anyone were to ask me about visiting Cartagena my advice would be to only stay in the tourist area within the walls of the old fortress, it will be expensive to stay there but at least it will be clean and relatively safe.
