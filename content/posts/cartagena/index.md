@@ -138,6 +138,6 @@ On my way back to my accomodation I spotted a small bike powered delivery truck.
 
 {{< fig-res res="44-car.jpg" >}}
 
-My overall impression of Cartagena is that apart from the tourist area inside the walls of the old fortress and the newly built area of Bocagrande, the city is a complete dump. Unfortunately, like all of the other towns and small cities that I have so far visted on the Caribbean side of Central and South America, the city is a shit hole but because of its size it is the biggest shit holes that I have yet been to.
+My overall impression of Cartagena is that apart from the tourist area inside the walls of the old fortress and the newly built area of Bocagrande, the city is a complete dump. Unfortunately, like all of the other towns and small cities that I have so far visted on the Caribbean side of Central and South America, the city is a shit hole but because of its size it is the biggest shit hole that I have yet been to.
 
 Once again I can not say that I saw anything that I would consider dangerous but on occasions and in some areas I felt that my presence, as an obvious tourist, was not welcomed. If anyone were to ask me about visiting Cartagena my advice would be to only stay in the tourist area within the walls of the old fortress, it will be expensive to stay there but at least it will be clean and relatively safe.
