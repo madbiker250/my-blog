@@ -80,7 +80,7 @@ Since I have been in Cartagena I have seen lots of people on bikes where the rid
 
 {{< fig-res res="28-car.jpg" >}}
  
- The logic of why anyone would want to ride a bike without basic protection such as a helemt, boots, and gloves escapes me but to get on the back of a bike with a local manaiac rider and pay for it! For me that is real insanity but I suppose these people do not have much money and for them it is either do this or walk. 
+ The logic of why anyone would want to ride a bike without basic protection such as a helemt, boots, and gloves escapes me but to get on the back of a bike with a local maniac rider and pay for it! For me that is real insanity but I suppose these people do not have much money and for them it is either do this or walk. 
 
  As I walked back along the main road I could see that the place was very run down and very dirty, being full of rubbish that had been dumped everywhere and anywhere. I also saw a local supermarket with a lockable steel gate and a razor wire topped fence to prevent the place being pillaged during the night whilst closed. Whenever I see these types of fortifications on a supermarket that is all I need to know about what the area is like. 
 
