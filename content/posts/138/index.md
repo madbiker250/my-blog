@@ -93,7 +93,7 @@ The sea here close to the shore has a browninsh colour only turning blue much fu
 
 {{< fig-res res="23-138.jpg" >}}
 
-I had decided to stay a few night in Riohacha so the following morning my first job was to re-attach my rear brake peddal to my bike. I managed to obtain a new securing nut at a small local bike shop so I set about making the repair. 
+I had decided to stay a few nights in Riohacha so the following morning my first job was to re-attach my rear brake peddal to my bike. I managed to obtain a new securing nut at a small local bike shop so I set about making the repair. 
 
 {{< fig-res res="18-138.jpg" >}}
 
@@ -103,7 +103,7 @@ Once my rear brake was functional again I headed out for a well earned coffee an
 
 {{< fig-res res="21-138.jpg" >}}
 
-I spent the next couple of days doing the usual stuff like updating this blog with post about my time in Cartagena, writing this post, and all of the other stuff that I usually manage to get done when I am not riding the bike each day.
+I spent the next couple of days doing the usual stuff like updating this blog with a post about my time in Cartagena, writing this post, and all of the other stuff that I usually manage to get done when I am not riding the bike each day.
 
 One of the other things that I liked about the hotel was that it had a small outdoor terrace where I could sit and smoke a cigar in the evening but as the hotel did not sell coffee I had to make do with a local beer or two.
 
