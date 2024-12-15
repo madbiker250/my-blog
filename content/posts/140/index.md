@@ -1,6 +1,6 @@
 ---
 title: "Day 140 Santa Marta to Bogota"
-date: 2024-12-10T06:00:00-00:00
+date: 2024-12-14T14:00:00-00:00
 categories:
 - Blog
 - South America
