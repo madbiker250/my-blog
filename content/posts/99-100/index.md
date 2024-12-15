@@ -1,5 +1,5 @@
 ---
-title: "Days 99 to 100 February 2024"
+title: "Days 99 to 100 Panama Part 1"
 date: 2024-02-17T17:48:00-00:00
 categories:
 - Blog
@@ -54,4 +54,3 @@ She even allowed me to park the bike in the secure back yard which is also the c
 {{< fig-res res="08-99.jpg" >}}
 
 {{< fig-res res="09-99.jpg" >}}
-

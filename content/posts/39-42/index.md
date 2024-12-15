@@ -1,5 +1,5 @@
 ---
-title: "Days 39 to 42 September 2020"
+title: "Days 39 to 42 Slovakia, Hungary, and Romanaia"
 date: 2020-09-26T13:27:51-01:00
 draft: false
 categories:

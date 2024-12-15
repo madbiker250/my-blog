@@ -1,5 +1,5 @@
 ---
-title: "Days 112 to 113 April 2024"
+title: "Days 112 to 113 Costa Rica to Nicaragua"
 date: 2024-04-16T08:30:00-00:00
 categories:
 - Blog

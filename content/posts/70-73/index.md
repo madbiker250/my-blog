@@ -1,5 +1,5 @@
 ---
-title: "Days 70 to 73 August 2021"
+title: "Days 70 to 73 Poland to Spain August 2021"
 date: 2021-09-07T13:52:27-01:00
 draft: false
 categories:

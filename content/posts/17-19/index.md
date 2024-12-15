@@ -1,5 +1,5 @@
 ---
-title: "Days 17 to 19 February 2020"
+title: "Days 17 to 19 Aix en Provence France to Ferreira de Panton Spain"
 date: 2020-03-22T22:13:33-01:00
 draft: false
 categories:

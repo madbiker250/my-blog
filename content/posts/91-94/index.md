@@ -1,5 +1,5 @@
 ---
-title: "Days 91 to 94 September 2022"
+title: "Days 91 to 94 Bosnia to Croatia, Slovenia, Italy, and France"
 date: 2022-09-05T10:34:00-00:00
 draft: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Day 116 April 2024"
+title: "Day 116 Nicaragua Part 2"
 date: 2024-04-23T17:30:00-00:00
 categories:
 - Blog

@@ -1,5 +1,5 @@
 ---
-title: "Days 3 to 5 August 2019"
+title: "Days 3 to 5 August 2019 Folkstone to Galicia, Spain"
 date: 2019-09-29T15:27:12-01:00
 draft: false
 categories:

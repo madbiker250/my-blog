@@ -1,5 +1,5 @@
 ---
-title: "Days 20 to 23 July 2020"
+title: "Days 20 to 23 Ferreira de Panton Spain to Alvor Portugal"
 date: 2020-07-25T11:29:33-01:00
 draft: false
 categories:
@@ -12,7 +12,7 @@ tags:
 
 # Day 20
 
-Well with the best of intentions I arrived at my friends house in Galicia in late February. Then suddenly, like almost every other place on the plant, I was unable to travel due to the alleged pandemic. As news of borders re-opening and travel being permitted once again started to circulate, I got the bike ready to move. I fitted new Mitas E-07 tires, carried out an oil and filter change, the engine tappets and the wheel spokes were adjusted as required, a new touring seat purchased and fitted, the brake fluid was changed and both calipers cleaned and greased. I got a set of custom made side plates to stop my soft throwover panniers tucking in on the back wheel and because of the broken rear indicator stem that I picked up when an old man in a car side swiped me in Italy the previous year, I got indicator protectors built in to the plates and once these were fitted the bike was good to go.
+Well with the best of intentions I arrived at my friends house in Galicia in late February 2020. Then suddenly, like almost every other place on the plant, I was unable to travel due to the alleged pandemic. As news of borders re-opening and travel being permitted once again started to circulate, I got the bike ready to move. I fitted new Mitas E-07 tires, carried out an oil and filter change, the engine tappets and the wheel spokes were adjusted as required, a new touring seat purchased and fitted, the brake fluid was changed and both calipers cleaned and greased. I got a set of custom made side plates to stop my soft throwover panniers tucking in on the back wheel and because of the broken rear indicator stem that I picked up when an old man in a car side swiped me in Italy the previous year, I got indicator protectors built in to the plates and once these were fitted the bike was good to go.
 
 {{< fig-res res="01-20.jpg" >}}
 

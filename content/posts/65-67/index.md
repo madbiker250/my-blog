@@ -1,5 +1,5 @@
 ---
-title: "Days 65 to 67 November 2020"
+title: "Days 65 to 67 Bulgaria to Romania"
 date: 2020-11-07T15:28:16-01:00
 draft: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Days 43 to 44 September 2020"
+title: "Days 43 to 44 Constanta Romanaia to Sofia Bulgaria"
 date: 2020-09-28T13:27:51-01:00
 draft: false
 categories:

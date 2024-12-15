@@ -1,5 +1,5 @@
 ---
-title: "Days 47 to 52 October 2020"
+title: "Days 47 to 52 Greece September 2020"
 date: 2020-10-20T12:23:31-01:00
 draft: false
 categories:

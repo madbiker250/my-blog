@@ -1,5 +1,5 @@
 ---
-title: "Days 24 to 27 July 2020"
+title: "Days 24 to 27 Alvor portugal to Reus Spain"
 date: 2020-08-10T18:55:12-01:00
 draft: false
 categories:

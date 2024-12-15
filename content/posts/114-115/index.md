@@ -1,5 +1,5 @@
 ---
-title: "Days 114 to 115 April 2024"
+title: "Days 114 to 115 Nicaragua Part 1"
 date: 2024-04-20T08:30:00-00:00
 categories:
 - Blog

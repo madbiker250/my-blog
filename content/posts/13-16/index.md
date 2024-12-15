@@ -1,5 +1,5 @@
 ---
-title: "Days 13 to 16 February 2020"
+title: "Days 13 to 16 Krakow Poland to Aix en Provence France"
 date: 2020-03-20T17:11:56-01:00
 draft: false
 categories:

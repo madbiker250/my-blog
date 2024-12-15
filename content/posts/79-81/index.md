@@ -1,5 +1,5 @@
 ---
-title: "Days 79 to 81 August 2022"
+title: "Days 79 to 81 Poland to Slovakia and Hungary"
 date: 2022-08-20T17:21:00-00:00
 draft: false
 categories:

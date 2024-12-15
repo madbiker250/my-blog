@@ -1,5 +1,5 @@
 ---
-title: "Days 29 to 31 July 2020"
+title: "Days 29 to 31 Montepellier France to Kempten Germany"
 date: 2020-08-23T10:31:56-01:00
 draft: false
 categories:
@@ -8,6 +8,7 @@ categories:
 tags:
 - france
 - switzerland
+- germany
 ---
 
 # Day 29

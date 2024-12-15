@@ -1,5 +1,5 @@
 ---
-title: "Days 68 to 69 November 2020"
+title: "Days 68 to 69 Hungary to Slovakia and Poland"
 date: 2020-11-09T19:19:19-01:00
 draft: false
 categories:

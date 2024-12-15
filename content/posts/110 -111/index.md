@@ -1,5 +1,5 @@
 ---
-title: "Days 110 to 111 April 2024"
+title: "Days 110 to 111 Costa Rica"
 date: 2024-04-14T08:30:00-00:00
 categories:
 - Blog

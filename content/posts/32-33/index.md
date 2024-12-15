@@ -1,5 +1,5 @@
 ---
-title: "Days 32 to 33 August 2020"
+title: "Days 32 to 33 Kempten Germany to Gliwice Poland"
 date: 2020-08-28T14:31:49-01:00
 draft: false
 categories:

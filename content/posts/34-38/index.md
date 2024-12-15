@@ -1,5 +1,5 @@
 ---
-title: "Days 34 to 38 September 2020"
+title: "Days 34 to 38 Gliwice Poland to Lithuania and Slovankia"
 date: 2020-09-19T18:39:41-01:00
 draft: false
 categories:

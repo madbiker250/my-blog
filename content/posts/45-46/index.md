@@ -1,5 +1,5 @@
 ---
-title: "Days 45 to 46 September 2020"
+title: "Days 45 to 46 Sofia to Plovdiv and Greek Border"
 date: 2020-09-30T16:57:01-01:00
 draft: false
 categories:
