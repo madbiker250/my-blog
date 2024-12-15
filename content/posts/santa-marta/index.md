@@ -1,13 +1,13 @@
 ---
 title: "Santa Marta"
-date: 2024-12-15T11:00:00-00:00
+date: 2024-12-15T12:00:00-00:00
 categories:
 - Blog
 - South America
 tags:
 - colombia
 
-draft: true
+draft: false
 ---
 
 # Impressions of Santa Marta
