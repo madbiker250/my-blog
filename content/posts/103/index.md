@@ -1,5 +1,5 @@
 ---
-title: "Day 103 Panama Part 3
+title: "Day 103 Panama Part 3"
 date: 2024-03-04T17:00:00-00:00
 categories:
 - Blog
