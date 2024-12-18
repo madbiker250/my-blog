@@ -1,5 +1,5 @@
 ---
-title: "Days 24 to 27 Alvor portugal to Reus Spain"
+title: "Days 24 to 27 Portugal to Spain"
 date: 2020-08-10T18:55:12-01:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 - Europe
 tags:
 - spain
-- france
+- portugal
 ---
 
 # Day 24
@@ -15,8 +15,6 @@ tags:
 After saying my goodbyes to my friends in Alvor I headed West. Riding along the N125 I passed by Faro and continued until I had to join the motorway to cross the border in to Spain. I then continued on the A49 from the border, circumventing Seville and headed South on the N4 and A381 till I eventually reached Gibraltar.
 
 {{< fig-res res="01-24.jpg" >}}
-
-<!--more-->
 
  Once there I was disappointed as it was nothing like I had expected it to be and the only positive thing that I have to say about Gibraltar was the price of petrol at only 85 cents per litre. I don't really know what I was expecting but it seemed very cluttered, almost industrial in nature, so after a quick circuit it was back across the border and back in to Spain where I found a reasonable motel room for under 25 Euros for the night. 
 

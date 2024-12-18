@@ -6,6 +6,7 @@ categories:
 - Blog
 - Europe
 tags:
+- macedonia
 - albania
 ---
 
@@ -14,7 +15,6 @@ So, after breakfast I headed West through the mountains in the direction of the 
 
 {{< fig-res res="01-85.jpg" >}}
 
-<!--more-->
 When I eventually crossed the Albanian border it was late in the afternoon so my first task was to get a SIM card and cash. 
 
 {{< fig-res res="02-85.jpg" >}}

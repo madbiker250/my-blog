@@ -1,5 +1,5 @@
 ---
-title: "Days 88 to 90 Albainia to Montenegro and Bosnia"
+title: "Days 88 to 90 Albainia and Montenegro to Bosnia"
 date: 2022-08-26T10:34:00-00:00
 draft: false
 categories:
@@ -16,8 +16,6 @@ tags:
 Once packed and on the road early the next morning, I headed in land for a bit before the road headed for the coast again.
 
 {{< fig-res res="01-88.jpg" >}}
-
-<!--more-->
 
 {{< fig-res res="02-88.jpg" >}}
 

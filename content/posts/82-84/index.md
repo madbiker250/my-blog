@@ -1,5 +1,5 @@
 ---
-title: "Days 82 to 84 Hungary to Serbia and North Macedonia"
+title: "Days 82 to 84 Hungary and Serbia to North Macedonia"
 date: 2022-08-23T12:41:00-00:00
 draft: false
 categories:
@@ -16,8 +16,6 @@ tags:
 Miskloc is a place that I had again passed by whilst transiting through Hungary but I had never actually stopped in. 
 
 {{< fig-res res="01-82.jpg" >}}
-
-<!--more-->
 
 It is quite a well spread out city that is much longer East to West that in its from North to South. The city does not have a central square and this seems to be a thing in Slovakia, Hungary and other countries to the South of Europe, instead it has an elongated main street on which most of the shops, bars, and cafes are located. From my experiences it seems to me that central squares seem to be more prevalent in Northern European countries for some reason.
 

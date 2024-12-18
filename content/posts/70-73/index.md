@@ -1,5 +1,5 @@
 ---
-title: "Days 70 to 73 Poland to Spain August 2021"
+title: "Days 70 to 73 Poland, Germany and France to Spain"
 date: 2021-09-07T13:52:27-01:00
 draft: false
 categories:
@@ -10,15 +10,16 @@ tags:
 - germany
 - france
 - spain
+- rant
 ---
 
 # Day 70
 
 The madness is still with us and four years after leaving the UK on my RTW trip and it is still disrupting my travel plans, borders are still closed or heavily restricted. Some countries are demanding that people who want to enter their country must have taken the experimental gene therapy injection or they must get "tested" or both. I had now been in Krakow for about 8 months and nothing has changed to the East, all roads are still closed. I needed to get on the bike and start travelling again, if only to obtain a bit of sanity.
 
-<!--more-->
+As I have been largely confined to (imprisoned in) Europe by the madness and my options for free and unrestricted travel were limited, my friend had suggested that I return to visit him in Galicia and as the madness of lockdowns, quarantines, and other sundry insane laws precluded me from doing something other than that, I decided to take him up on his offer.
 
-As I was largely confined to (imprisoned in) Europe by the madness and my options for free and unrestricted travel were limited. My friend had suggested that I return to visit him in Galicia and as the madness of lockdowns, quarantines, and other sundry insane laws precluded me from doing something other than that, I decided to take him up on his offer. In my planning for the trip, I learned from the published information on the German Government website that I would only be able to transit through Germany. The prevailing insanity dictated that I was not allowed to stay in the country in excess of 24 hours and I was unable obtain any form of accommodation. According to the information on the French Government website I could not eat or drink in a restaurant but I could get a hotel room, another fine example of insane thinking in action. So armed with this knowledge on the morning of 4 August 2021 I left Krakow for Spain and my first stop was near the Polish/German border in the town of Boleslawiec where I found a nice hotel for about 22 Euros a night but as I settled down for the night so did the rain. 
+In my planning for the trip, I learned from the published information on the German Government website that I would only be able to transit through Germany. The prevailing insanity dictated that I was not allowed to stay in the country in excess of 24 hours and I was unable obtain any form of accommodation. According to the information on the French Government website I could not eat or drink in a restaurant but I could get a hotel room, another fine example of insane thinking in action. So armed with this knowledge on the morning of 4 August 2021 I left Krakow for Spain and my first stop was near the Polish/German border in the town of Boleslawiec where I found a nice hotel for about 22 Euros a night but as I settled down for the night so did the rain. 
 
 # Day 71
 
@@ -26,7 +27,7 @@ The next morning it was still raining and it was cold for the time of year, abou
 
 So this is where I need to have another little rant.
 
-If there really was a deadly airborne virus capable of killing people circulating, and if contagion is a real phenomenon, then there would have been measures in place to stop people crossing borders, but there were none. Only people who used any form of "public transport" such as buses, trains, and planes were subjected to mask mandates, vaccination mandates, and other forms of insane treatment by those in power, people like me who travelled by their own transport were largely unaffected. This fact alone should have made any reasonable person sit up, notice the glaring contradiction, and question all of the insanity, but sadly most people never did and they just accepted all of the restrictions on their lives without complaint.
+If there really was a deadly airborne virus capable of killing people circulating, and if contagion is a real phenomenon, then there would have been measures in place to stop people crossing borders but there were none. Only people who used any form of "public transport" such as buses, trains, and planes were subjected to mask mandates, vaccination mandates, and other forms of insane treatment by those in power, people like me who travelled by their own transport were largely unaffected. This fact alone should have made any reasonable person sit up, notice the glaring contradictions, and question all of the insanity but sadly most people never did and they just accepted all of the restrictions on their lives without complaint.
 
 Anyway, I arrived in Strasbourg about five in the evening and found my way to my hotel. It was a low end chain hotel but the price was over 50 Euros for 1 night and not good value for money. By the time I had settled in and showered, it had stopped raining so I decided that I needed to walk in to the city. I had last been in Strasbourg around 2005 so I wanted to see if it had changed any since my last visit and I took a footpath that ran alongside the river and after about 30 minutes or so I was in the city. Nothing much had changed from how I had remembered the city centre but I did notice that it seemed a little grubby here and there. I sat in cafe and had a coffee and a cigar, no-one stopped me or even cared. As I smoked my cigar and hoped for better weather, I could not help but mull over in my mind the total inaccuracy of the information I had obtained from official Government websites when planning my trip.
 

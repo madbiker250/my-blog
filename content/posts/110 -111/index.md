@@ -17,8 +17,6 @@ I left San Isidro in the direction of San Jose (the capital city of Costa Rica) 
 
 {{< fig-res res="02-110.jpg" >}}
 
-<!--more-->
-
 As I rode further North the road climbed even higher and eventually I found myself in some cloud, and as you can imagine it was cold and damp.
 
 {{< fig-res res="05-110.jpg" >}}

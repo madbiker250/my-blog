@@ -17,8 +17,6 @@ Just as I left Coban I saw a really nice roadside restaurant so I pulled in for 
 
 {{< fig-res res="01-123.jpg" >}}
 
-<!--more-->
-
 Once suitably fed and watered I set off South on road number CA14 then after a few miles I turned off it and on to road number 7W . This road was amazing, this is what I expected Guatemala to look like, high mountains, deep valleys and twisty roads throughout. 
 
 {{< fig-res res="02-123.jpg" >}}

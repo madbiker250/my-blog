@@ -1,5 +1,5 @@
 ---
-title: "Days 1 to 2 August 2019 Folkstone to Glasgow"
+title: "Days 1 to 2 United Kingdom"
 date: 2019-09-27T11:42:00-01:00
 draft: false
 categories:
@@ -16,8 +16,6 @@ On my newly purchased Royal Enfield Himalayan I left Folkestone to ride the 500 
 Different as it was from most of my previous bikes, I was enjoying the more upright riding position and the quickness of steering as I found it very easy to change direction without much effort. I rode North on the M20, then around the M25 till I came to the A1 which I then rode North on. I stopped for petrol and coffee after a couple of hours and then suitably refreshed I pushed on. The bike could maintain 70 mph on the motorway without much difficulty but I sensed that this was near to the top end of it's performance and I though that it would feel more comfortable around 60 mph. I continued North on the A1 until I came to the A66 at Scotch Corner where I turned left and planned to head for Penrith and then North to the Scottish border.
 
 {{< fig-res res="02-one.jpg" >}}
-
-<!--more-->
 
 By the time that I was on the A66 it was about mid afternoon and the traffic was light, so having a deserted downhill stretch of dual carriageway to myself I decided to see just how fast my new bike would go, bearing in mind that it was also laden with me and all of my worldly possessions. Eighty three miles an hour (83 MPH), absolutely flat out.
 

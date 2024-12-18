@@ -1,5 +1,5 @@
 ---
-title: "Days 17 to 19 Aix en Provence France to Ferreira de Panton Spain"
+title: "Days 17 to 19 France to Spain"
 date: 2020-03-22T22:13:33-01:00
 draft: false
 categories:
@@ -15,8 +15,6 @@ tags:
 After spending a few days with a friend in Aix En Provence I said my goodbyes to him and headed for the Spanish border. Leaving Aix En Provence I headed West on the D7N, D572 and D6572 to Montpellier. The journey was pleasant enough in the early morning sun but these roads were too urbanised for my liking so, after circumventing Montpellier I took a short trip West on the A750 motorway until I found the D908 that headed West through the Languedoc National park area. This was a stunning road to ride in the warm early afternoon sunshine. Lots of beautiful scenery, very few cars on the road and the odd picturesque village to stop in and admire. 
 
 {{< fig-res res="01-17.jpg" >}}
-
-<!--more-->
 
 Again, keeping off the motorways, I slowly wandered my way across this part of France, South of Toulouse in the direction of Tarbes. The empty scenic roads were great to ride along in the winter sunshine, however, as much as I was enjoying it I also needed to find a place to stop for the night. I eventually found a reasonably priced hotel in the town of Lourdes for around 30 Euros for the night and headed there, hoping to arrive before nightfall. It was just getting dark when I arrived and the temperature had dropped significantly. Once I got in to my hotel, I had a warm shower and then headed out for a coffee. Whilst drinking my coffee I began to shiver despite the fact that I was warm. It was a weird sensation. I decided to head back to my hotel and went to bed but I suddenly felt cold and was unable to heat up. I realised that I had a fever so I piled on extra bedding and tried to get to sleep.
 

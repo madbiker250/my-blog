@@ -1,5 +1,5 @@
 ---
-title: "Days 59 to 61 Turkey Part 3 October 2020"
+title: "Days 59 to 61 Turkey Part 3"
 date: 2020-11-01T17:19:41-01:00
 draft: false
 categories:
@@ -14,8 +14,6 @@ tags:
 After out encounter with the wolves the previous night we decided that later that day we would spend a night in a hotel so we set off to head for the city of Eskisehir. 
 
 {{< fig-res res="01-59.jpg" >}}
-
-<!--more-->
 
 As usual we took some smaller scenic routes and at a lesiurely pace I was able to stop to take the odd photo 
 

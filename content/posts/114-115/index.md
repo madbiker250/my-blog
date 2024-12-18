@@ -15,8 +15,6 @@ When I left Juigalpa it was a little overcast and just North of the town I stopp
 
 {{< fig-res res="01-114.jpg" >}}
 
-<!--more-->
-
 I rode North along road 7 until the junction with road 198 where I then rode in the direction of the town of Comalapa however just as I turned on to the road I noticed that the road surface was made of paving bricks, the kind that are commonly used for driveways. The road was like this all the way to Comalapa and it was little odd to ride on such a long driveway.
 
 {{< fig-res res="02-114.jpg" >}}

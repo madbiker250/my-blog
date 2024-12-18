@@ -1,5 +1,5 @@
 ---
-title: "Days 129 to 130 El Salvador to Honduras and Nicaragua"
+title: "Days 129 to 130 El Salvador and Honduras to Nicaragua"
 date: 2024-05-18T15:20:00-00:00
 categories:
 - Blog
@@ -16,8 +16,6 @@ draft: false
 I left San Miguel at about 6 'o'clock in the morning as I knew that I had 2 borders to cross and I wanted to leave sufficient time to do this and get to a place to stay in Nicaragua before it got dark. It took me just about an hour to get to the El Salvadorian Honduran border. 
 
 {{< fig-res res="01-129.jpg" >}}
-
-<!--more-->
 
 The El Salvadorian side was quick, I had to go to the customs first to get my TIP cancelled. That took all of 5 minutes at no cost. Then I rode about half a mile to the actual border and after my passport was checked I went to immigration. That took 10 minutes to get processed for leaving El Salvador and again at no cost.
 

@@ -13,8 +13,6 @@ draft: false
 
 On Sunday 11 February I headed off from the hotel in Panama city where I had been staying, North in the direction of Colon. In an earlier post I had visited Colon and found it not to my liking however, I was following a recommendation that I had received to visit the beaches to the East of the city. So as I approached the city I took a small road along the Caribbean coast to the East and headed for the town of Portobello where I had booked in to a hostel for 4 nights.  
 
-<!--more-->
-
 On arrival I found the hostel easily enough but the town of Portobello I found to be just a smaller version of Colon. Near to the hostel was an example of how a lot of the people here just leave what they no longer need or want lying at the side of the road and unfortunately in some cases this also goes for domestic refuse.
 
 {{< fig-res res="10-99.jpg" >}}

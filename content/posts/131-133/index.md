@@ -1,5 +1,5 @@
 ---
-title: "Days 131 to 133 Nicaragua to Costa Rica and Panama"
+title: "Days 131 to 133 Nicaragua and Costa Rica to Panama"
 date: 2024-05-21T17:16:00-00:00
 categories:
 - Blog
@@ -16,8 +16,6 @@ draft: false
 I set off from the city of Granada at about 8 o'clock in the morning and it was hot. I took the NIC-4 South in the direction of the border crossing at Pena Blanca. I stopped after about an hour for some breakfast at a roadside restaurant and then again about 20 miles from the border at a spot where the road ran close to the lake.
 
 {{< fig-res res="01-131.jpg" >}}
-
-<!--more-->
 
 I arrived at the border at about half past 10 in the morning and as usual I got stopped at the entrance to the border area, I had my passport checked and I was given my customs declaration form to complete. I parked up outside the main building and then went in to start another episode of the border pantomime. 
 

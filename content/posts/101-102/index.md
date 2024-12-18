@@ -15,8 +15,6 @@ After a few days in Las Tablas I set off South on Highway 2 to explore the penin
 
 I then headed West for Santiago where I spent the night at a hotel by the side of the main road about 10 miles East of the city for about $30. It was a nice enough place but there was nothing near to the hotel which had no restaurant. Another downside to this hotel was that during the night there was a lot of noise and serious vibrations from the passing lorries that thundered along taking advantage of the deserted road.
 
-<!--more-->
-
 # Day 102
 
 The following morning I set off to have a look at the city of Satiago De Veraguas. The city is quite small but it was realtively busy and the only thing that I found worth stopping to take a photograph of was the Cathedral, which in size was really no bigger than a good sized church. I also tried to find the Transport Authority (ATTT) office to pay my speeding fine, but as usual good old Google maps directed me to a location close to the Cathedral that was not the correct location.

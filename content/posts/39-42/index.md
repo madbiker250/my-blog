@@ -1,11 +1,12 @@
 ---
-title: "Days 39 to 42 Slovakia, Hungary, and Romanaia"
+title: "Days 39 to 42 Slovakia and Hungary to Romanaia"
 date: 2020-09-26T13:27:51-01:00
 draft: false
 categories:
 - Blog
 - Europe
 tags:
+- slovakia
 - hungary
 - romania
 ---
@@ -15,8 +16,6 @@ tags:
 The next day I head off South from my hotel in Kompachy in the direction of Hungary and at about 12 noon I get to a small border crossing, as expected there is no one on the Slovakian side but I am surprised to see that there are two guards carrying AK47's on the Hungarian side. As I drive towards them I get stopped by the guards and they ask for my passport. They give it back to me and then hand me a form that they have just filled out. As I do not read Hungarian I ask what it is and they tell me it is permission to enter and leave the country so I put it in my passport, thank them and ride on to Budapest where I had booked accommodation for two nights.
 
 {{< fig-res res="01-39.jpg" >}}
-
-<!--more-->
 
 It turned out because of the ongoing madness Hungary had closed it's borders to all travellers a few days before and the borders guards just let me in, so who knows hat they were thinking but by early evening I was Budapest and I set about exploring this beautiful city.
 

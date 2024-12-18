@@ -1,5 +1,5 @@
 ---
-title: "Days 79 to 81 Poland to Slovakia and Hungary"
+title: "Days 79 to 81 Poland and Slovakia to Hungary"
 date: 2022-08-20T17:21:00-00:00
 draft: false
 categories:
@@ -16,8 +16,6 @@ tags:
 As the world is still mad and borders are still shut because of the alleged virus, or wars, or other political nonsense, and all roads East from Central Europe are still closed. So, its on the merry go round once again and back to Spain to visit my friend. However, this time the Balkans are open for business (well apart from Kosovo and Serbia going at it again!) so I decided to take the opportunity to visit these countries whilst I can. Therefore on 15th August 2022 I headed South from Krakow and took the road from there to the Southern Polish city of Bielsko-Biala. I had never actually been here before so this was a perfect time for a visit and I found it to be quite surprising. The town was obviously fortified at some time and the nicer part of the town is to be found within these walls.
 
 {{< fig-res res="01-79.jpg" >}}
-
-<!--more-->
 
 {{< fig-res res="02-79.jpg" >}}
 

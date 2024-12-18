@@ -1,11 +1,12 @@
 ---
-title: "Days 43 to 44 Constanta Romanaia to Sofia Bulgaria"
+title: "Days 43 to 44 Romanaia to Bulgaria"
 date: 2020-09-28T13:27:51-01:00
 draft: false
 categories:
 - Blog
 - Europe
 tags:
+- romania
 - bulgaria
 ---
 
@@ -16,8 +17,6 @@ The next day when I arrived at the Bulgarian border it was pretty quiet and ther
 However, a few minutes later, passport and bike documents checked, I was in Bulgaria and changing my Romanian currency for Bulgarian currency. I stopped and grabbed a coffee and a cigar and as I sat drinking my coffee I realised that I was fatigued and needed to take a few day off from riding the bike. So I made a decision then and there to find some place relatively close to the border and take a break from riding for a few days. I found a small studio flat overlooking the Black sea just North of the city of Varna for about 14 Euros per night, so I decided to rest there for a while. This was the view from my balcony and of the nearby beach.
 
 {{< fig-res res="01-43.jpg" >}}
-
-<!--more-->
 
 In fact the place was so cheap, so nice, and so relaxing that I decided to spend a total of 9 days there taking a much needed break from constantly moving. While there I used the opportunity to repair my bent brake lever and explore the nearby city of Varna. The brake lever on a bike, as you are probably aware, is made of an aluminium alloy and these can snap when bent hard. Fortunately, the soft panniers took a lot of the impact so the lever only bent. An old trick for straightening these levers is to heat them with a blowtorch and then use a cylindrical piece of pipe or metal tubing to bend it when hot. Also, when doing this the application of household soap to the lever during this process apparently stops the lever from snapping so I decided to give it a go. Using my butane camping stove as a heat source and a box spanner, I began the process and with a little patience and lot of soap rubbed on to the hot metal, it worked a treat leaving me with a perfectly straightened brake lever! The city of Varna was just a few miles to the South along the coast and I managed a couple of visits there and a couple of long walk on the nearby beach on the Black sea. 
 

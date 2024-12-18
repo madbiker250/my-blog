@@ -1,5 +1,5 @@
 ---
-title: "Day 28 Reus Spain to Montpellier France"
+title: "Day 28 Spain and Andora to France"
 date: 2020-08-18T17:49:19-01:00
 draft: false
 categories:
@@ -7,6 +7,7 @@ categories:
 - Europe
 tags:
 - spain
+- andora
 - france
 ---
 
@@ -15,8 +16,6 @@ tags:
 Catching up with friends is always good but leaves a sour taste when it comes time to say goodbye. This occasion was no different. So after a few days rest and relaxation I headed North on the C14 from Reus and made for the Pyrenees. 
 
 {{< fig-res res="01-28.jpg" >}}
-
-<!--more-->
 
 Riding a bike in the Pyrenees in the summer is a great experience, well surfaced twisty roads, great views and lots of great coffee stops.
 

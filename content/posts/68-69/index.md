@@ -1,5 +1,5 @@
 ---
-title: "Days 68 to 69 Hungary to Slovakia and Poland"
+title: "Days 68 to 69 Romania, Hungary and Slovakia to Poland"
 date: 2020-11-09T19:19:19-01:00
 draft: false
 categories:
@@ -15,8 +15,6 @@ tags:
 # Day 68
 
 I had spent the night in the town of Satu Mare close to the border crossing with Hungary. I had read that Hungary was open for transit only and that Slovakia were testing people at the border for the alleged virus. I expected to encounter lots of ongoing insane procedures and laws being implemented by border officials and the possibility of being turned away at either or both of the borders. The next morning to compound my potential issues it was cold and raining heavily.
-
-<!--more-->
 
 The Hungarian border was hassle free and within 5 minutes of hitting it I was riding away in torrential rain. The rain had softened the rich yellow coloured soil that had been deposited by farm vehicles from every field entrance along the road for some 30 miles (50 km) till the motorway in to a thick clinging mud. By the time I had ridden more than a few miles the bike was covered in it. As the motorways in Hungary had been designated as the only roads to be used for transiting the country, I had no option but to use them. I rode along often deserted stretches of motorway in the driving rain for hours, the temperature never got above 4 degrees celsius and I was not enjoying it. However, once North of Miskolc the weather cleared and the sun appeared. By the time I had reached the Slovakian border the skies were clear but it was still very cold. 
 

@@ -1,21 +1,24 @@
 ---
-title: "Days 47 to 52 Greece September 2020"
+title: "Days 47 to 52 Bulgaria and Greece to Turkish Border"
 date: 2020-10-20T12:23:31-01:00
 draft: false
 categories:
 - Blog
 - Europe
 tags:
+- bulgaria
 - greece
+- rant
+
 ---
 
 # Day 47
 
 Due to the madness I had to pre book my accommodation in Greece and pass the details to the Greek government before entry, therefore once I entered Greece I had to get from the border crossing to the port of Igoumenitsa on the West of Greece to cross over to the island of Corfu and because I was travelling a large distance to catch a ferry, a full day on the Greek motorways and an early start was required. It was still dark when I loaded up the bike and set off for the border. 
 
-<!--more-->
+On arriving at the Bulgarian and Greek border crossing at 0630 in the morning I was cold. I had only ridden about 20 miles or so to the border but at that time in the morning it was around 5 degrees Celsius, cold for the time of year. When I arrived at the Greek side of border crossing I made two mistakes, the first was that I never took the opportunity to fill up my fuel tank before crossing in to Greece and the second was that I paid over one hundred Euros for a useless PCR test.
 
-On arriving at the Bulgarian/Greek border crossing at 0630 in the morning I was cold. I had only ridden about 20 miles or so to the border but at that time in the morning it was around 5 degrees Celsius, cold for the time of year. When I arrived at the Greek side of border crossing I made two mistakes, the first was that I never took the opportunity to fill up my fuel tank before crossing in to Greece and the second was that I paid over one hundred Euros for a useless PCR test.
+Time for another rant!
 
 When I produced my passport to the Greek border Guard he just did the usual stuff with the computer and then another guy in civilian clothing who was standing behind him asked for my PCR test results. This young guy was about mid 20's and he was wearing reading glasses. I was sitting astride the bike, under the lights of the border station, about 6 feet from where this guy was in the office. I pulled my PCR document out of my tank bag and offered it up to him but he told me just to hold it up and show it to him so I obliged. Then my passport was handed back to me and I was told that I was free to enter Greece. There is no way that the guy in the glasses would have been able to read what was printed in size 11 font on the document, I could have shown him my hotel bill and he would have been none the wiser.
 

@@ -1,5 +1,5 @@
 ---
-title: "Days 13 to 16 Krakow Poland to Aix en Provence France"
+title: "Days 13 to 16 Poland, Slovakia, Austria and Italy to France"
 date: 2020-03-20T17:11:56-01:00
 draft: false
 categories:
@@ -18,8 +18,6 @@ tags:
 Sometimes you just know that your plans will not work out and despite your best efforts everything turns to shit. In most cases, the reason for your plans going sideways is usually the actions of another person, and in my case things were no different.
 
 An asshole is an asshole and there is just no other way to say it.
-
-<!--more-->
 
 Due to the actions of an asshole, my time in Krakow was obviously at an end and it was decision time. Either to leave or to assault the asshole. So early one February morning I packed the bike and got ready to leave. 
 

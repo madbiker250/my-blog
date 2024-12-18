@@ -1,11 +1,12 @@
 ---
-title: "Days 65 to 67 Bulgaria to Romania"
+title: "Days 65 to 67 Turkey, Bulgaria and Moldovian Border to Romania"
 date: 2020-11-07T15:28:16-01:00
 draft: false
 categories:
 - Blog
 - Europe
 tags:
+- turkey
 - bulgaria
 - romania
 ---
@@ -13,8 +14,6 @@ tags:
 # Day 65
 
 One of the main reasons for leaving Turkey was because all of the land routes to the East from Turkey were closed and because of this I had to decide where to go for the winter. Staying in Turkey was an option but having a 90 day limit to my stay would have meant having to leave Turkey at the end of January to go back a European country. Another factor for consideration was the potential for the alleged virus to affect border crossings at the end of January in to February. As the borders were still open at that time I decided that it would be better to make that journey in early November rather than at the beginning of February. I left Kırklareli early the next day and headed for the Bulgarian border. On approaching the border the road rose sharply and in the shaded parts, the road was covered in frost. A few minutes at the border and I was once again in Bulgaria. I rode along the coast past Burgas and Varna, I only stopped for fuel and coffee as it was not warming up and it had become overcast. I was at the Romanian border by late afternoon and once through I headed for the unremarkable city of Constanta where I spent the night.
-
-<!--more-->
 
 # Day 66
 

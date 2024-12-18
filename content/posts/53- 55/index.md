@@ -1,5 +1,5 @@
 ---
-title: "Days 53 to 55 Turkey Part 1 October 2020"
+title: "Days 53 to 55 Turkey Part 1"
 date: 2020-10-25T19:34:26-01:00
 draft: false
 categories:
@@ -13,9 +13,7 @@ tags:
 
 {{< fig-res res="01-53.jpg" >}}
 
-<!--more-->
-
-I arrived at the the Greek/Turkish border under a cloudy sky which looked like it could produce some rain. After the usual rounds of producing my passport and bike ownership documents to the Greek and Turkish border and customs officials, I was almost cleared to enter Turkey. However, I first had to go to one of the buildings at the border and purchase insurance that covered me for riding my bike in Turkey. For the price of about 15 Euros I obtained 90 days cover. Now I was in Turkey and I set off for Isatnbul. The rain was light and came and went and I was getting a bit bored and then I saw this at the side of the road. A Boeing 737 restaurant.
+I arrived at the the Greek and Turkish border under a cloudy sky which looked like it could produce some rain. After the usual rounds of producing my passport and bike ownership documents to the Greek and Turkish border and customs officials, I was almost cleared to enter Turkey. However, I first had to go to one of the buildings at the border and purchase insurance that covered me for riding my bike in Turkey. For the price of about 15 Euros I obtained 90 days cover. Now I was in Turkey and I set off for Isatnbul. The rain was light and came and went and I was getting a bit bored and then I saw this at the side of the road. A Boeing 737 restaurant.
 
 {{< fig-res res="02-53.jpg" >}}
 

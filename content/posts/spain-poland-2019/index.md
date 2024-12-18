@@ -1,5 +1,5 @@
 ---
-title: "Spain to Poland 2019"
+title: "Spain to Poland"
 date: 2019-07-04T16:21:46-01:00
 draft: false
 categories:

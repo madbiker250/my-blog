@@ -16,8 +16,6 @@ The following day it was sunny but cold. I rode for about 10 miles South from Te
 
 {{< fig-res res="01-95.jpg" >}}
 
-<!--more-->
-
 {{< fig-res res="02-95.jpg" >}}
 
 I stopped in the town of Sospel for coffee and croissants then once heated up by the morning sun I coninued on.

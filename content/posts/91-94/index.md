@@ -1,12 +1,11 @@
 ---
-title: "Days 91 to 94 Bosnia to Croatia, Slovenia, Italy, and France"
+title: "Days 91 to 94 Bosnia, Croatia, Slovenia and Italy to France"
 date: 2022-09-05T10:34:00-00:00
 draft: false
 categories:
 - Blog
 - Europe
 tags:
-- montenegro
 - bosnia
 - croatia
 - slovenia
@@ -19,8 +18,6 @@ tags:
 The next day I set off North from Sarajevo to Banja Luka which on arrival I found to be a very nondescript city, so deciding not to stop there, I then continued riding and headed West for the Croatian border.
 
 {{< fig-res res="01-92.jpg" >}}
-
-<!--more-->
 
 Whilst the scenery in Bosnia was reasonably pleasant, like my time in Serbia, I found very little to hold my attention and like Serbia, it is not a country that I will return to. I crossed the border in to Croatia and I headed West to the coast. I stopped at the first reasonable sized town and I was able to get some Croatian money from an ATM. Luckily I had made better calculations than I had in Serbia so I had no Bosnian cash to try to get rid of, which was fortunate because yet again there were no money exchange facilities at the border crossing. A few weeks before setting off on the trip, I had encountered post in somewhere or other about a guy who ran a small operation hosting bikers in the spare rooms of his house, so having made contact with him I headed for his place. The guy used to run a motorbike shop in England and provided me with very comfortable accommodation for around 20 Euros a night. I stayed for 3 nights to get a bit of a break and to attend to an oil change and some minor tinkering here and there. 
 

@@ -1,13 +1,15 @@
 ---
-title: "Days 3 to 5 August 2019 Folkstone to Galicia, Spain"
+title: "Days 3 to 5 United Kingdom to Spain"
 date: 2019-09-29T15:27:12-01:00
 draft: false
 categories:
 - Blog
 - Europe
 tags:
+- uk
 - france
 - spain
+- rant
 ---
 
 # Day 3
@@ -17,8 +19,6 @@ On the morning of my departure I was greeted by a spectacular sunrise and of the
 {{< fig-res res="01-one.jpg" >}}
 
 {{< fig-res res="02-one.jpg" >}}
-
-<!--more-->
 
 Leaving Folkestone I boarded the train that travels under the English channel to France. I have done this a few times before and as usual I met some fellow two wheeled travellers on board. After 20 minutes or so of exchanging stories and thoughts about each other's bikes, I said my farewells and rode South from Calais towards the city of Tours that would be my first stop on my way to Spain. 
 
@@ -46,10 +46,14 @@ Crossing the river Dordogne estuary on the ferry was thankfully a short (I hate 
 
 The next morning the sun was shining, it was warm, and I was looking forward to a long leisurely 5 day ride along the North coast of Spain. However, that dream was quickly shattered as when I attempted to get some cash from an ATM and found that my bank card was not working. After a few phone calls it transpired that my UK bank had decided to lock my account, because of a "suspicious" transaction on my account. When I explained to them that the "suspicious" transaction was in fact me buying my ticket for the Eurotunnel train whilst I was in Poland, the person on the phone refused to believe me. Despite having previously notified them that I was in Poland, and despite answering all of the security questions correctly, the ignorant asshole on the other end of the phone again refused to unlock my account or let me speak to a supervisor. I called the bank repeatedly and I was eventually told by a supervisor that I would have to personally call in to a branch of my bank in the UK with photographic ID to unlock my account. 
 
-Despite explaining to them that they were leaving me on the French/Spanish border with just 40 euros in my pocket and with this amount of money it was financially impossible for me to return to the UK, nothing changed and they continued to refuse to do anything about it, and then hung up the phone on me. I got on the bike and decided to do a long haul, mostly on motorways, to the home of my friend in Galicia in North West Spain. During this long day on the mostly 2 lane Spanish motorways the bike held a steady 70-75 mph, getting up to 80 mph on a couple of overtakes of long vehicles, whilst trying not to get rear-ended by a high speed BMW or Mercedes. I have to say that I was impressed by the bike and it's ability to take such sustained high revs while fully loaded and although it is not the quickest bike that I have ever ridden, once it got to 70-75 mph, with the exception of long steep climbs, it was relatively easy to keep it at this speed. 10 hours and 500 miles (800 km) later, I just made it to the house of my friend before running out of money for fuel. 
+Despite explaining to them that they were leaving me on the French/Spanish border with just 40 euros in my pocket and with this amount of money it was financially impossible for me to return to the UK, nothing changed and they continued to refuse to do anything about it, and then hung up the phone on me. I got on the bike and decided to do a long haul, mostly on motorways, to the home of my friend in Galicia in North West Spain. During this long day on the mostly 2 lane Spanish motorways the bike held a steady 70-75 mph, getting up to 80 mph on a couple of overtakes of long vehicles, whilst trying not to get rear-ended by a high speed BMW or Mercedes. I have to say that I was impressed by the bike and it's ability to take such sustained high revs while fully loaded and although it is not the quickest bike that I have ever ridden, once it got to 70-75 mph, with the exception of long steep climbs, it was relatively easy to keep it at this speed. 10 hours and 500 miles (800 km) later, I just made it to the house of my friend before running out of money for fuel.
 
-I hate banks!
+Now this is where I have to have a rant about this situation.
 
-# POSTSCRIPT
+Once in Spain I had to borrow money from my friend to obtain flights back to the UK and get the mess sorted out. I organised my travel back to the UK and about one week later later I presented myself at a branch of my bank in London where I was able to unlock my account, only to then be told that it was the bank's mistake and my account should never have been locked in the first instance.
 
-I had to borrow money from my friend to obtain flights back to the UK and get this mess sorted out. £500 later I presented myself at a branch of my bank in London and there I was able to unlock my account, only to then be told that it was the bank's mistake and my account should never have been locked in the first instance. I subsequently made a complaint and a claim for financial compensation for my unnecessary expenditure however two months later, I have still not received an apology nor a refund for my expenses to get back to the UK from Spain. I normally don't carry lots of cash on me, just cards, but after this I will ensure that I always have access to some method of getting cash other than from my bank, that is until I change banks, because I do not intend to remain with my present one for very much longer if I can help it.
+I have subsequently made a complaint and a claim for financial compensation for unnecessary expenditure of over five hundered pounds for the flights, train tickets and hotel accomodation that I had to buy as aresult of their mistake.
+
+However two months later as I write this post I have still not received an apology nor a refund for my expenses to get back to the UK from Spain. I normally don't carry lots of cash on me, just cards, but after this I will ensure that I always have access to some method of getting cash other than from my bank, that is until I change banks, because I do not intend to remain with my present one for very much longer if I can help it.
+
+I hate banks! Rant over.

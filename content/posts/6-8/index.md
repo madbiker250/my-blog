@@ -1,5 +1,5 @@
 ---
-title: "Days 6 to 8 Galicia Spain to Montellimar France"
+title: "Days 6 to 8 Spain to France"
 date: 2019-10-31T09:17:27-01:00
 draft: false
 categories:
@@ -14,8 +14,6 @@ tags:
 After lounging about in the sun and riding some forest dirt roads in Galicia to reacquaint myself with riding off road it was time to head back to Krakow in Poland where I planned to spend the Winter. After saying my goodbyes in Galicia I set off for the East coast of Spain. I took the N120 from Monforete De lemos to Ponferrada and although this is a fast main road it is quite pleasant to ride on with a bike as it twists and turns as it climbs up the valley of the river Sil.
 
 {{< fig-res res="01-six.jpg" >}}
-
-<!--more-->
 
 I then turned South on to the NVI in the direction of Benavente. At this point the weather turned due to the elevation, bringing low cloud and an accompanying decline in the temperature. This stretch of the NVI road runs parallel to the N6 motorway which replaced it as the main road in this part of Spain. As I drove along it I passed countless abandoned hotels, restaurants and petrol stations, all victims to progress. Once I was a few miles South of Benavente I turned East and I took the N610 in the direction of Palencia. The weather did not improve much and although the road was empty of traffic there was little of interest to see on it except the odd abandoned village that sat slowly decaying at the side of the road.
 

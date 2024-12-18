@@ -17,8 +17,6 @@ I left Santa Ana at about 9 'o'clock in the morning heading generally South, and
 
 {{< fig-res res="02-127.jpg" >}}
 
-<!--more-->
-
 I got back on the bike and headed South past the town of Sonsonate and then turned East on to road CA-12 that runs parallel with the Pacific coastline. The road had about 4 tunnels on it and although they are relatively short, they are unlit.
 
 {{< fig-res res="03-127.jpg" >}}

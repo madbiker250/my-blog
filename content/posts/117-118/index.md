@@ -15,8 +15,6 @@ So after another day in puncture city I was ready to continue my journey. I set 
 
 {{< fig-res res="01-117.jpg" >}}
 
-<!--more-->
-
 I negotiated the roadworks with ease but I knew that as soon as I reached somewhere more urbanised I would have to obtain a couple of replacement relays to avoid any further starting issues. The two new tyres that I had gotten fitted to the bike are more suited for off road (gravel roads) than tarmac and because of this they caused the bike to squirm about more in corners than the previous ones, it took me a while to get used to the different handling.
 
 {{< fig-res res="03-117.jpg" >}}

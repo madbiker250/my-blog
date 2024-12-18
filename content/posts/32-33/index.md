@@ -1,5 +1,5 @@
 ---
-title: "Days 32 to 33 Kempten Germany to Gliwice Poland"
+title: "Days 32 to 33 Germany and Czech Republic to Poland"
 date: 2020-08-28T14:31:49-01:00
 draft: false
 categories:
@@ -14,8 +14,6 @@ tags:
 # Day 32
 
 As I departed from the Gasthof the weather was not great and it started to rain a little. Once again, I stayed off the motorways as much as possible but progress was slow and occasionally to make up some time I was forced to use the Autobahn. As a result these was little to see and even less reason to stop and photograph anything.
-
-<!--more-->
 
 I crossed the border in to the Czech Republic in the rain and rode across to the other side of the county but all the while it continued to rain intermittently. I only stopped for petrol and then moved on trying to get to my destination for that day, the city of Brno as quickly as I could. As I arrived in Brno I got caught in a huge thunderstorm and I got thoroughly soaked before reaching my accommodation for the night. Once sorted out, as the rain had passed I walked in to Brno old town and I found it to be quite pleasant, however, the walk in was not quite as nice. There were lots of people hanging around street corners in large groups, mostly men in the twenties and although they never hassled me, I felt a certain tension in the air. In addition, the streets where these groups were congregating were full of litter and graffiti covered almost every wall.
 

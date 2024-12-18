@@ -1,5 +1,5 @@
 ---
-title: "Poland to the UK 2019"
+title: "Poland to the United Kingdom"
 date: 2019-09-04T12:30:52-01:00
 draft: false
 categories:

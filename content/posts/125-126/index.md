@@ -18,8 +18,6 @@ I had planned a short riding day, my destination for the day was Port San Jose o
 
 {{< fig-res res="01-125.jpg" >}}
 
-<!--more-->
-
 The sand was a chocolate brown colour due to the volcanic nature of this part of the country, I went for a paddle in the Pacific Ocean and the water was warm. The sand was absolutely scorching hot and I nearly burned the soles of my feet only walking on it for 20 yards or so before I hit the wet, and cooler sand. 
 
 {{< fig-res res="02-125.jpg" >}}

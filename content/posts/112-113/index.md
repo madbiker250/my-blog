@@ -16,8 +16,6 @@ Whilst in San Marcos I stayed at a nice hotel which was a little expensive at $4
 
 {{< fig-res res="01-112.jpg" >}}
 
-<!--more-->
-
 The road from San Marcos to San Jose wound up in to the mountains and provided some spectacular views and great riding but too soon it was over and I started to descend towards San Jose. 
 
 {{< fig-res res="02-112.jpg" >}}

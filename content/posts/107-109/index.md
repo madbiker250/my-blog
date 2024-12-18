@@ -14,8 +14,6 @@ draft: false
 
 I set off from Panama city at just after 6 o'clock in the morning on Wednesday 3rd of April and my plan was to get to the city of David which lies about 35 miles West of the main border crossing between Panama and Costa Rica. The bike had just recorded 2,000 miles on the odometer the day before and the ride that day was just under 300 miles. The ride itself was pretty non eventful despite the 14 police speed traps that I passed all the way along Highway 1 during it. The 14 police speed traps that I passed were only the ones on the Westbound side of Highway 1, there were at least the same number if not more on the Eastbound side. I eventually arrived at my destination for the night in the city of David at around 3 o'clock in the afternoon and I then spent a quite night contemplating whether or not I would be told when I eventually reached the border the following day, if I had the correct documents or not.
 
-<!--more-->
-
 # Day 108
 
 I left David early at about 8 in the morning and I rode the 35 or so miles to the border along Highway 1. This part of Highway 1 is mostly speed restricted to 60 KPH (40 MPH) and there were also 4 police speed traps along this part of the road. When I eventually arrived at the border crossing at the town of Paso Canoa, about an hour later at 9 in the morning, as I anticipated it was chaos. All there was to suggest that there was a border crossing is a big building with the word "Panama" written on it, there were no signs saying "Frontera" (Spanish for Border), nothing! 

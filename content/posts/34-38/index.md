@@ -1,5 +1,5 @@
 ---
-title: "Days 34 to 38 Gliwice Poland to Lithuania and Slovankia"
+title: "Days 34 to 38 Poland, Lithuania and Ukrainian Border to Slovakia"
 date: 2020-09-19T18:39:41-01:00
 draft: false
 categories:
@@ -16,8 +16,6 @@ tags:
 Once I had finished with my coaching I resumed my travels and I headed North to Warsaw. I stayed in a small hotel on the edge of Warsaw for under 30 Euros and I was able to take the metro in to the city centre which I walked about in for a while, I also found that the old town was somewhat touristy but nonetheless quite interesting.
 
 {{< fig-res res="01-34.jpg" >}}
-
-<!--more-->
 
 {{< fig-res res="02-34.jpg" >}}
 

@@ -1,5 +1,5 @@
 ---
-title: "Days 56 to 58 Turkey Part 2 October 2020"
+title: "Days 56 to 58 Turkey Part 2"
 date: 2020-10-29T13:19:26-01:00
 draft: false
 categories:
@@ -14,8 +14,6 @@ tags:
 After spending 2 nights in the city we set off again up in to the mountains that sit to the south of the city and our first stop was to look at a tree which allegedly over 600 years old, it was certainly the biggest tree that I have ever seen.
 
 {{< fig-res res="01-56.jpg" >}}
-
-<!--more-->
 
 {{< fig-res res="02-56.jpg" >}}
 

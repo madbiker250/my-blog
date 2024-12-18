@@ -15,8 +15,6 @@ I got up early and got ready to head off before 7 am as I knew that I had to con
 
 {{< fig-res res="01-116.jpg" >}}
 
-<!--more-->
-
 So once again I got the back wheel off and the punctured tube out. I checked the tyre again but again I could find nothing that could have caused the puncture. I examined the tube and found a small cut to the centre of the tube meaning that whatever cut it was from the tyre side and not the wheel rim.
 
 Once I replaced the tube with the spare that I had bought the day before I again set off thinking that I would be okay for that day. However, 11 miles out of town and I got another puncture to the back tyre. This time I had no spare tube so I took the wheel off, took out the tube and patched it. It did not hold.

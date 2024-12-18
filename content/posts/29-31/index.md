@@ -1,5 +1,5 @@
 ---
-title: "Days 29 to 31 Montepellier France to Kempten Germany"
+title: "Days 29 to 31 France, Italy, Switzerland and Lichtenstein to Germany"
 date: 2020-08-23T10:31:56-01:00
 draft: false
 categories:
@@ -7,7 +7,9 @@ categories:
 - Europe
 tags:
 - france
+- italy
 - switzerland
+- lichtenstein
 - germany
 ---
 
@@ -16,8 +18,6 @@ tags:
 After a long night of drinking, smoking cigars and chatting I eventually left the home of my friend at at around noon the following day. My plan was to try to get up the highest unpaved road in Europe which is the Coll Du Jandre. However, my over indulgence the previous night had left me short of time so I headed in the general direction of Briancon to see where I ended up at the end of the day.
 
 {{< fig-res res="01-29.jpg" >}}
-
-<!--more-->
 
 Needless to say my journey that day through the French Alps was nothing short of breathtaking view after breathtaking view. However, I was very surprised at the fact that I managed to stop myself from running my bike off of the road whilst staring at the awesome scenery.
 

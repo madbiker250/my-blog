@@ -1,5 +1,5 @@
 ---
-title: "Days 62 to 64 Turkey Part 4 November 2020"
+title: "Days 62 to 64 Turkey Part 4"
 date: 2020-11-06T10:39:56-01:00
 draft: false
 categories:
@@ -14,8 +14,6 @@ tags:
 The road to Antalya was very open and the route that I had chosen swept South down from the mountains 
 
 {{< fig-res res="00-62.jpg" >}}
-
-<!--more-->
 
 {{< fig-res res="01-62.jpg" >}}
 
@@ -105,4 +103,4 @@ I then rode on along the coast to Gallipoli to try to see the First World War mu
 
 {{< fig-res res="31-62.jpg" >}}
 
-So I rode on, all that day in fact, and by mid afternoon I was in the city of Kirklareli which is about 20 miles from the Turkish/Bulgarian border where I managed to get a decent hotel for under 20 Euros.
+So I rode on, all that day in fact, and by mid afternoon I was in the city of Kirklareli which is about 20 miles from the Turkish and Bulgarian border where I managed to get a decent hotel for under 20 Euros.

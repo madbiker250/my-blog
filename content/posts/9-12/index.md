@@ -1,5 +1,5 @@
 ---
-title: "Days 9 to 12 Montellimar France to Krakow Poland"
+title: "Days 9 to 12 France, Italy, Switzerland, Germany and Czech Republic to Poland"
 date: 2019-10-31T14:34:27-01:00
 draft: false
 categories:
@@ -8,7 +8,9 @@ categories:
 tags:
 - france
 - switzerland
+- germany
 - czech republic
+- poland
 ---
 
 # Day 9
@@ -16,8 +18,6 @@ tags:
 The next morning I set off along the D133 in the direction of Gap and at last the sun was out, it was warm and the bike was running well. En route to Gap I passed through the town of Grignan which had a large fortress type building dominating the skyline above the town and so I stopped to take a photo.
 
 {{< fig-res res="10-six.jpg" >}}
-
-<!--more-->
 
 One of the curious things that I have noticed during my riding through France is that the road numbers can suddenly change without warning. For example the D133 that I started on changed mysteriously after about 10 miles and became the D541. Unless one keeps a close eye on this it can get very confusing. Yes, I know a Sat Nav would make this point irrelevant but that's the way I like to travel. Riding further East towards Gap I could see the mountains start to rise in the distance. It had been several years since I had ridden over any Alpine passes and I was looking forward to it but by now the sun was strong, it was very warm, and the scenery forced me to stop, not only to capture its beauty and grandeur but also to pause and soak it all up over a cup of coffee or two.
 

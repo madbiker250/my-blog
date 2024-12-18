@@ -16,8 +16,6 @@ During my stay in Managua I managed to obtain 2 new electrical relays for the bi
 
 {{< fig-res res="01-120.jpg" >}}
 
-<!--more-->
-
 Once the new electrical relays had been fitted and the sand cleaned out I was ready to go so I left Managaua at around 7 o'clock in the morning and headed for the border with Honduras. During my journey to the border the odometer on the bike turned 4000 miles. 
 
 The ride from Managua to the border was relatively uneventful except for an ass-hole driving a Toyota pickup who decided to pull out in front of me as I was overtaking him and the bus in front of him. He was too close to the bus to see if he could safely overtake the bus or not  but apparently that did not matter to him nor did looking in his mirrors.

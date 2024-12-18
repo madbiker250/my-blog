@@ -16,8 +16,6 @@ It was another hot day in Honduras, when I set off from Puerto Cortes at 7 o'clo
 
 {{< fig-res res="01-121.jpg" >}}
 
-<!--more-->
-
 On my arrival at the Honduran side of the border at 8 o'clock in the morning, as usual I was stopped and asked for my passport. I was then allowed to proceed to the main border building. I had hoped that by arriving at the border early it would be relatively quiet. However, when I parked the bike I saw a huge queue of people standing at the Honduras exit window, apparently everyone else had the same idea as me.
 
 {{< fig-res res="02-121.jpg" >}}
