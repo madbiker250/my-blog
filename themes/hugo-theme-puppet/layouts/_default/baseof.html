@@ -6,7 +6,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  {{ $title := .Title }}
+  {{ $title := .Title | default .Site.Title }}
   {{- if not .IsHome }}
     {{ $title = printf "%s | %s" .Title .Site.Title }}
   {{ end -}}
@@ -41,7 +41,7 @@
   {{ end }}
   {{- end -}}
 
-  <script src={{ "js/lazysizes.min.js" | relURL }}></script>
+ <script src="{{ "js/lazysizes.min.js" | relURL }}"></script>
 
   <!-- custom js -->
   {{- range .Site.Params.custom_js -}}
@@ -99,8 +99,8 @@
   <!-- Main Content -->
   <div class="container">
     <div class="row">
-      {{ if eq .Site.Params.sidebar.enable false }}
-
+      {{ if eq (.Site.Params.sidebar.enable | default true) false }}
+      
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
       postlist-container">
         {{ block "container" . }}{{ end }}
@@ -144,6 +144,7 @@
   {{ end }}
 
   {{ partial "footer.html" . }}
-</body>
+
+ </body>
 
 </html>
