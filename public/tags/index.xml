@@ -6,20 +6,27 @@
     <description>Recent content in Tags on OFF THE HAMSTER WHEEL</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jan 2025 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 17:30:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colombia</title>
+      <link>http://localhost:1313/tags/colombia/</link>
+      <pubDate>Thu, 09 Jan 2025 17:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/colombia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peru</title>
+      <link>http://localhost:1313/tags/peru/</link>
+      <pubDate>Thu, 09 Jan 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/peru/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ecuador</title>
       <link>http://localhost:1313/tags/ecuador/</link>
       <pubDate>Wed, 08 Jan 2025 20:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ecuador/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Colombia</title>
-      <link>http://localhost:1313/tags/colombia/</link>
-      <pubDate>Sat, 04 Jan 2025 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/colombia/</guid>
       <description></description>
     </item>
     <item>
