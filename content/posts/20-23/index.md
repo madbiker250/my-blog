@@ -12,7 +12,7 @@ tags:
 
 # Day 20
 
-Well with the best of intentions I arrived at my friends house in Galicia in late February 2020. Then suddenly, like almost every other place on the plant, I was unable to travel due to the alleged pandemic. As news of borders re-opening and travel being permitted once again started to circulate, I got the bike ready to move. I fitted new Mitas E-07 tires, carried out an oil and filter change, the engine tappets and the wheel spokes were adjusted as required, a new touring seat purchased and fitted, the brake fluid was changed and both calipers cleaned and greased. I got a set of custom made side plates to stop my soft throwover panniers tucking in on the back wheel and because of the broken rear indicator stem that I picked up when an old man in a car side swiped me in Italy the previous year, I got indicator protectors built in to the plates and once these were fitted the bike was good to go.
+Well with the best of intentions I arrived at my friends house in Galicia in late February 2020. Then suddenly, like almost every other place on the plant, I was unable to travel due to the alleged pandemic. As news of borders re-opening and travel being permitted once again started to circulate, I got the bike ready to move. I fitted new Mitas E-07 tires, carried out an oil and filter change, the engine tappets and the wheel spokes were adjusted as required, a new touring seat purchased and fitted, the brake fluid was changed and both callipers cleaned and greased. I got a set of custom made side plates to stop my soft throwover panniers tucking in on the back wheel and because of the broken rear indicator stem that I picked up when an old man in a car side swiped me in Italy the previous year, I got indicator protectors built in to the plates and once these were fitted the bike was good to go.
 
 {{< fig-res res="01-20.jpg" >}}
 
@@ -32,7 +32,7 @@ I rode on South and the road in parts was sometimes almost single track and then
 
 # Day 22
 
-The next day the sun was shining and it was warm, so it was South on the N2/ As the hills receded the flat plains took over and by late afternoon the temperature had risen to 42 degrees celsius and riding in that was like having someone put a hairdryer in your face. It was one of the hottest days I have ever ridden on and I took the opportunity to take the bike out on to a sandbank in a reservoir alongside the N2 near Montargil to try to cool both it and me down a little near the water.
+The next day the sun was shining and it was warm, so it was South on the N2/ As the hills receded the flat plains took over and by late afternoon the temperature had risen to 42 degrees Celsius and riding in that was like having someone put a hairdryer in your face. It was one of the hottest days I have ever ridden on and I took the opportunity to take the bike out on to a sandbank in a reservoir alongside the N2 near Montargil to try to cool both it and me down a little near the water.
 
 {{< fig-res res="04-20.jpg" >}}
 

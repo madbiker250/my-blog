@@ -63,7 +63,7 @@ Having fuelled up in Aosta I knew that the range of the bike was good enough to 
 
 {{< fig-res res="19-six.jpg" >}}
 
-A hour or so later I arrived at my destination for the evening, Ravensburg. After settling in at the hotel that evening, I met up with a friend who happened to be living there for a short time and then I had a wander around the town. I stayed at a relatively inexpensive hotel that I had found online the day before for a reasonable 25 Euros.
+A hour or so later I arrived at my destination for the evening, Ravensburg. After settling in at the hotel that evening, I met up with a friend who happened to be living there for a short time and then I had a wander around the town. I stayed at a relatively inexpensive hotel that I had found on-line the day before for a reasonable 25 Euros.
 
 {{< fig-res res="20-six.jpg" >}}
 

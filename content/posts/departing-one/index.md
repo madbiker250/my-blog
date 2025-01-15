@@ -17,8 +17,6 @@ After a cold but uneventful 500 mile journey I arrived at Folkestone to drive on
 
 {{< fig-res res="01-bike.jpg" >}}
 
-<!--more-->
-
 As you can see in the above picture, you just drive up, wait a few minutes and then drive on to the train, and 20 or so minutes later you are in France. Once in France i found my way to my hotel in Calais and settled down for the night. The following day a long, but cold, 500 mile trip through the motorways of central France saw me safely tucked up in a very bohemian hotel in the town of Milau. You can say what you like about the French, you may like them or loath them but undeniably they have their own very definite sense of fashion and style.
 
 {{< fig-res res="02-bike.jpg" >}}
@@ -39,4 +37,4 @@ I seized the opportunity to photograph the Goldcrest which I have only rarely se
 
 {{< fig-res res="03-bird.jpg" >}}
 
-I continued my journey happy to have seen such a beautiful and rare bird up close before it flew off back up in to the tree from whence it came. My arrival at my friends home was made 200 miles further on and in late afternoon. Once there I was greeted by a large plate of home made soup stuffed with chorizo sausage and a large pile of freshly baked bread. A long ride on my bike on foreign shores, good food with a good friend, for me life just does not get any better!
+I continued my journey happy to have seen such a beautiful and rare bird up close before it flew off back up in to the tree from whence it came. My arrival at my friends home was made 200 miles further on and in late afternoon. Once there I was greeted by a large plate of home made soup stuffed with Chorizo sausage and a large pile of freshly baked bread. A long ride on my bike on foreign shores, good food with a good friend, for me life just does not get any better!

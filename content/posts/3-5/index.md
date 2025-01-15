@@ -52,7 +52,7 @@ Now this is where I have to have a rant about this situation.
 
 Once in Spain I had to borrow money from my friend to obtain flights back to the UK and get the mess sorted out. I organised my travel back to the UK and about one week later later I presented myself at a branch of my bank in London where I was able to unlock my account, only to then be told that it was the bank's mistake and my account should never have been locked in the first instance.
 
-I have subsequently made a complaint and a claim for financial compensation for unnecessary expenditure of over five hundered pounds for the flights, train tickets and hotel accomodation that I had to buy as aresult of their mistake.
+I have subsequently made a complaint and a claim for financial compensation for unnecessary expenditure of over five hundred pounds for the flights, train tickets and hotel accommodation that I had to buy as a result of their mistake.
 
 However two months later as I write this post I have still not received an apology nor a refund for my expenses to get back to the UK from Spain. I normally don't carry lots of cash on me, just cards, but after this I will ensure that I always have access to some method of getting cash other than from my bank, that is until I change banks, because I do not intend to remain with my present one for very much longer if I can help it.
 

@@ -10,7 +10,7 @@ series = ["Themes Guide"]
 
 The speed limits in Lithuania are 50 km/h (50 mph) in built up areas, 90 km/h (56 mph) outside built up areas, and 130 km/h (86 mph) on motorways
 
-In Lithuania the motorways and the non motorwary main roads are both called A roads and the smaller roads just have numbers.
+In Lithuania the motorways and the non motorway main roads are both called A roads and the smaller roads just have numbers.
 
 I never rode on the motorways in Lithuania so I cannot comment on them. The main roads that I rode on are of a poorer standard than those in the rest of Europe that I have ridden on to date.
 

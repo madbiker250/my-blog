@@ -13,8 +13,6 @@ tags:
 
 The de-cluttering of a life is something I can now definitely recommend and whether the de-cluttering is solely of unused physical possessions or otherwise is up to you, but it is a process that for me has prompted a realisation that it is perhaps something that I should have done a long time ago. I was surprised at the quantity of items that I possessed for which I had no real use. I may have had a use for them at one time in my life but there they sat in the cupboard, loft, or drawer willing me to hang on to them for just another year, just in case….
 
-<!--more-->
-
 For some strange reason that I have not quite settled on, I appear to have been suffering from the delusion that most of the physical possessions that were swamping my existence were actually necessary or were actually going to be used by me at some point in the not too distant future. However, after a bout of unexpected clarity I realised that the several nearly new suits hanging in my wardrobe (my work attire from my previous life) had not only mysteriously shrunk by at least two inches around the waist but were so old that they were in imminent danger of becoming fashionable.
 
 The cathartic part of all of this de-cluttering of a life came in two parts. The first part was the removal of the suits along with a great number of other items to a local charity shop for disposal. The shop was staffed by an amiable and well-mannered woman in her sixties who seemed genuinely grateful for my decision to choose her particular charity shop to make my donations to. The impression that what I was now doing would somehow benefit someone less fortunate than I whilst probably delusional, was at least for a short time very satisfying.

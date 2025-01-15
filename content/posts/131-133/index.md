@@ -47,7 +47,7 @@ I went to immigration and got my entry stamp as no cost. I then went to the cust
 
 I got on the bike and rode to it. There a customs guy took the 2 bits of papers and then filled out my TIP on his computer. Then he gave me another 2 bits of paper and told me to give the small one to the customs guys at the actual border. I got back on the bike, rode another 100 yards to the actual border where the small piece of paper was taken from me and then that was it. I was allowed to enter Costa Rica.
 
-I stopped just after the border to sort out my bags and to take the obligatory border crossing photo on my entrance in to costa Rica. 
+I stopped just after the border to sort out my bags and to take the obligatory border crossing photo on my entrance in to Costa Rica. 
 
 {{< fig-res res="05-131.jpg" >}}
 
@@ -120,7 +120,7 @@ I parked up at the Costa Rican immigration and customs building which is a coupl
 
 I then went to the customs to have my TIP cancelled, I was given a form to fill out with all the usual stuff, then I handed it back with my paper copy of my TIP. After a few minutes of bashing away on a keyboard the customs guy came out from behind the desk and went to look at my bike. On this occasion, no checking of numbers other than the registration number and that was it I was free to return to Panama. 
 
-I then parked up under the big canopy at the actual Panamanian Corsta Rican border and went to immigration. 
+I then parked up under the big canopy at the actual Panamanian Costa Rican border and went to immigration. 
 
 {{< fig-res res="21-131.jpg" >}}
 

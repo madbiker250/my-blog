@@ -26,7 +26,7 @@ Petrol at the time of writing was about 0.95 US Dollars per litre.
 
 Panama is awash with police using hand held speed guns and they are everywhere. On most roads where the speed limit changes you will find a police bike parked up in the shade or under a bridge operating a speed trap. Sometimes the speed limit signs are obvious but sometimes they are not.
 
-There are also a lack of signs on exiting built up areas telling you that you have left it so you can be riding for a few miles before you see a sign telling you that the speed restriction is over. Such signs are either the higher or lower speed limit signs, or a Yellow diamond shaped sign wth Black writing telling you (in Spanish) to reduce or resume your speed. All very haphazard so beware.
+There are also a lack of signs on exiting built up areas telling you that you have left it so you can be riding for a few miles before you see a sign telling you that the speed restriction is over. Such signs are either the higher or lower speed limit signs, or a Yellow diamond shaped sign with Black writing telling you (in Spanish) to reduce or resume your speed. All very haphazard so beware.
 
 To buy a SIM card for a mobile phone you need to go to any mobile phone retail shop and you are required to produce your passport to buy the SIM card. When I did this the cost was around 5 US Dollars for 7 days of unlimited internet. 
 

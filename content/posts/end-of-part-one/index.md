@@ -13,8 +13,6 @@ I started my RTW trip properly when I bought my Himalayan in August of 2019. Sin
 
 {{< fig-res res="01-pt1.jpg" >}}
 
-<!--more-->
-
 In covering those miles I have ridden for just 98 days of actual travelling, which averages out at around 350 miles (590 km) per day. 98 days of actual travelling in 3 years, not a lot!
 
 The reasons for this are quite evident. The insanity that was, and in some places still is, Covid 19 and all the associated restrictions on travel that were largely directed at those like myself who opted not to take the gene therapy injection. These restrictions have severely impacted on my ability to travel as I had planned to.

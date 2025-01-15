@@ -45,7 +45,7 @@ Once my break was over I resumed my ride and by late afternoon I had reached the
 
 {{< fig-res res="12-114.jpg" >}}
 
-As the hotel had no restaurant I wandered about the town looking for something to eat. As I was doing so i saw some of the typical carnage on the main street when a large vehicle wants to maneuver.
+As the hotel had no restaurant I wandered about the town looking for something to eat. As I was doing so i saw some of the typical carnage on the main street when a large vehicle wants to manoeuvre.
 
 {{< fig-res res="11-114.jpg" >}}
 
@@ -53,7 +53,7 @@ I eventually found a small place grilling food so I sat in for something and whi
 
 {{< fig-res res="10-114.jpg" >}}
 
-Both here in Nicaragua and in Costa Rica I saw lots of people riding bikes with no helmets, here in Nicaragua it is common to see multiple people on a bike none of whom are wearing helmets. I asked a guy at a bike shop about this and from what I understood, there are laws requiring helemets to be worn but a lot of people don't bother and the police don't bother about it either.
+Both here in Nicaragua and in Costa Rica I saw lots of people riding bikes with no helmets, here in Nicaragua it is common to see multiple people on a bike none of whom are wearing helmets. I asked a guy at a bike shop about this and from what I understood, there are laws requiring helmets to be worn but a lot of people don't bother and the police don't bother about it either.
 
 # Day 115
 
@@ -73,13 +73,13 @@ I went out for a walk to see if I could find the beach but I could not get to it
 
 {{< fig-res res="15-114.jpg" >}}
 
-I saw on google maps that a section of road ran next to the waterfront at the North end of town but as it was about 2 miles away I decided to take the bike but as I was getting near to where I wanted to go to I felt the back end of the bike go all squirelly on me. Yes, it was a puncture to my rear tyre and all of my stuff was back in the hotel. I managed to pull over beside a small shop and as I was wondering what to do a couple of guys came out and offered some help. I managed to communicate my issue to them and they kindly drove me to my hotel and back.
+I saw on google maps that a section of road ran next to the waterfront at the North end of town but as it was about 2 miles away I decided to take the bike but as I was getting near to where I wanted to go to I felt the back end of the bike go all squirely on me. Yes, it was a puncture to my rear tyre and all of my stuff was back in the hotel. I managed to pull over beside a small shop and as I was wondering what to do a couple of guys came out and offered some help. I managed to communicate my issue to them and they kindly drove me to my hotel and back.
 
 I then set about taking the wheel off the bike.
 
 {{< fig-res res="16-114.jpg" >}}
 
-The valve had ripped from the tube and was not repairable. I checked the outside and the inside of the tyre to see if I could find anything that might be sticking in to the tyre that might have caused the pucture but I could find nothing.
+The valve had ripped from the tube and was not repairable. I checked the outside and the inside of the tyre to see if I could find anything that might be sticking in to the tyre that might have caused the puncture but I could find nothing.
 
 {{< fig-res res="17-114.jpg" >}}
 

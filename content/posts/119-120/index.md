@@ -18,7 +18,7 @@ During my stay in Managua I managed to obtain 2 new electrical relays for the bi
 
 Once the new electrical relays had been fitted and the sand cleaned out I was ready to go so I left Managaua at around 7 o'clock in the morning and headed for the border with Honduras. During my journey to the border the odometer on the bike turned 4000 miles. 
 
-The ride from Managua to the border was relatively uneventful except for an ass-hole driving a Toyota pickup who decided to pull out in front of me as I was overtaking him and the bus in front of him. He was too close to the bus to see if he could safely overtake the bus or not  but apparently that did not matter to him nor did looking in his mirrors.
+The ride from Managua to the border was relatively uneventful except for an ass-hole driving a Toyota pick-up who decided to pull out in front of me as I was overtaking him and the bus in front of him. He was too close to the bus to see if he could safely overtake the bus or not  but apparently that did not matter to him nor did looking in his mirrors.
 
 As he pulled out I swung the bike hard over to the left, as I passed him he continued to pull out and I hit his driver's mirror with my nearside mirror and my elbow. My front side bag crashed in to his door with such force that the bike bounced across the road and on to the gravel verge on the left hand side of the road but managed to stay upright and then I managed to get back on to the road and on to the correct side in front of the bus before a lorry that was now approaching, reached me. 
 
@@ -37,7 +37,7 @@ Then I had to go and get the customs to inspect my bike. I was made to open and 
 
 Once this had been done I had to go to the customs window and have my TIP cancelled and noted in my customs declaration form. Once this had been done I them had to go back to the customs officers who had searched my bags and hand them the customs declaration form. I was now free to leave Nicaragua at it was about 12 noon by this time.
 
-Once the border barrier was opened (a large metal pole across the road) I was in Honduras and about 20 yards after the barrier I saw the customs buildings on my right. As soon as I stopped two guys approached me and offered to help with the border crossing. Apparently this is common in this part of the world. As I had read online that the TIP in Honduras in a bureaucratic nightmare and takes a long time to obtain if you try to do it yourself, I agreed to allow them to help.
+Once the border barrier was opened (a large metal pole across the road) I was in Honduras and about 20 yards after the barrier I saw the customs buildings on my right. As soon as I stopped two guys approached me and offered to help with the border crossing. Apparently this is common in this part of the world. As I had read on-line that the TIP in Honduras in a bureaucratic nightmare and takes a long time to obtain if you try to do it yourself, I agreed to allow them to help.
 
 My helpers then took me to the immigration window where I had to pay my 3 US Dollar entry fee in local currency, I did not have any at that time but as I was explaining this to the immigration officer a guy approached me and offered to exchange some for me. I gave him the remnants of my Nicaraguan currency and got enough in exchange to pay the entry fee. 
 
@@ -53,7 +53,7 @@ Then a while later the guy came back with my TIP which was valid for 30 days. No
 
 So I got on the bike and then rode towards Tegucigalpa but as I was getting low on petrol I stopped at the first petrol station to fill up and get a coffee. I tried to use the internet on my mobile phone but it was very slow and fortunately the petrol station where I had stopped at had the Claro mobile phone sign. One of the staff looked at my phone and then checked my number in her terminal. 
 
-Apparently I needed to top up the phone as it had no credit, the ass-hole who sold me the SIM card never explained that I also needed to buy credit as well as the SIM card. Once topped up I had internet so I looked online and found a room in a hostel at a cost of about 50 US Dollars for 2 nights. 
+Apparently I needed to top up the phone as it had no credit, the ass-hole who sold me the SIM card never explained that I also needed to buy credit as well as the SIM card. Once topped up I had internet so I looked on-line and found a room in a hostel at a cost of about 50 US Dollars for 2 nights. 
 
 I then continued on towards Tegucigalpa but as I was getting closer to the city I saw a large fire ahead of me on the right hand side of the road and the entire road in front of me was obscured by smoke. As I hit the smoke I felt intense heat and I could virtually see nothing, suddenly through the smoke about 10 yards away I saw a large lorry directly in front of me indicating that I was now on a right hand bend, I swerved hard to the right and within seconds I was out of the smoke and safely round the bend. 
 
@@ -97,7 +97,7 @@ Then I went for a paddle to cool off my feet. The beach was really nice and the 
 
 {{< fig-res res="12-120.jpg" >}}
 
-Once showered and changed I headed out to explore the town and to get somemthing to take back to the apartment to eat. The town was alright but apart from a couple of streets full of local shops, a couple of banks, and one big supermarket, there was really nothing else in it except a huge port where lots of big ships were docked.
+Once showered and changed I headed out to explore the town and to get something to take back to the apartment to eat. The town was alright but apart from a couple of streets full of local shops, a couple of banks, and one big supermarket, there was really nothing else in it except a huge port where lots of big ships were docked.
 
 I went in to the supermarket to buy what I needed, there were two armed security guards standing at the front door and two more patrolling the small car park in front of it, and again, all of them were carrying pump action shotguns.
 

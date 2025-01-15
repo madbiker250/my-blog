@@ -18,7 +18,7 @@ I bought a card for the transport systems from the kiosk in the San Antonio metr
 
 To top the card up I would need to use the automatic machines that are located in every metro and tram station but these only take bank cards. If I didn't want to use these then I would have to go to a kiosk and top up using cash but this facility was not available in every station as some of the kiosks that I saw in the various stations that I was in were closed. I rode on both the metro and tram systems and they are both very modern, very clean, well maintained, spacious, and air conditioned.
 
-The part of the city that my hotel was situted in appears to have most of the older looking buildings in it so I presume that this area was the historical centre of the city. However it also has most of the larger modern buildings in it and I did stumble upon a large square in which some form of modern architecture or sculpure was located. The square was filled with lots of vertical steel poles, I have absolutely no idea what they are supposed to represent other than some nightmare that the designer was having at the time of their conception.
+The part of the city that my hotel was situated in appears to have most of the older looking buildings in it so I presume that this area was the historical centre of the city. However it also has most of the larger modern buildings in it and I did stumble upon a large square in which some form of modern architecture or sculpture was located. The square was filled with lots of vertical steel poles, I have absolutely no idea what they are supposed to represent other than some nightmare that the designer was having at the time of their conception.
 
 {{< fig-res res="01-med.jpg" >}}
 
@@ -36,7 +36,7 @@ I then did my usual thing of walking around and taking photographs of whatever I
 
 {{< fig-res res="07-med.jpg" >}}
 
-Near the San Antionio metro station I saw a very large building that had been constucted of dark and light stone giving it a rather unusual appearance. As it was borded by the elevated metro line, high buidings, and partially obsured by a lot of trees, it was difficult for me to get a good photo of it. I believe that the building is currently used as a cultural centre but I have no idea what it was formely used for.
+Near the San Antionio metro station I saw a very large building that had been constructed of dark and light stone giving it a rather unusual appearance. As it was bordered by the elevated metro line, high buildings, and partially obscured by a lot of trees, it was difficult for me to get a good photo of it. I believe that the building is currently used as a cultural centre but I have no idea what it was formerly used for.
 
 {{< fig-res res="08-med.jpg" >}}
 
@@ -62,7 +62,7 @@ The part of the city in which my hotel was situated is the busiest part of the c
 
 {{< fig-res res="16-med.jpg" >}}
 
-On Thursday morning I took the metro South to the Poblado area as I had been told that this was a popular place for toursits to hang about in bars and restaurants. It was a bit of a climb uphill from the metro station and when I finally got up to Polblado I was very dissappointed. There were only a couple of small streets with a few bars in them and there was not much else there. So I walked back down the hill and walked back in to the city along the main road that ran beside the metro line just to see a bit more of the city. 
+On Thursday morning I took the metro South to the Poblado area as I had been told that this was a popular place for tourists to hang about in bars and restaurants. It was a bit of a climb uphill from the metro station and when I finally got up to Polblado I was very disappointed. There were only a couple of small streets with a few bars in them and there was not much else there. So I walked back down the hill and walked back in to the city along the main road that ran beside the metro line just to see a bit more of the city. 
 
 On Sunday morning I decided to walk from the city centre out to the Laureles area of the city which I had been told was one of the best parts of Medellin. It was a nice hot sunny day for a walk and as it was a Sunday the traffic in the city centre was also quite light.
 
@@ -76,13 +76,13 @@ Eventually I reached the Laureles area and I found it to be a very well kept and
 
 {{< fig-res res="19-med.jpg" >}}
 
-Also in the Laureles area there didn't seem to be any tourists about except me. The restaurants were mostly full of locals and there were even queues of people standing outside of some of them. I have never understood people who do the queueing for food thing but despite these strange people I found the Laureles area to be the best part of Medellin that I had been to and if anyone ever asks me about where to go in the city this is where I would reccomend that they go to.
+Also in the Laureles area there didn't seem to be any tourists about except me. The restaurants were mostly full of locals and there were even queues of people standing outside of some of them. I have never understood people who do the queueing for food thing but despite these strange people I found the Laureles area to be the best part of Medellin that I had been to and if anyone ever asks me about where to go in the city this is where I would recommend that they go to.
 
-On my walk back in to the city centre I encountered some street entertainers juggling machettes for the drivers held up at stationary traffic. Very impressive.
+On my walk back in to the city centre I encountered some street entertainers juggling machetes for the drivers held up at stationary traffic. Very impressive.
 
 {{< fig-res res="20-med.jpg" >}}
 
-My overall impression of Medellin is that is very manic in the centre where my hotel was situated as it was constantly packed with throngs of people and the streets were full of traffic. There was nothing much for me to do or see in the Poblado area but I found the Laureles area very much to my liking as it had a very laid back and relaxed feel to it. I also think that overall Medellin is quite a safe city and like Bogota I never reeally saw anything that I would consider as dangerous.
+My overall impression of Medellin is that is very manic in the centre where my hotel was situated as it was constantly packed with throngs of people and the streets were full of traffic. There was nothing much for me to do or see in the Poblado area but I found the Laureles area very much to my liking as it had a very laid back and relaxed feel to it. I also think that overall Medellin is quite a safe city and like Bogota I never really saw anything that I would consider as dangerous.
 
 I did see one car v bike accident at a junction near to where I was sitting but the way that everyone drives here, well that sort of thing is only to be expected now and again. I also saw a good few homeless people sitting about some of the streets who were obviously smoking some form of narcotic, such as crack cocaine, from home made pipes and although whenever I got too close to one of them they smelled awful due to their lack of personal hygiene, they never seemed to bother anyone.
 

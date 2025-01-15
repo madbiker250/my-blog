@@ -12,8 +12,6 @@ tags:
 
 I arrived in the city of Opole about a month ago and I must say that of the little of Poland that I have seen, I like this country. In places Poland reminds me of Scotland as it used to be about 40 years ago and in other places it looks just like any other modern European country.
 
-<!--more-->
-
 {{< fig-res res="01-pol.jpeg" >}}
 
 There is no doubt that there is very little money floating around this part of Poland, probably why so many Polish people travel to the UK and Germany to find better paid employment, and this is why some parts of this country remind me of Scotland during the 1970's.
@@ -40,7 +38,7 @@ If refusing immigration from African and Middle Eastern countries is keeping the
 
 {{< fig-res res="07-pol.jpeg" >}}
 
-However, I can already hear the howls of dissent and cries of "Bigot!" or "Racist!" to this opinion. Social Justice Warriors (SJW's) everywhere must be thinking "how dare such people be allowed to hold such non politically correct views, the EU must go in to Poland at once and enforce multiculturalism and immigration on the Polish people whether they want it or not". If you look closely at the news, and by this I mean get your information from several different sources instead of obediently swallowing the multi-culturalist propaganda pushed out by liberal elitist news media outlets such as the BBC or SKY News, you might just see that far from being a utopia filled with rainbows and sunshine, Europe is starting to come apart at the seams. Largely due to the EU policy of unrestrained illegal immigration, the ordinary people (SJW's - please read bigot or racist here) of other European countries are starting to elect governments or politicians who are starting to question such policies.
+However, I can already hear the howls of dissent and cries of "Bigot!" or "Racist!" to this opinion. Social Justice Warriors (SJW's) everywhere must be thinking "how dare such people be allowed to hold such non politically correct views, the EU must go in to Poland at once and enforce multiculturalism and immigration on the Polish people whether they want it or not". If you look closely at the news, and by this I mean get your information from several different sources instead of obediently swallowing the multiculturalist propaganda pushed out by liberal elitist news media outlets such as the BBC or SKY News, you might just see that far from being a utopia filled with rainbows and sunshine, Europe is starting to come apart at the seams. Largely due to the EU policy of unrestrained illegal immigration, the ordinary people (SJW's - please read bigot or racist here) of other European countries are starting to elect governments or politicians who are starting to question such policies.
 
 {{< fig-res res="08-pol.jpeg" >}}
 

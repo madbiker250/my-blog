@@ -21,7 +21,7 @@ The following morning I set off to have a look at the city of Satiago De Veragua
 
 {{< fig-res res="01-101.jpg" >}}
 
-I asked a local for directions to the ATTT offices but after following his directions as best as I understood them, I did not find it so I then headed off for the town of Boquette. Boquette is in the mountains next to a volcano and is one of the main coffee growing areas in Panama. I had arranged to stay with a friend for a few days as a guest in his house so from Santiago I rode West to the city of David and then I turned North on to Highway 41. Atter riding up to the town and finding my way to the home of my friend I settled in and then set off to explore the town.
+I asked a local for directions to the ATTT offices but after following his directions as best as I understood them, I did not find it so I then headed off for the town of Boquette. Boquette is in the mountains next to a volcano and is one of the main coffee growing areas in Panama. I had arranged to stay with a friend for a few days as a guest in his house so from Santiago I rode West to the city of David and then I turned North on to Highway 41. After riding up to the town and finding my way to the home of my friend I settled in and then set off to explore the town.
 
 {{< fig-res res="04-101.jpg" >}}
 
@@ -41,7 +41,7 @@ North of the town at the very end of the road there is apparently a waterfall so
 
 I also took the road up to the volcano which is shown as a national park but when I got to the end of the road there was nothing there except a sign saying “National Park” pointing up a very steep and very rocky road which is obviously used by trekkers and 4WD vehicles. In my opinion Boquette was very scenic but unless you are in to hiking in to the hills there is very little for a biker to do there. 
 
-Something that drew my attention was the apparent lives of the ex-pats some of whom I met in the local bars. My observations were that they all appeared to be living the exact same life that I was living prior to me stepping off the hamster wheel, that is that they just appeared to socialise in and around the bars in the town. Now I may be completely wrong and these people may have very fulfilled and interesting lives but for the few days that I was there, I saw the same people in the same bars, doing the same thing, drinking beer or soemthing else, and talking about everyone else that was not present.
+Something that drew my attention was the apparent lives of the ex-pats some of whom I met in the local bars. My observations were that they all appeared to be living the exact same life that I was living prior to me stepping off the hamster wheel, that is that they just appeared to socialise in and around the bars in the town. Now I may be completely wrong and these people may have very fulfilled and interesting lives but for the few days that I was there, I saw the same people in the same bars, doing the same thing, drinking beer or something else, and talking about everyone else that was not present.
 
 This is what I gladly left behind when I started my travels and whilst they all appeared to be very nice people I could not help but think that in moving to Panama they did not really change their lives very much, the only thing that they really changed was the location where they did the same thing that they did in their country of origin. 
 

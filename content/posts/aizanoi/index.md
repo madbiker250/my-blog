@@ -17,8 +17,6 @@ One of the most amazing things on this site was a complete underground vault tha
 
 {{< fig-res res="01-az.jpg" >}}
 
-<!--more-->
-
 {{< fig-res res="03-az.jpg" >}}
 
 {{< fig-res res="04-az.jpg" >}}

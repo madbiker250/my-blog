@@ -13,8 +13,6 @@ The Northwest of Spain where my friend lives reminds me of Scotland, it is a pla
 
 {{< fig-res res="01-gal.jpg" >}}
 
-<!--more-->
-
 During the winter months, largely due to the amount of water in this area, a ground frost or mist usually lingers till about 10 o'clock in the morning until the sun disposes of it.
 
  {{< fig-res res="02-gal.jpg" >}}

@@ -15,8 +15,6 @@ tags:
 
 This is news to me but according to the upper class twit the BBC produced to explain to the assembled peasantry, the UK apparently buys its oil in US Dollars and since the pound has fallen against the dollar oil is therefore more expensive to buy. Like the argument for imported goods this sounds reasonable unless you are an adult with an IQ over 20, semi-literate, and or live in central Scotland.
 
-<!--more-->
-
 Now if you do not live in this part of the world I know you must be thinking to yourself, what is so special about central Scotland?
 
 Well in this part of the world is a town called Grangemouth and in this sleepy hamlet by the sea there is a huge oil refinery that is directly linked by a pipeline to the Forties oil field in the North Sea. This refinery is so big that for about a 20 mile radius all you can see are the massive flames above the refinery caused by the excess gas from the refining process burning off. The platforms of the Forties oil field are reported to push about a half of million barrels of oil a day along this pipeline in to the Grangemouth refinery or storage tanks linked to it. I mean there is so much oil coming down that pipeline that they actually have to put it in to tankers and ship the stuff to other parts of the world. Now for some strange reason that escapes me, this oil which is extracted from UK waters and piped to Scotland comes ashore as US dollars in liquid form. I might be missing something here but do they really expect us to believe that this UK Government owned oil is somehow sold on the markets and then bought back in US Dollars as it sits in tanks in Grangemouth?

@@ -12,8 +12,6 @@ The damage to the bike engine was substantial so I knew that it would take more 
 
 {{< fig-res res="01-rb.jpg" >}}
 
-<!--more-->
-
 I decided to take the opportunity to do some other inspection and maintenance which would be much easier to do with the engine out of the frame. The strip down of the engine was fairly straightforward. Most of the bikes that I have owned and worked on were Japanese multi cylinder models where the crankcases are split horizontally however, on this bike the cases are split vertically. I wondered why until I saw that all of the engine and gearbox shafts run on roller bearings that are set in to the casings meaning it is a much stronger engine compared to typical shell bearing that are commonly used in most other bike engines.
 
 {{< fig-res res="02-rb.jpg" >}}

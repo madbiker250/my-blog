@@ -13,9 +13,9 @@ draft: false
 
 # Day 136
 
-I set off from Medellin at around seven o'clock in the morning, it was overcast and it looked as if it was about to rain but I had high hopes of staying dry once I had gotten out of the city and I was heading in the direcection of the Caribbean coast. I had a brief entanglement with the morning rush hour traffic but as I was heading out of the city rather than in to it I managed to avoid the worst of the traffic chaos. I eventually found the correct road, the Autopista al Mar 1, and I headed up in to the mountains to the North of the city and within a half an hour I was clear of Medellin.
+I set off from Medellin at around seven o'clock in the morning, it was overcast and it looked as if it was about to rain but I had high hopes of staying dry once I had gotten out of the city and I was heading in the direction of the Caribbean coast. I had a brief entanglement with the morning rush hour traffic but as I was heading out of the city rather than in to it I managed to avoid the worst of the traffic chaos. I eventually found the correct road, the Autopista al Mar 1, and I headed up in to the mountains to the North of the city and within a half an hour I was clear of Medellin.
 
-As the road ascended it got a little cooler but the rain stayed away and then suddenly I was over the summit and on the descent heading generlly North West for the town of Turbo which I had planned to stop in for the evening. The town of Turbo was where, in the pre Covid era, people use to find small boats that would take them and their vehicle around the Darrien Gap by way of a two day sea voyage from there to the port of Colon in Panama.
+As the road ascended it got a little cooler but the rain stayed away and then suddenly I was over the summit and on the descent heading generally North West for the town of Turbo which I had planned to stop in for the evening. The town of Turbo was where, in the pre Covid era, people use to find small boats that would take them and their vehicle around the Darrien Gap by way of a two day sea voyage from there to the port of Colon in Panama.
 
 However like many other things in this world the lack of trade caused by the enforced lockdowns and all of the other associated bullshit put the boats out of business leaving travellers with vehicles who wish to travel between Panama and Colombia with only two options, air freight and container ship.
 
@@ -53,7 +53,7 @@ Once unpacked I walked down to the beach which was about a mile away from the to
 
 {{< fig-res res="11-136.jpg" >}}
 
-Once I had watched the sun go down I headed back in to town for something to eat. There was not much choice so I opted for a burger and two coffees for 18,000 Pesos which is about 4 USD. The town was like many others that I had passed through, filled with lots of people running around on mostly snmall bikes in various states of disrepair, the lights on which seemed to be optional, even in the dark.
+Once I had watched the sun go down I headed back in to town for something to eat. There was not much choice so I opted for a burger and two coffees for 18,000 Pesos which is about 4 USD. The town was like many others that I had passed through, filled with lots of people running around on mostly small bikes in various states of disrepair, the lights on which seemed to be optional, even in the dark.
 
 {{< fig-res res="12-136.jpg" >}}
 
@@ -65,7 +65,7 @@ The next day it was sunny and warm and as I prepared to leave I decided to take 
 
 {{< fig-res res="14-136.jpg" >}}
 
-Further up the coast in the town of Arboletes I saw a building that was in the final stages of construction which was obviously going to be some kind of themed tourist resort hotel, it looked like a small Disneyland castle and I thoght that it looked very out of place in this part of the world
+Further up the coast in the town of Arboletes I saw a building that was in the final stages of construction which was obviously going to be some kind of themed tourist resort hotel, it looked like a small Disneyland castle and I thought that it looked very out of place in this part of the world
 
 {{< fig-res res="15-136.jpg" >}}
 
@@ -81,7 +81,7 @@ An hours or so later I reached the main town of Monteria which was very busy, fu
 
 It took me a while to get out of the town but once on the road North to Cartagena the traffic disappeared and the road became much quieter and more enjoyable. By the time that I was about an hour or so away from Cartagena I saw some heavy black clouds over the road ahead of me in the distance so I pulled off the road and sat in a small roadside restaurant for a coffee and a cigar. However, the owner was grilling some meat over a  fire so I couldn't resist and I had to have some. I had two coffees, a bottle of water, and a plate of grilled beef for 24,000 pesos which was about just over 5 USD.
 
-By the time I had finished my after lunch cigar and coffees the thunderstorm had passed but before setting off on the bike again I decided to use the facilities. The toilet was very clean however it had a very unusual method for flushing away whatver was deposited in it. I just had to take a photo of what I saw.
+By the time I had finished my after lunch cigar and coffees the thunderstorm had passed but before setting off on the bike again I decided to use the facilities. The toilet was very clean however it had a very unusual method for flushing away whatever was deposited in it. I just had to take a photo of what I saw.
 
 {{< fig-res res="19-136.jpg" >}}
 
@@ -91,6 +91,6 @@ As I entered the outskirts of Cartagena I encountered another toll station and a
 
 {{< fig-res res="20-136.jpg" >}}
 
-I had some difficulty finding suitable accomodation in Cartagena online that had parking for my bike. I found a couple of places but they all appeared to be hostels and they were at the lower end of the price range. As there were no pictures of the exteriors I suspected that they were located in not very nice areas but as it was getting late I decided that I would just take whatever was available. I got to the place that I had booked and eventually after about an hour the owner showed up only to tell me that the place was full but if I were to follow him then he had another place available nearby.
+I had some difficulty finding suitable accommodation in Cartagena on-line that had parking for my bike. I found a couple of places but they all appeared to be hostels and they were at the lower end of the price range. As there were no pictures of the exteriors I suspected that they were located in not very nice areas but as it was getting late I decided that I would just take whatever was available. I got to the place that I had booked and eventually after about an hour the owner showed up only to tell me that the place was full but if I were to follow him then he had another place available nearby.
 
-The first place that I had opted for was indeed in a not very nice neighbourhood so I was glad to escape from there. I followed the owner to the other place and arrived just as it was getting dark. This neighbourhood was only a slightly better place than where I had just been hanging around in but at least the bike and I would behind a locked gates and doors for the night. The place was very basic although clean enough (no insects or bad smells) but what can you expect in a big city for about 7 USD a night? I dedicded to stay behind bars for the rest of the evening and to leave exploring Caragena until daylight the following day.
+The first place that I had opted for was indeed in a not very nice neighbourhood so I was glad to escape from there. I followed the owner to the other place and arrived just as it was getting dark. This neighbourhood was only a slightly better place than where I had just been hanging around in but at least the bike and I would behind a locked gates and doors for the night. The place was very basic although clean enough (no insects or bad smells) but what can you expect in a big city for about 7 USD a night? I decided to stay behind bars for the rest of the evening and to leave exploring Caragena until daylight the following day.

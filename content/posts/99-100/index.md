@@ -23,7 +23,7 @@ The hostel was cheap at $10 per night but one of the downsides of the place was 
 
 {{< fig-res res="05-99.jpg" >}}
 
-Anyway, once I had settled in at the hostel, a day or two later I took a ride along the coast road till I could go no further but to my disappointment I never saw the great beaches nor annything else worthwhile photographing, it was a very uninspiring trip and to make matters worse the road was full of potholes. 
+Anyway, once I had settled in at the hostel, a day or two later I took a ride along the coast road till I could go no further but to my disappointment I never saw the great beaches nor anything else worthwhile photographing, it was a very uninspiring trip and to make matters worse the road was full of potholes. 
 
 # Day 100
 
@@ -39,7 +39,7 @@ My destination for the day was Las Tablas which is situated on the peninsula dir
 
 As you can see in the photo I have bought a set of Lomo throw-over panniers and a stuffa bag as new luggage. I also bought a couple of new bags for the side rails but as I am still experimenting with the distribution of my stuff I have not used them yet. Once I sort all of this stuff out at some point in the future you will eventually see them attached to the bike. On my main website I will also post reviews of the bags as I use them and find out what they are like to use on such a trip.
 
-After being fed and watered I headed off again and as I was a few miles from the junction where I was to leave Highway 1 and take Highway 2 to Las Tablas, I was waived in to the side of the road by two cops who were on the road about 100 yards ahead of me. When I got off the bike and spoke to them they showed me a radar gun with the figure of 82 kph on it, I agreed that was my speed as I was in an 80kph zone but they told me that I was in a 60kph zone. I never saw the sign (if it was even there) and what really pissed me off was that just before I saw them and as they were in the process waving me in to the side of the road, I was being overtaken my a number of cars. However, I was the chosen victim and that was that. I got a ticket which I shall now have to pay whether I was actually speeding or not.
+After being fed and watered I headed off again and as I was a few miles from the junction where I was to leave Highway 1 and take Highway 2 to Las Tablas, I was waived in to the side of the road by two cops who were on the road about 100 yards ahead of me. When I got off the bike and spoke to them they showed me a radar gun with the figure of 82 kph on it, I agreed that was my speed as I was in an 80 kph zone but they told me that I was in a 60 kph zone. I never saw the sign (if it was even there) and what really pissed me off was that just before I saw them and as they were in the process waving me in to the side of the road, I was being overtaken my a number of cars. However, I was the chosen victim and that was that. I got a ticket which I shall now have to pay whether I was actually speeding or not.
 
 This was my first speeding ticket in forty six years of riding bikes and hopefully it will be my last.
 

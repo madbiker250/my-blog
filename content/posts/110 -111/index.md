@@ -23,7 +23,7 @@ As I rode further North the road climbed even higher and eventually I found myse
 
 It took me a while to get up over the top of the mountains and to get down and out from under the cloud. By the time that I did so I was very cold, so I made a quick stop for a hot coffee in a sunny spot to heat up a bit. Then once I had warmed up I got back on the bike and continued to head down from the mountains, I quickly reached the town of Cartago. I then took road number 10 from Cartago to the city of Limon on the Caribbean coast where I had booked accommodation for a couple of nights.
 
-When I made my first unsuccessful attempt at crossing in to Costa Rica in February, I had originally planned to visit Limon before exploring the rest of Costa Rica. When I had looked at the pictures of Limon online, it looked quite inviting. On my arrival though I wish I had not bothered riding all the way there. Limon is a shit hole, just like the city of Colon in Panama. I stopped at the seafront, I parked the bike, took some photos, and wondered what I was going to do here for the next couple of days. 
+When I made my first unsuccessful attempt at crossing in to Costa Rica in February, I had originally planned to visit Limon before exploring the rest of Costa Rica. When I had looked at the pictures of Limon on-line, it looked quite inviting. On my arrival though I wish I had not bothered riding all the way there. Limon is a shit hole, just like the city of Colon in Panama. I stopped at the seafront, I parked the bike, took some photos, and wondered what I was going to do here for the next couple of days. 
 
 {{< fig-res res="12-110.jpg" >}}
 
@@ -57,7 +57,7 @@ Anyway at around 8 in the morning the rain stopped and I made a break for it, bu
 
 Once out of the town of Cartago I backtracked along up Highway 2 in to the mountains back in the direction of San Isidro for a few miles, I then took road number 244 to a small town called San Marcos where I had arranged to meet up with another biker and his wife. Tonny and Katerine, who are from Denmark, have been travelling for about 10 months now travelling down from the USA and through Central America on a pair of Honda CRF 300's.
 
-Once I met up with Tonny and Katrine in the town of San Marcos they introduced me to a local biker who then took us all to a local coffee manufacturing plant that happened to have an onsite coffee house so that we could try out the local brew and very nice it was too.
+Once I met up with Tonny and Katrine in the town of San Marcos they introduced me to a local biker who then took us all to a local coffee manufacturing plant that happened to have an on-site coffee house so that we could try out the local brew and very nice it was too.
 
 {{< fig-res res="22-110.jpg" >}}
 

@@ -23,7 +23,7 @@ In my planning for the trip, I learned from the published information on the Ger
 
 # Day 71
 
-The next morning it was still raining and it was cold for the time of year, about 11 degrees celsius. I was not looking forward to the prospect of transiting Germany in one day but needs must so I rode to the border where to my surprise I found nothing, no checkpoints, no testing stations, no border guards nor police. I rode on through Germany and towards France on the Autobahn where my route took me past Dresden, Nuremberg, and Stuttgart to my final destination, Strasbourg. It was motorway all of the way and it was cold and wet, all of the way. Not one of my best days and as I approached the German/French border guess what I found? Yes that's correct, nothing (again). 
+The next morning it was still raining and it was cold for the time of year, about 11 degrees Celsius. I was not looking forward to the prospect of transiting Germany in one day but needs must so I rode to the border where to my surprise I found nothing, no checkpoints, no testing stations, no border guards nor police. I rode on through Germany and towards France on the Autobahn where my route took me past Dresden, Nuremberg, and Stuttgart to my final destination, Strasbourg. It was motorway all of the way and it was cold and wet, all of the way. Not one of my best days and as I approached the German/French border guess what I found? Yes that's correct, nothing (again). 
 
 So this is where I need to have another little rant.
 

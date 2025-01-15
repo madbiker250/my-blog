@@ -2,32 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-01-17T17:30:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/blog/</loc>
-    <lastmod>2025-01-12T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-12T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/150-152/</loc>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/peru/</loc>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/south-america/</loc>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-12T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lima/</loc>
+    <lastmod>2025-01-12T14:50:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/148-149/</loc>
+    <lastmod>2025-01-12T14:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/147/</loc>
     <lastmod>2025-01-12T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ecuador/</loc>
     <lastmod>2025-01-12T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/peru/</loc>
-    <lastmod>2025-01-12T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-12T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/south-america/</loc>
-    <lastmod>2025-01-12T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-12T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/148-149/</loc>
-    <lastmod>2025-01-09T22:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/themes-guide/colombia/</loc>
     <lastmod>2025-01-09T17:30:00+01:00</lastmod>
@@ -39,9 +48,6 @@
     <lastmod>2025-01-09T17:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/themes-guide/</loc>
-    <lastmod>2025-01-09T17:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
     <lastmod>2025-01-09T17:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/145-146/</loc>
@@ -133,9 +139,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/123-124/</loc>
     <lastmod>2024-05-05T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/themes-guide/untitled/</loc>
-    <lastmod>2024-05-03T12:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/themes-guide/honduras/</loc>
     <lastmod>2024-05-03T12:22:00+01:00</lastmod>

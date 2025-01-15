@@ -25,7 +25,7 @@ Then we rode up to the top of the mountain and to a viewpoint where we could see
 
 {{< fig-res res="05-56.jpg" >}}
 
-Once again Nate and Stefan headed to the dirt to see some old mine workings, however, I again looked at the trail and decided to pass, deciding to wait by my bike and look at the spectaular scenery.
+Once again Nate and Stefan headed to the dirt to see some old mine workings, however, I again looked at the trail and decided to pass, deciding to wait by my bike and look at the spectacular scenery.
 
 {{< fig-res res="06-56.jpg" >}}
 
@@ -67,7 +67,7 @@ All over this part of Turkey there are ancient cave dwellings to be found. We ex
 
 {{< fig-res res="20-56.jpg" >}}
 
-We found a nice spot in the forrest and then pitched up for the night.
+We found a nice spot in the forest and then pitched up for the night.
 
 {{< fig-res res="21-56.jpg" >}}
 
@@ -77,4 +77,4 @@ We found a nice spot in the forrest and then pitched up for the night.
 
 # Day 58
 
-The following day Nate and Stefan wanted to explore a large underground cave so we set of to find it, but as that is not something that interests me so when we arrived, I remained with the bikes whilst they went on foot to the cave. The cave is just outside a very small village, so while they guy were off potholing I was trying to communicate with the old men sitting in a cafe. They plied me with tea and I plied them with some dark chocolate that I had with me, and between that and a bit of sign language we got on well and when the guys returned we set of again in search of another campsite. We found a nice spot in the forest and then pitched up for the night. However, about 3 o'clock in the morning all of us awoke to sounds in our campsite, it was 3 wolves. They had just come to see what the strange smells were but obviously when we started moving about they started to withdraw, and to make sure that they stayed away Nate started up his bike and began honking the horn. As I was lying in my tent trying to get back to sleep I suddenly realised why the shepherd's dogs had spiked collars, to stop the wolves from killing them.
+The following day Nate and Stefan wanted to explore a large underground cave so we set of to find it, but as that is not something that interests me so when we arrived, I remained with the bikes whilst they went on foot to the cave. The cave is just outside a very small village, so while they guy were off potholing I was trying to communicate with the old men sitting in a cafe. They plied me with tea and I plied them with some dark chocolate that I had with me, and between that and a bit of sign language we got on well and when the guys returned we set of again in search of another campsite. We found a nice spot in the forest and then pitched up for the night. However, about three o'clock in the morning all of us awoke to sounds in our campsite, it was 3 wolves. They had just come to see what the strange smells were but obviously when we started moving about they started to withdraw, and to make sure that they stayed away Nate started up his bike and began honking the horn. As I was lying in my tent trying to get back to sleep I suddenly realised why the shepherd's dogs had spiked collars, to stop the wolves from killing them.

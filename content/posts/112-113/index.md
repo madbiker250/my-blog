@@ -42,7 +42,7 @@ However I was a tad early to check in so once I had parked the bike I ordered a 
 
  A lot of the shops were permanently closed as indicated by the for sale and for lease signs on the closed roller shutters and as a result the city felt as if it was slowly sinking in to decay. I decided to walk back to my hotel which took me about 40 minutes or so and during my walk I passed by two public parks which were full of people sitting on benches chatting, mostly young couples, but there were also a lot of drunks lying passed out on the grass and on benches. The stench of stale urine wafted through the air as I passed these parks. Not nice.
 
- I had decided to try to cross the border in to Nicaragua the next moring so when I returned to my hotel, after having a few coffees and cigars in the rear courtyard, it was an early night for me.
+ I had decided to try to cross the border in to Nicaragua the next morning so when I returned to my hotel, after having a few coffees and cigars in the rear courtyard, it was an early night for me.
 
 # Day 113
 
@@ -68,13 +68,13 @@ I then had to go to immigration inside the main building to get my entry stamp a
 
 {{< fig-res res="13-112.jpg" >}}
 
-Again, the woman on the immigrtation desk wanted to see my passport, driving licence, and my bike ownership document. She also wanted my CDF that I had completed. Again 10 minutes of reading and photographing, and asking me the same obvious questions as before, then she needed my destination which was a hotel that I had booked on Booking.com. I showed her my phone but of course it was in English which she could not read. Another 10 minutes of her looking up the hotel on her phone and eventually I got my entry stamp in my passport and a stamp on my CDF once I had paid the entrance fee.
+Again, the woman on the immigration desk wanted to see my passport, driving licence, and my bike ownership document. She also wanted my CDF that I had completed. Again 10 minutes of reading and photographing, and asking me the same obvious questions as before, then she needed my destination which was a hotel that I had booked on Booking.com. I showed her my phone but of course it was in English which she could not read. Another 10 minutes of her looking up the hotel on her phone and eventually I got my entry stamp in my passport and a stamp on my CDF once I had paid the entrance fee.
 
 Next, I had to unload the bike and bring all of my bags in the main building to be put through the x-ray scanner. The woman operating the machine asked for my CDF, scanned all of my bags and made me open my side bags, apparently she had never seen a small multi purpose toolkit or rubber inner tubes for a bike before but I then got her stamp on my CDF. Then I had to go and wait outside for 3 customs offers, 2 men and a woman, to inspect my bike. I took off the seat and stood beside my pile of bags whilst they carried out their inspection. 
 
 Again I was asked for my passport, driving licence, my bike ownership document and my CDF by one of the men. The other man and the woman just stood and looked at my naked bike. Once the man had again photographed everything I got his signature on my CDF. I then went to the customs office window in the main building where I was asked to show my passport, driving licence, my bike ownership document and my CDF. Again after a lot of reading and photographing I got a stamp on my CDF and I was told to go to the next window to get my TIP.
 
-However, then the tourist office guy who had a desk next to the TIP window snaffled me for my tourist tax. Then I went to the TIP window where again i was asked for my passport, driving licence, my bike ownership document and my CDF. Another 10 minutes of reading and looking at the computer passed and as I suspected the United Kingdom is called Reino Unido in Spanish so unless you know what to look for you wont find it under U on a Spanish language computer. Eventually i was asked to confirm my country was Reino Unido and when this happened I got my TIP.
+However, then the tourist office guy who had a desk next to the TIP window snaffled me for my tourist tax. Then I went to the TIP window where again i was asked for my passport, driving licence, my bike ownership document and my CDF. Another 10 minutes of reading and looking at the computer passed and as I suspected the United Kingdom is called Reino Unido in Spanish so unless you know what to look for you wont find it under U on a Spanish language computer. Eventually I was asked to confirm my country was Reino Unido and when this happened I got my TIP.
 
 Then I went to the cashiers window which was the next one along from the TIP window and I paid for my vehicle fumigation and my TIP. Then outside the front door of the main building I had to buy insurance for the bike and thereafter I was free to legally enter Nicaragua.
 

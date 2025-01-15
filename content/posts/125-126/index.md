@@ -92,7 +92,7 @@ I continued to ride South on road number CA-2 and after a while I turned North o
 
 The road started climbing and as it rose up in to the mountains I saw that the tops were covered in cloud, surprisingly though when I entered the cloud it was not cold, that's a definite first for me on a bike. Once above the clouds I was again in sunshine and shortly after I began descending in to Santa Ana.
 
-I tried to find my accommodation for the night, a hostel near the centre of the city, but again I had a tussle with Google maps. As I had forgotten to buy a SIM card at the border I had offline maps but no internet. Eventually with the help of a guy in a shop where the Google maps directed me to I found the place and he telephoned the owner, who arrived within a few minutes. 
+I tried to find my accommodation for the night, a hostel near the centre of the city, but again I had a tussle with Google maps. As I had forgotten to buy a SIM card at the border I had off-line maps but no internet. Eventually with the help of a guy in a shop where the Google maps directed me to I found the place and he telephoned the owner, who arrived within a few minutes. 
 
 The owner and his wife, Manuel and Marisha, were most welcoming and did everything they could to make me feel welcome. In fact, I liked the place so much that I decided to stay for 2 nights which I paid 32 US dollars for. El Salvador uses the USD as its currency.
 

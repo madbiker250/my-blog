@@ -17,8 +17,6 @@ tags:
 
 I have bought a new Himalayan from the local dealer here and as it only had 2 kilometres on the clock, I had to begin the process of breaking the engine in. So in real terms that means keeping the engine speeds below 3,000 RPM for the first 300 miles (500 km) which translates in to a top speed of 40 mph (60 kph)
 
-<!--more-->
-
 {{< fig-res res="02-ct.jpg" >}}
 
 I left the dealership and headed for the nearest petrol station to fill up and that's when I noticed an oil leak on the left hand side of the engine. I had a similar leak on the previous bike and it was the O ring behind the camshaft cover plate that had failed, and on this occasion the same O ring failed, so it was back to the dealers and I left it there to be fixed.

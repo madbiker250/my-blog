@@ -16,7 +16,7 @@ The motorways signs have a Blue background with the number in Red/White, the mai
 
 The smaller roads are generally in much poorer states of repair than in other European countries, however the other roads are generally good.
 
-There are some speed cameras and there are a lot partolling police cars on the motorways. The police also operate lots of speed traps from patrolling police cars parked at the side of the road on both main and smaller roads.
+There are some speed cameras and there are a lot patrolling police cars on the motorways. The police also operate lots of speed traps from patrolling police cars parked at the side of the road on both main and smaller roads.
 
 The Poland does not use the Euro but petrol was generally much cheaper than any country that uses the Euro and at the time of writing was the equivalent of 0.90 Euros per litre.
 

@@ -14,8 +14,6 @@ It's been a while since I have updated this blog, a lot has happened to me since
 
 As I travelled from Glasgow airport to my home the views of Glasgow from the motorway made my heart sink like the Titanic and like it, I hit rock bottom very quickly. On my way home I stopped at a large supermarket to get some provisions and I was quickly reminded of the lack of common courtesy displayed by most people who shop there.
 
-<!--more-->
-
 As I got back to my house I thought to myself, the same horrible weather, the same horrible people, and so for the next couple of months I then amused myself by taking part in the pantomime that is "Selling a House".
 
 God almighty!

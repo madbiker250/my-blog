@@ -12,7 +12,7 @@ draft: false
 
 # Impressions of Bogota
 
-My hotel in Bogota was situated in a good location near to the popular tourist neighbourhood of La Candelaria and close to a major pedestrian street full of shops and bars. This side of Bogota is bordered by some hills on top of which sits the church of Monserrate which is another favourite tourist spot. I don't normally do the tourist bit but since I was in the city for a few days I decided to venture up to the top using the fenicular railway. However once I got to the base of the hill there were large queues of peole wating to go up so that put paid to me going up as I hate queing for such things.
+My hotel in Bogota was situated in a good location near to the popular tourist neighbourhood of La Candelaria and close to a major pedestrian street full of shops and bars. This side of Bogota is bordered by some hills on top of which sits the church of Monserrate which is another favourite tourist spot. I don't normally do the tourist bit but since I was in the city for a few days I decided to venture up to the top using the funicular railway. However once I got to the base of the hill there were large queues of people waiting to go up so that put paid to me going up as I hate queuing for such things.
 
 {{< fig-res res="01-bog.jpg" >}}
 
@@ -24,7 +24,7 @@ So I went for a wander about and I found that in this city all of the shops that
 
 {{< fig-res res="04-bog.jpg" >}}
 
-Whilst waking about I also saw numerous bicycles that had small 2 stroke engines fitted to them and lots of people were buzzing about on these in the pedestrian street. Apparently no helemet is required to ride them.
+Whilst waking about I also saw numerous bicycles that had small 2 stroke engines fitted to them and lots of people were buzzing about on these in the pedestrian street. Apparently no helmet is required to ride them.
 
 {{< fig-res res="05-bog.jpg" >}}
 
@@ -67,9 +67,9 @@ There were Colombian cops in full riot gear standing about but I don't know why 
 
 When the race was over the pedestrian street turned in to one huge flea market with lots of people laying out things for sale on tarpaulins or blankets.
 
-As I walked back from the end of the pedestrian street on the main road on which my hotel was situted I saw a police cordon on the other side of the road. As I got closer I could see that there was a dead body lying in the middle of the road covered by a tarpaulin but the feet were sticking out of the bottom of it.
+As I walked back from the end of the pedestrian street on the main road on which my hotel was situated I saw a police cordon on the other side of the road. As I got closer I could see that there was a dead body lying in the middle of the road covered by a tarpaulin but the feet were sticking out of the bottom of it.
 
-I could not tell if the guy had jumped from one of the buildings next to the road or if he had been run over by a vehicle, although he was quite far out from the building and there were no vehicles stopped inside or near to the cordon. It looked to me as if the guy had been murdered and had collapsed and died in the middle of the road whilst trying to escape from his assailant after having been fataly wounded. Just my opinon based on what I previously did for a living.
+I could not tell if the guy had jumped from one of the buildings next to the road or if he had been run over by a vehicle, although he was quite far out from the building and there were no vehicles stopped inside or near to the cordon. It looked to me as if the guy had been murdered and had collapsed and died in the middle of the road whilst trying to escape from his assailant after having been fatally wounded. Just my opinion based on what I previously did for a living.
 
 Just like in every other big city around the world, people kill other people for various reasons but that having been said I enjoyed my time in Bogota and I never saw anything that I would remotely consider as dangerous.
 

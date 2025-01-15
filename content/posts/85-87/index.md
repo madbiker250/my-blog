@@ -19,7 +19,7 @@ When I eventually crossed the Albanian border it was late in the afternoon so my
 
 {{< fig-res res="02-85.jpg" >}}
 
-All of the countries that I had visited since leaving have their own currencies and none of them use the Euro. This caused me some issues, the first being that at all of the border crossings that I had used there was a distinct lack of places to change the any currency. The second was that some of the currencies, like the Serbian dinar can not be exchanged once you are in another country. Therefore I had to try and estimate how much local cash I would need for each country in order that I was not left with a load of unusable cash once I had left that particular country. However, once I had purchased a SIM car and I was back online and I quickly found a nearby hotel run by a really friendly owner who sat and spoke to me in English for over an hour. He sat and told me about his family and his country after which I ate some local grilled meat washed down by a local beer, superb! My hotel was very nice and well worth the 20 Euros that I paid for my large comfortable room. 
+All of the countries that I had visited since leaving have their own currencies and none of them use the Euro. This caused me some issues, the first being that at all of the border crossings that I had used there was a distinct lack of places to change the any currency. The second was that some of the currencies, like the Serbian dinar can not be exchanged once you are in another country. Therefore I had to try and estimate how much local cash I would need for each country in order that I was not left with a load of unusable cash once I had left that particular country. However, once I had purchased a SIM car and I was back on-line and I quickly found a nearby hotel run by a really friendly owner who sat and spoke to me in English for over an hour. He sat and told me about his family and his country after which I ate some local grilled meat washed down by a local beer, superb! My hotel was very nice and well worth the 20 Euros that I paid for my large comfortable room. 
 
 # Day 86
  
@@ -72,4 +72,4 @@ By late afternoon I had arrived in Sarande which I found to be little different 
 
 {{< fig-res res="22-85.jpg" >}}
 
-I obtained a room at an overpriced hotel for about 35 Euros, the cheapest available, and spent a restless night being constantly wakened by passing traffic or late night revelers heading home.
+I obtained a room at an overpriced hotel for about 35 Euros, the cheapest available, and spent a restless night being constantly wakened by passing traffic or late night revellers heading home.

@@ -61,7 +61,7 @@ I was cooked as by now the temperature was registering as 47 degrees Celsius. Th
 
 {{< fig-res res="08-121.jpg" >}}
 
-I got in to my room and headed for the shower. There was no running water in the room. I went down to the reception and the guy came up for a look to confirm that there was indeed no runnung water in my room. He then said that he would give me another room but... as the only onther rooms he had available had air conditioning, then this would be an extra $10 thank you very much! I proteseted but as it was made clear to me that it was a case of take it or leave it, I grudingly parted with the $10.
+I got in to my room and headed for the shower. There was no running water in the room. I went down to the reception and the guy came up for a look to confirm that there was indeed no running water in my room. He then said that he would give me another room but... as the only other rooms he had available had air conditioning, then this would be an extra $10 thank you very much! I protested but as it was made clear to me that it was a case of take it or leave it, I grudgingly parted with the $10.
 
 {{< fig-res res="09-121.jpg" >}}
 
@@ -99,7 +99,7 @@ Once back at my hotel I did the usual stuff, like writing the days events in my 
 
 So the previous evening I had decided to ride to the city of Coban which, when you look at a map of Guatemala, sits just above the capital city. Again it was a hot one with the bike registering 33 degrees Celsius as I set off at just before 8 o'clock in the morning. I stopped to fill up the bike with petrol and then took what looked like the best way out of town, bypassing a large town some 10 miles away.
 
-The road was empty with a new tatmac surface, everything was going great until 5 miles in to the journey when the tarmac ran out and it turned in to a gravel road full of potholes for the next 5 miles or so. Now I know why no-one else was using this road. However, once my off road excursion was over, I was back on tarmac and heading South.
+The road was empty with a new tarmac surface, everything was going great until 5 miles in to the journey when the tarmac ran out and it turned in to a gravel road full of potholes for the next 5 miles or so. Now I know why no-one else was using this road. However, once my off road excursion was over, I was back on tarmac and heading South.
 
 This part of Guatemala is not how I imagined it to be as it's very flat. Therefore the journey was pretty boring except for the speed bumps, or as they are called here "Tumulos", that seem to be everywhere on the roads in this country. Most of them are unmarked and they are large, rough strips of badly formed concrete slapped over the road in a mound like fashion. 
 

@@ -32,7 +32,7 @@ Some of the surrounding streets are also tree lined giving people some welcome s
 
 {{< fig-res res="20-san.jpg" >}}
 
-The sea front has a nice but relavively short walkway with the usual tourist traps placed strategically along it and at the Southeren end there is a small beach. At the Northern end of the walkway there is a container port and this is where the large Caribbean cruise liners dock before discharging their tourist occupants in to the city for their visit ashore.
+The sea front has a nice but relatively short walkway with the usual tourist traps placed strategically along it and at the Southern end there is a small beach. At the Northern end of the walkway there is a container port and this is where the large Caribbean cruise liners dock before discharging their tourist occupants in to the city for their visit ashore.
 
 {{< fig-res res="15-san.jpg" >}}
 
@@ -40,7 +40,7 @@ The sea front has a nice but relavively short walkway with the usual tourist tra
 
 {{< fig-res res="17-san.jpg" >}}
 
-A statue of someone had also been placed on the walkway but there was nothing written on it anywhere to suggest who it is of. However I did a bit of online research and I found out that it is a statue of Rodrigo de Bastidas, a Spanish conquistador who founded the city in 1524.
+A statue of someone had also been placed on the walkway but there was nothing written on it anywhere to suggest who it is of. However I did a bit of on-line research and I found out that it is a statue of Rodrigo de Bastidas, a Spanish conquistador who founded the city in 1524.
 
 {{< fig-res res="16-san.jpg" >}}
 
@@ -54,7 +54,7 @@ At night time the main tourist area comes alive with lots of bars and restaurant
 
 {{< fig-res res="27-san.jpg" >}}
 
-In the tourist area there was a good mix of locals and tourists but unfortunately when I was there at night time I was constanlty pestered by people begging for money, something that still happened to me during the day but it hapened much less during the day than it did at night time. There were also lots of people wandering around with small cases full of cigarettes and fake Cuban cigars. The cigarettes were cheap at about 2-3 USD per packet but the fake Cuban cigars were sold at genuine Cuban cigar prices so I never bought any of them but at least every night there was always a very picturesque sunset to end the day.
+In the tourist area there was a good mix of locals and tourists but unfortunately when I was there at night time I was constantly pestered by people begging for money, something that still happened to me during the day but it happened much less during the day than it did at night time. There were also lots of people wandering around with small cases full of cigarettes and fake Cuban cigars. The cigarettes were cheap at about 2-3 USD per packet but the fake Cuban cigars were sold at genuine Cuban cigar prices so I never bought any of them but at least every night there was always a very picturesque sunset to end the day.
 
 {{< fig-res res="28-san.jpg" >}}
 
@@ -64,8 +64,8 @@ During my first few days in the city I met an English guy who was originally fro
 
 I am enjoying my time in Santa Marta which I have found to be a very clean and tidy city. The city is also full of litter bins which the locals seem happy to use, which is a refreshing change. The city is also very safe and although there are a lot of police on patrol I have ever seen anything that I would even remotely consider to be dangerous or even unsafe.
 
-Like the cities of Bogota and Medellin there are some obviously homeless peole sleeping on the streets in the city. However these people do not seem to present any danger to anyone as when they are awake they are always fully occupied searching through the litter bins and rubbish bags looking for things that they can sell, such as empty bottles and empty soda cans. 
+Like the cities of Bogota and Medellin there are some obviously homeless people sleeping on the streets in the city. However these people do not seem to present any danger to anyone as when they are awake they are always fully occupied searching through the litter bins and rubbish bags looking for things that they can sell, such as empty bottles and empty soda cans. 
 
-Santa Marta is a destination which I would be happy to recommend to anyone who wanted to visit Colombia, especially if that person was wanting to stay at or near to the sea. I can definately say that whilst on my travels during the past year Santa Marta is the best place that I have stayed in, so far.
+Santa Marta is a destination which I would be happy to recommend to anyone who wanted to visit Colombia, especially if that person was wanting to stay at or near to the sea. I can definitely say that whilst on my travels during the past year Santa Marta is the best place that I have stayed in, so far.
 
 However all good things must come to an end and soon it will be time for me to do what I actually came to South America to do, to ride my bike to the Southernmost part of South America that I am able to ride it to.

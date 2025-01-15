@@ -30,7 +30,7 @@ After all of the trouble that I had to go to to obtain the correct documents, on
 
 {{< fig-res res="02-107.jpg" >}}
 
-It was still raining heavily when suddenly at about 4 in the afternoon the customs officers decided to start working again and I was called to one of the windows for processing. This time I apparently had the correct documents but the Police document which was valid for 8 days when it was issued 2 days earlier apparently needed a fresh stamp on it for some unexplained reason, so I was sent away to get it. Luckily for me the police office was above the main customs office and once I had obtained the fresh stamp I returned to the window for processing. After handing over all of my original documents I was then asked for copies of certain ones but not all of them. Once this process had been done to the woman's satisfaction I was given my original documents back and told to bring my bike under the covered area and to give my original customs document to the supervisior who was hanging about under the canopy.
+It was still raining heavily when suddenly at about 4 in the afternoon the customs officers decided to start working again and I was called to one of the windows for processing. This time I apparently had the correct documents but the Police document which was valid for 8 days when it was issued 2 days earlier apparently needed a fresh stamp on it for some unexplained reason, so I was sent away to get it. Luckily for me the police office was above the main customs office and once I had obtained the fresh stamp I returned to the window for processing. After handing over all of my original documents I was then asked for copies of certain ones but not all of them. Once this process had been done to the woman's satisfaction I was given my original documents back and told to bring my bike under the covered area and to give my original customs document to the supervisor who was hanging about under the canopy.
 
 I ventured out in to the rain where my bike had now been sitting in very heavy rain for about an hour, the bike started first time. When I parked under the covered area, I was now soaked but I found the customs supervisor who entered the details of my bike in to a book and then that was it, I was free to go to Costa Rica in the pouring rain. I got on the bike and rode 10 yards out from under the covered area and apparently I was in Costa Rica, and I mean in the middle of a major road junction with traffic and pedestrians. Again chaos!
 
@@ -54,7 +54,7 @@ As I set off in to Costa Rica the first thing that I needed to do was to get a S
 
 {{< fig-res res="06-107.jpg" >}}
 
-I don't know how much Internet data I paid for as the woman running the shop did it all from her mobile. Again how very strange. Anyway I asked the woman who topped up my phone where I could change US Dollars for the local currency of Colones and she pointed to a guy in a cowboy hat sitting at the other side of the road. Now this was directly outside the Costa Rican side of the border crossing, however I went over and I exchanged $50 for 25,000 colones. The official exchange rate in 505 colones for 1 US Dollar which means that he only took about half of a US Dollar as a fee. Again I found all of this very odd and almost surreal.
+I don't know how much Internet data I paid for as the woman running the shop did it all from her mobile. Again how very strange. Anyway I asked the woman who topped up my phone where I could change US Dollars for the local currency of Colones and she pointed to a guy in a cowboy hat sitting at the other side of the road. Now this was directly outside the Costa Rican side of the border crossing, however I went over and I exchanged $50 for 25,000 Colones. The official exchange rate in 505 Colones for 1 US Dollar which means that he only took about half of a US Dollar as a fee. Again I found all of this very odd and almost surreal.
 
 {{< fig-res res="09-107.jpg" >}}
 
@@ -90,11 +90,11 @@ By mid afternood I was in San Isidro and after settling in at my accommodation I
 
 Now as I reflect on my border crossing escapades I can not help but think that they way things are done here in Central America seem to only cause issues for law abiding persons such as myself who wish to comply with the requirements for entering and leaving a country legally. Again it seems to me that if you wish to do things legally then there are many problems to be overcome and many fees to be paid.
 
-However, if I were the sort of person who didn't give a toss about such things I could easily have entered Costa Rica without doing all of this stuff by simply riding over the nonexistent border between the countries and have been on my merry way with no hassles or concerns and with more money in my pocket.
+However, if I were the sort of person who didn't give a toss about such things I could easily have entered Costa Rica without doing all of this stuff by simply riding over the non-existent border between the countries and have been on my merry way with no hassles or concerns and with more money in my pocket.
 
 Now I must state here that it did say on a notice at the Costa Rican side of the border that to use a foreign vehicle in Costa Rica without a TIP would result in the confiscation of the vehicle and or a substantial monetary fine, but that's only if you get caught doing it. 
 
-However, once I crossed the border legally I rode for about 8 hours and for about 150 miles or so and I only saw 1 police patrol car, so as far as I can see from my limited time in the country the chances of being caught seem to be slim to nonexistent. 
+However, once I crossed the border legally I rode for about 8 hours and for about 150 miles or so and I only saw 1 police patrol car, so as far as I can see from my limited time in the country the chances of being caught seem to be slim to non-existent. 
 
 Now I might be wrong but I don't suppose that a criminal would really care about doing things legally, taking advantage of such unsecured borders to travel freely between countries without scrutiny and doing what a criminal does. Maybe this is why Central America has a reputation for being a dangerous and lawless place. 
 

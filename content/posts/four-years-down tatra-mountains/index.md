@@ -14,8 +14,6 @@ The Krynica Area of Southern Poland
 
 {{< fig-res res="01-tm.jpg" >}}
 
-<!--more-->
-
 {{< fig-res res="02-tm.jpg" >}}
 
 {{< fig-res res="03-tm.jpg" >}}

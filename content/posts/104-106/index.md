@@ -7,6 +7,7 @@ categories:
 - Central America
 tags:
 - panama
+
 draft: false
 ---
 
@@ -26,19 +27,19 @@ Anyway, I went down the stairs at the side of the bridge and I go to the immigra
 
 I won't go in to the details of what the documents are but suffice to say that they all are aimed at making certain that I do not owe any money to the Government in the way of fines or duties pertaining to my bike before I leave the country with it. The customs officer then refused me clearance to leave without these documents so I then had to return to immigration to have my exit stamp cancelled much to the annoyance of the immigration officers. 
 
-The bike had now been sitting on the bridge for about 1 hour so when I returned the customs guys on the bridge were furious and started shouting at me. I just pleaded ignorance, put my helemt on, performed a U turn and rode off back South in the direction that I had come the previous day. 
+The bike had now been sitting on the bridge for about 1 hour so when I returned the customs guys on the bridge were furious and started shouting at me. I just pleaded ignorance, put my helmet on, performed a U turn and rode off back South in the direction that I had come the previous day. 
 
-As it was now 11 o'clock in the moring and I had to get back to the city of David by early evening, about 180 miles away, I pressed on stopping only to releive the pressure on my rear end or to have a quick cup of coffee. I reached the city of David near to the Pacific coast around 4 o’clock and I spent two nights at a nice hostel there for $25 per night as I tried to find a way not to return to Panama city, however all of my attempts to find a way to obtain the necessary doumentaion locally were to no avail. 
+As it was now 11 o'clock in the morning and I had to get back to the city of David by early evening, about 180 miles away, I pressed on stopping only to relieve the pressure on my rear end or to have a quick cup of coffee. I reached the city of David near to the Pacific coast around 4 o’clock and I spent two nights at a nice hostel there for $25 per night as I tried to find a way not to return to Panama city, however all of my attempts to find a way to obtain the necessary documentation locally were to no avail. 
 
 # Day 105
 
-I then rode from David back along Highway 1 to Penonome where I stopped in a hotel for the evening, which was a little more expensive at $30 for the night and a lot less value as there was also no hot water in my room. I made my way on foot in to Penonome to have a look around but as with most other places that I hvae been to in Panama, there was not really much to see. I did however meet a Canadian guy on a KTM 690 bike who was travelling back North from Panama city and who I also found out was a YouTube content creator documenting his travels on his bike. 
+I then rode from David back along Highway 1 to Penonome where I stopped in a hotel for the evening, which was a little more expensive at $30 for the night and a lot less value as there was also no hot water in my room. I made my way on foot in to Penonome to have a look around but as with most other places that I have been to in Panama, there was not really much to see. I did however meet a Canadian guy on a KTM 690 bike who was travelling back North from Panama city and who I also found out was a YouTube content creator documenting his travels on his bike. 
 
 # Day 106
 
 The following morning I made a slow ride back to Panama city where I had booked in to a hotel for 28 days to give me sufficient time to negotiate all of the bureaucracy in order to obtain all of the required documents. As I reached Panama city I decided to call in to the dealer from whom I had bought my bike to organise an oil and filter change and to have the valve clearances checked as the bike has now done 2,000 miles. I would normally do it myself however I used this as an excuse to ask the salesman, who speaks good English, how and where I could go about obtaining the relevant documents.
 
-It turns out that if I had used the border crossing next to the city of David on the Pacific side, the customs guys there apparently do not ask for these documents. He then told me that 2 weeks earlier he had sold 2 Royal Enfiled Meteor motorbikes to 2 Chiliean people who had the same documentation as I have, the vehicle ownership document and the vehicle insurance certificiate, and they crossed the border from Panama in to Costa Rica without any problems and were now in Guatemala. 
+It turns out that if I had used the border crossing next to the city of David on the Pacific side, the customs guys there apparently do not ask for these documents. He then told me that 2 weeks earlier he had sold 2 Royal Enfield Meteor motorbikes to 2 Chilean people who had the same documentation as I have, the vehicle ownership document and the vehicle insurance certificate, and they crossed the border from Panama in to Costa Rica without any problems and were now in Guatemala. 
 
 If only I had known!
 

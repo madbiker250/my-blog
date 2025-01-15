@@ -22,4 +22,4 @@ I never saw any signs speed cameras nor any patrolling police vehicles.
 
 My personal experience of biking in Croatia was limited to the North of the country above Zadar. Again like Montenegro the coast road is very scenic but heavily congested with slow moving tourist traffic.
 
-I did not buy a SIM card for a mobile phone whilst I was in Croaia so I have no information about how to do this.
+I did not buy a SIM card for a mobile phone whilst I was in Croatia so I have no information about how to do this.

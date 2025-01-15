@@ -14,7 +14,7 @@ draft: false
 
 On my way in to Cartagena I had to ride through the city at around four o'clock in the afternoon and as one can imagine it was complete chaos. Where I was staying was close to the old fortress that is a major landmark and tourist attraction for the city but this area is also at the Northernmost edge of the city so I had to ride through the the entire length of city to get to it.
 
-However, now that I did not need to ride the bike to get anywhere I walked from the place where I was staying in to the old town within the walls of the fortress. This area reminded me a little of the Casco Viejo area of Panama City but it is much larger and much nicer. The whole area is enclosed by the old fortress walls along which I was able to walk to get an elevated view of the place. The walls are not particullarly high at around tweleve to fifteen feet.
+However, now that I did not need to ride the bike to get anywhere I walked from the place where I was staying in to the old town within the walls of the fortress. This area reminded me a little of the Casco Viejo area of Panama City but it is much larger and much nicer. The whole area is enclosed by the old fortress walls along which I was able to walk to get an elevated view of the place. The walls are not particularly high at around twelve to fifteen feet.
 
 {{< fig-res res="01-car.jpg" >}}
 
@@ -44,7 +44,7 @@ I entered the area via a small door and tunnel in the walls and I found it to be
 
 {{< fig-res res="15-car.jpg" >}}
 
-It was all very nice but it was way too touristy for my tastes so I then decided to walk further along the sea front to the Bocagrande area. Appaerently this area has only recently been constructed and was designed to be built to first world standards having such things as proper sanitation, underground electrical cables, and gated and guarded appartment block complexes. As I approached it I could not help but see a similarity between it and the skyline of Panama City. 
+It was all very nice but it was way too touristy for my tastes so I then decided to walk further along the sea front to the Bocagrande area. Apparently this area has only recently been constructed and was designed to be built to first world standards having such things as proper sanitation, underground electrical cables, and gated and guarded apartment block complexes. As I approached it I could not help but see a similarity between it and the skyline of Panama City. 
 
 {{< fig-res res="06-car.jpg" >}}
 
@@ -68,11 +68,11 @@ As they pulled the fish from the sea a squadron of pelicans were in attendance a
 
  Once in the Bocagrande area I sat at a small restaurant on the beach and had a plate of grilled beef and two beers for 24,000 Pesos, just over 5 USD. I then wandered back to the old fortress area and I found a very nice cafe with some comfortable seats that were located in front of the cafe in the shade. I had a couple of coffees and I smoked a cigar as I watched the American tourists wander about looking at Google maps on their mobile phones, trying to find their way about but oblivious to a couple of locals who were watching them rather intently.
 
- Now I am not saying that these locals were theives but the fact that they were foucusing on the American tourists made me more than a little suspicious, old habits die hard I suppose! I then made my way back to my accommodation for the night and settled in behind the bars for another night.
+ Now I am not saying that these locals were thieves but the fact that they were focusing on the American tourists made me more than a little suspicious, old habits die hard I suppose! I then made my way back to my accommodation for the night and settled in behind the bars for another night.
 
-The next moring I decided to set out and have a look at the non touristy part of the city so I got an Uber from where I was staying in to what could best be described as the geographical centre of the city. Unlike a lot of other cities that I have visited, Cartagena does not appear to have any clearly defined central area such as a main square or where the major public buildings are located. Anyway, I got dropped of at a large shopping mall and after retreiving some cash from an ATM at the mall I decided to walk back out along the main road to the sea front.
+The next morning I decided to set out and have a look at the non touristy part of the city so I got an Uber from where I was staying in to what could best be described as the geographical centre of the city. Unlike a lot of other cities that I have visited, Cartagena does not appear to have any clearly defined central area such as a main square or where the major public buildings are located. Anyway, I got dropped of at a large shopping mall and after retrieving some cash from an ATM at the mall I decided to walk back out along the main road to the sea front.
 
-Since I have been in Cartagena I have seen lots of people on bikes where the rider was wearing a helemt but the passenger was not. I also noticed that the bikes were constantly beeping their horns as they rode along and then it dawned on me. They were bike taxis.
+Since I have been in Cartagena I have seen lots of people on bikes where the rider was wearing a helmet but the passenger was not. I also noticed that the bikes were constantly beeping their horns as they rode along and then it dawned on me. They were bike taxis.
 
 {{< fig-res res="26-car.jpg" >}}
 
@@ -80,7 +80,7 @@ Since I have been in Cartagena I have seen lots of people on bikes where the rid
 
 {{< fig-res res="28-car.jpg" >}}
  
- The logic of why anyone would want to ride a bike without basic protection such as a helemt, boots, and gloves escapes me but to get on the back of a bike with a local maniac rider and pay for it! For me that is real insanity but I suppose these people do not have much money and for them it is either do this or walk. 
+ The logic of why anyone would want to ride a bike without basic protection such as a helmet, boots, and gloves escapes me but to get on the back of a bike with a local maniac rider and pay for it! For me that is real insanity but I suppose these people do not have much money and for them it is either do this or walk. 
 
  As I walked back along the main road I could see that the place was very run down and very dirty, being full of rubbish that had been dumped everywhere and anywhere. I also saw a local supermarket with a lockable steel gate and a razor wire topped fence to prevent the place being pillaged during the night whilst closed. Whenever I see these types of fortifications on a supermarket that is all I need to know about what the area is like. 
 
@@ -120,7 +120,7 @@ I don't normally do the touristy bit and visit such places as I have found them 
 
 On entering the castle paypoint area I had to pay 33,000 Pesos, just over 7 USD, to enter and the woman taking the money asked me for my name which I thought was rather strange. However I went with the flow and I gave her my name. The woman at the paypoint then told me to go to the turnstile where another woman was sitting and to give her my name. When I did this the woman at the turnstile then looked at her electronic tablet and located my name. Satisfied that I was indeed the person by the name of Tomas, she allowed me to enter the castle.
 
-If people can think of a complicated or an akward way to do simple things then Central and South America are the places where in my opinion such things are most likely to occur. Surely it would just have been simpler to put the paypoint next to the turnstile and open it when the money was handed over but who am I to criticise the great business minds who run the place.
+If people can think of a complicated or an awkward way to do simple things then Central and South America are the places where in my opinion such things are most likely to occur. Surely it would just have been simpler to put the paypoint next to the turnstile and open it when the money was handed over but who am I to criticise the great business minds who run the place.
 
 So I walked up the steep paths and uo in to the castle only to curse myself for doing so. Yes it was just the same as all of the other such places that I had previously been to. So I just took some photos of Cartagena from the elevated position that the castle afforded me and then I hurried back down to escape the inevitable boredom which would have set in if I had stayed any longer.
 
@@ -134,10 +134,10 @@ So I walked up the steep paths and uo in to the castle only to curse myself for 
 
 {{< fig-res res="43-car.jpg" >}}
 
-On my way back to my accomodation I spotted a small bike powered delivery truck. I had seen many of these on the roads here in Colombia but this was the first one that I had seen parked and which i was able to get a close look at. It seems that these are professionally built and not just a DIY cobbled together job like the ones that I had seen in Central America.
+On my way back to my accommodation I spotted a small bike powered delivery truck. I had seen many of these on the roads here in Colombia but this was the first one that I had seen parked and which i was able to get a close look at. It seems that these are professionally built and not just a DIY cobbled together job like the ones that I had seen in Central America.
 
 {{< fig-res res="44-car.jpg" >}}
 
-My overall impression of Cartagena is that apart from the tourist area inside the walls of the old fortress and the newly built area of Bocagrande, the city is a complete dump. Unfortunately, like all of the other towns and small cities that I have so far visted on the Caribbean side of Central and South America, the city is a shit hole but because of its size it is the biggest shit hole that I have yet been to.
+My overall impression of Cartagena is that apart from the tourist area inside the walls of the old fortress and the newly built area of Bocagrande, the city is a complete dump. Unfortunately, like all of the other towns and small cities that I have so far visited on the Caribbean side of Central and South America, the city is a shit hole but because of its size it is the biggest shit hole that I have yet been to.
 
 Once again I can not say that I saw anything that I would consider dangerous but on occasions and in some areas I felt that my presence, as an obvious tourist, was not welcomed. If anyone were to ask me about visiting Cartagena my advice would be to only stay in the tourist area within the walls of the old fortress, it will be expensive to stay there but at least it will be clean and relatively safe.

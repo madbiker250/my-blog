@@ -15,8 +15,6 @@ tags:
 
 On 16th April 2019 I left the home of my friend in Galicia for Poland where I intended to keep myself busy for a few months doing some coaching. Usually, when going from A to B I would take the fastest route, however, on this trip I wanted to try some alternatives to the fast but expensive toll motorways that are the norm in most of Europe now and see if I could still maintain some sort of schedule. Therefore, I started off by crossing Spain, passing the cites of Leon, Burgos and Soria using the extensive network of N class roads that exist as an alternative to the motorways. 
 
-<!--more-->
-
 As a result I was rewarded with some very empty but well surfaced roads that wound their way through some very picturesque scenery eventually landing me in Zaragoza late that afternoon.
 
 {{< fig-res res="06-sp.jpeg" >}}

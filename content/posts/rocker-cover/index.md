@@ -15,8 +15,6 @@ I arrived in Alvor at the home of my friend and her husband to spend a few days 
 
 {{< fig-res res="01-jane.jpg" >}}
 
-<!--more-->
-
 The only thing that I noticed was that whoever had previously assembled it had used way too much gasket sealant and the oilway at the opposite end of the cylinder head from the timing chain was full of sealant. This was obviously restricting the oil flow so now that it has been cleared, hopefully any potential future disaster has been avoided.
 
 {{< fig-res res="02-jane.jpg" >}}

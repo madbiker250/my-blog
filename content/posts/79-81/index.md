@@ -78,7 +78,7 @@ After my brief photo stop at Poprad castle I continued towards the Hungarian bor
 
 {{< fig-res res="21-79.jpg" >}}
 
-I entered Hungary at about 2 o'clock in the afternoon and by that time it was already approaching 40 degrees celcius. 
+I entered Hungary at about 2 o'clock in the afternoon and by that time it was already approaching 40 degrees Celsius. 
 
 {{< fig-res res="22-79.jpg" >}}
 

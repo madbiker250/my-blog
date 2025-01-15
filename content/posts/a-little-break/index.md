@@ -12,8 +12,6 @@ There is nothing better to lift the spirits than a holiday.
 
 So, in the middle of July I took the bike out and rode it 1000 km to my friend's house in Galicia. Not a cloud in the sky, 40 degrees and the whole journey I managed to do in (Ahem!) hours.
 
-<!--more-->
-
 The only problem I encountered was at about 995 km in to the journey, as I was approaching the cut off for the village where my friend lives, I felt a sharp pain in my back and suddenly more pain, and then again. Having had this pain on a number of occasions before whilst travelling on a bike in the summer, I realised that a wasp had managed to get inside my jacket and was now stinging me but as I was travelling at (Ahem!) mph there was little I could do about it, so it continued to sting me until I reached my friends house. Once there I quickly shed my jacket and when it fell out I stamped the wasp to death. I know I should not have killed it but I needed to do it! 
 
 A cool shower and a bit of vinegar on the stings and I was right as rain again. As usual, once settled by the hospitality of my good friend, a major chill-out thereafter ensued. Each day I struggled to get less that 12 hours sleep! For the first two or three weeks, I seldom got up before 11 o'clock in the morning. However, I did feel that it was the best sleep I have had in years, so I never bothered to set an alarm. 

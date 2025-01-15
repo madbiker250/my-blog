@@ -81,7 +81,7 @@ In the middle of a roundabout in the main road was a giant image of Hugo Chavez.
 
 {{< fig-res res="21-117.jpg" >}}
 
-One other odd thing is that a lot of the taxis here in Nicaragua are a small 125cc motorbike with the front end chopped off and a small two wheeled carriage stuck on to the front of it. 
+One other odd thing is that a lot of the taxis here in Nicaragua are a small 125 cc motorbike with the front end chopped off and a small two wheeled carriage stuck on to the front of it. 
 
 {{< fig-res res="22-117.jpg" >}}
 

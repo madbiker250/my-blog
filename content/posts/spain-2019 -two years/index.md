@@ -13,8 +13,6 @@ So........ the story so far.
 
 I left the city of Reus in in December 2018 for the home of my good friend in Galicia, with only a vague idea about what I wanted to do next. En route I decided to visit the city of Leon, a city that I had always wanted to see but had never actually gotten around to visiting. Leon lived up to my expectations. 
 
-<!--more-->
-
 {{< fig-res res="01-spain.jpeg" >}}
 
 {{< fig-res res="02-spain.jpeg" >}}

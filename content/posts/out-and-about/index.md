@@ -27,7 +27,7 @@ I rode the bike to the City of Colon on the Caribbean side of the isthmus of Pan
 
 The amount of litter and decay was stunning. All of the old colonial buildings that lined the main road were either burned out or stripped, leaving decaying empty shells. The city functions as a major port and is the Caribbean entrance to the Panama canal, therefore much of the city is devoted to this industry. The centre of the city is an absolute dump and I decided not to go back there, however one of the guys in a bike shop that I was in told me that some of the best beaches in Panama are along the coast to the East of Colon, so if I decide to visit these beaches that will entail passing through the city but the lure of great beaches will probably not be enough to make me return. Colon is well named, it's a shit hole.
 
-On the way back to Panama city, I could not resist the smell of grilling meat that wafted over the road, so I parked up at one of the many small grills that line the road here and I ate a pile of grilled pork and chorizo sausages for under 5 Dollars (They use the US Dollar here)
+On the way back to Panama city, I could not resist the smell of grilling meat that wafted over the road, so I parked up at one of the many small grills that line the road here and I ate a pile of grilled pork and Chorizo sausages for under 5 Dollars (They use the US Dollar here)
 
 {{< fig-res res="07-ri.jpg" >}}
 
@@ -47,7 +47,7 @@ Then I decided to turn around and head back to Panama city and en route I had to
 
 {{< fig-res res="12-ri.jpg" >}}
 
-Out and about walking in Panama city I saw lots of small roadside carts selling fast food and cold drinks and most of these have a small bike with the front wheel and forks removed, stiched on to them so that they can move to a different location when required. 
+Out and about walking in Panama city I saw lots of small roadside carts selling fast food and cold drinks and most of these have a small bike with the front wheel and forks removed, stitched on to them so that they can move to a different location when required. 
 
 {{< fig-res res="13-ri.jpg" >}}
 

@@ -18,7 +18,7 @@ It was overcast when I left my hotel in San Juan and headed for the border. I ar
 
 {{< fig-res res="13-144.jpg" >}}
 
-I parked the bike outside the immigration and cusoms building and I was immediately approached by a guy who wanted to change my Colombian pesos for USD which they use in Ecuador. The guy gave me a competetive rate so I changed what I had and then he offered to watch my bike for me whilst I went to immigration.
+I parked the bike outside the immigration and customs building and I was immediately approached by a guy who wanted to change my Colombian pesos for USD which they use in Ecuador. The guy gave me a competitive rate so I changed what I had and then he offered to watch my bike for me whilst I went to immigration.
 
 {{< fig-res res="01-144.jpg" >}}
 
@@ -32,21 +32,21 @@ I parked up outside the immigration and customs building and it was very busy.
 
 {{< fig-res res="04-144.jpg" >}}
 
-There were lots of bikes parked in the carpark and there was a very large queue at the immigtation office. I waited in the queue for about 45 minutes and then I got my entry stamp. Then I went to get my TIP and this is where the fun started.
+There were lots of bikes parked in the car park and there was a very large queue at the immigration office. I waited in the queue for about 45 minutes and then I got my entry stamp. Then I went to get my TIP and this is where the fun started.
 
 I went to the window and I was asked for the registration document for the bike and then I was told to stand outside another window and wait until my name was called. The other window had lots of people waiting around it. Whilst I waited a guy selling SIM cards approached me and I bought one. It cost 5 USD for 3 days and 3GB. The guy set up the SIM card on my phone but for some reason it would not connect to the internet. I decided to use a back up phone that my friend Eric had given me to get internet and it started working in that phone with no problems,
 
 Eventually my name was called and went to the window that was surrounded by other travellers. I handed over my passport and driving licence and the guy processing the TIP then asked me for my email address so he could send me the TIP by email. Once he sent it I used my phone to let him see it and guess what? Yes a major problem had occurred as my main phone screen was black. The phone was still making noises but as the screen was not working so the phone was totally useless.
 
-I then had to try to access my email online using my other Gmail account as I did not have the Gmail app installed on the backup phone. However, because I was using a different phone I was then flung on to the Google two factor authentication carousel by having them tell me to use my now broken phone to confirm my identity on the backup phone. I tried all of the options that Google give to address this problem but none of them would work without me having to use my unusable phone to confirm my idenity before I could access my main google account to get the TIP email.
+I then had to try to access my email on-line using my other Gmail account as I did not have the Gmail app installed on the backup phone. However, because I was using a different phone I was then flung on to the Google two factor authentication carousel by having them tell me to use my now broken phone to confirm my identity on the backup phone. I tried all of the options that Google give to address this problem but none of them would work without me having to use my unusable phone to confirm my identity before I could access my main Google account to get the TIP email.
 
 As I was obviously unable to do this I had to quickly think of another way to get the TIP email on to my backup phone as I was now holding things up for the other travellers that wanted to get their own TIP. Eventually I was able to access one of my non Google email addresses and I gave this to the customs guy who sent the TIP to that email address. I was then given a paper copy of the TIP and I was eventually able to legally enter Ecuador. It was now just after midday so I had been at the Ecuadorian side of the border for just over three hours.
 
-Now this is where I need to have a rant about Google shit. For me this perfectly illustrates the problem with having no alternative to the Google software installed in all phones because if your phone stops working like mine did when you really need it, you are stuffed. I never asked for two factor authentication on Gmail but like all of the other Google shit and all of the banking apps that I need to use I do not have any option as there are no alternatives. It is either use their shitty software and apps or go without. Just as well I was able to remeber all of my logins and passwords instead of relying on them being stored in the memory of a phone that I could no longer use. Rant over. 
+Now this is where I need to have a rant about Google shit. For me this perfectly illustrates the problem with having no alternative to the Google software installed in all phones because if your phone stops working like mine did when you really need it, you are stuffed. I never asked for two factor authentication on Gmail but like all of the other Google shit and all of the banking apps that I need to use I do not have any option as there are no alternatives. It is either use their shitty software and apps or go without. Just as well I was able to remember all of my logins and passwords instead of relying on them being stored in the memory of a phone that I could no longer use. Rant over. 
 
 As I left the border the sun had just come out through a hole in the clouds and it had warmed up a little. The road from the border descended for about 30 miles or so and passed through a few towns one of which I stopped in to refuel. The price of petrol was 2.60 USD for a US Gallon which works out at about 65 US Cents per litre. I headed in the direction of Quito where I had planned to stay for the night and to be honest the road was one of the most uninspiring that I have yet been on. Maybe it was the cold temperatures and the low cloud or the frequency of the towns but whatever it was I was not enjoying it.
 
-As I got closer to Quito I stopped for something to eat and the roadside place that I stopped at had a pig strung up outside the front door. Apparently the owners just cut bits from the pig when a customer wanted to eat some pork. I had a plate of chicken and potoato soup and a bottle of water for 3.50 USD.
+As I got closer to Quito I stopped for something to eat and the roadside place that I stopped at had a pig strung up outside the front door. Apparently the owners just cut bits from the pig when a customer wanted to eat some pork. I had a plate of chicken and potato soup and a bottle of water for 3.50 USD.
 
 {{< fig-res res="05-144.jpg" >}}
 

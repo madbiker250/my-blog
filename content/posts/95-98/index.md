@@ -18,7 +18,7 @@ The following day it was sunny but cold. I rode for about 10 miles South from Te
 
 {{< fig-res res="02-95.jpg" >}}
 
-I stopped in the town of Sospel for coffee and croissants then once heated up by the morning sun I coninued on.
+I stopped in the town of Sospel for coffee and croissants then once heated up by the morning sun I continued on.
 
 {{< fig-res res="03-95.jpg" >}}
 
@@ -48,7 +48,7 @@ The tube was cut and after checking the tyre for anything responsible for the pu
 
 In my spares that I carried was a couple of lengths of Neoprene cable tubing, the stuff that you place over two joined electrical wires and then heat up to make it shrink. I also had some superglue, so I cut the Neoprene tubing in to rectangles and used the superglue to fix them to the rubber inner tube over the cut. The repair held when I inflated it, so put the tube back in the tyre, refitted the front wheel and I rode to the nearest bike shop to find a replacement tube. It took me visits to three separate shops before I got one. 
 
-Now 4 hours behind schedule I again set off for Reus but I only got about 40 miles before my repair failed. So, after another roadside episode of unload the bike, front wheel off, etc. etc, the newly purchased spare inner tube was now in the front tyre, and once inflated I continued my journey. I eventually made it Reus just before it got dark. 
+Now 4 hours behind schedule I again set off for Reus but I only got about 40 miles before my repair failed. So, after another roadside episode of unload the bike, front wheel off, etc. etc. the newly purchased spare inner tube was now in the front tyre, and once inflated I continued my journey. I eventually made it Reus just before it got dark. 
 
 # Day 97
 
@@ -56,11 +56,11 @@ I obtained a replacement spare tube in Reus and after a few days of rest I set o
 
 {{< fig-res res="12-95.jpg" >}}
 
-As I approached my hotel on the outskirts of Benavente on the N6 the front end went squirelly on me again. On stopping in the hotel car park, I saw that the front tyre had deflated somewhat but it was not quite flat, so after checking in to the hotel and unloading the bike, I used my air compressor to inflate it and it seemed to hold the pressure. I again checked the tyre for anything sticking in it but found nothing. 
+As I approached my hotel on the outskirts of Benavente on the N6 the front end went squirely on me again. On stopping in the hotel car park, I saw that the front tyre had deflated somewhat but it was not quite flat, so after checking in to the hotel and unloading the bike, I used my air compressor to inflate it and it seemed to hold the pressure. I again checked the tyre for anything sticking in it but found nothing. 
 
 # Day 98
 
-The next morning I checked the front tyre and it had not lost any pressure so I set off along the spectacular N6 and just as I was approaching the junction for the N120, the front end went squirrelly again. Yes, another puncture, however this time the tyre would not reinflate.
+The next morning I checked the front tyre and it had not lost any pressure so I set off along the spectacular N6 and just as I was approaching the junction for the N120, the front end went squirrelly again. Yes, another puncture, however this time the tyre would not re-inflate.
 
 {{< fig-res res="13-95.jpg" >}}
 

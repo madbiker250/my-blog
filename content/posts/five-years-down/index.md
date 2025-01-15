@@ -15,8 +15,6 @@ It has been five years since I left Scotland to begin my Round The World trip (R
 
 {{< fig-res res="01-fyd.jpg" >}}
 
-<!--more-->
-
 Since leaving, I have travelled in excess of forty thousand miles on my bike(s) and yet I find myself still in Europe. The reasons for this are a combination of my own tardiness and the world shutting down in 2020. As I wait, hoping that I will soon be able to continue with my RTW trip, my thoughts about the dramatic changes that have taken place in the world over the past two years have made me wonder in what direction the world will now move because of those changes.
 
 I have never really felt as if I fitted in well with the rest of society in which I grew up and as an adult, whether that be in employment or in general society, that feeling has only grown and the events of the last two years have only served to greatly exacerbate such feelings. I have always been somewhat of a societal outlier, never comfortable with attention nor desiring popularity, I always seemed to see a different reality than most other people so maybe that is why I am a biker.

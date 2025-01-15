@@ -15,11 +15,9 @@ A couple of weeks beside the sea what could be better?
 
 {{< fig-res res="01-zoo.jpg" >}}
 
-<!--more-->
-
 Salou and Cambrils although only 5 miles apart geographically are 1000 miles apart culturally. Whilst Cambrills is a small coastal town with a very picturesque harbour frequented by well-heeled tourists, Salou is a 24 hour party town for British and Irish drunken tourists and the more than the occasional Russian organised crime member adorned with the full set of native custodial artwork.
 
-For the next 2 weeks, it was like living in the pages of Viz magazine. One night I saw about 20 or so Sandras and Tracys, all shoehorned into lycra handkerchiefs with L plates augmenting their very scanty fashion statements, prowling the main walkway next to the beach looking for some victims. In between pit stopping at every bar they waddled past for a couple of quadruple vodka and red bulls, these delights often slipped into McDonalds for the odd plate of fast food or into the shrubs for the odd piss. Pass the eye bleach please!
+For the next 2 weeks, it was like living in the pages of Viz magazine. One night I saw about 20 or so Sandras and Tracys, all shoehorned into Lycra handkerchiefs with L plates augmenting their very scanty fashion statements, prowling the main walkway next to the beach looking for some victims. In between pit stopping at every bar they waddled past for a couple of quadruple vodka and red bulls, these delights often slipped into McDonalds for the odd plate of fast food or into the shrubs for the odd piss. Pass the eye bleach please!
 
 As usual these fat slags were chatted up by squads of Big Vern's. You know the type, no-top-on Neanderthal tattooed retards who were just out after doing 5 years in prison for pounding some unfortunate chaps skull to bits with a hammer because he refused to give him a cigarette, but true to form once their beer goggles had been adjusted to "There actually is enough drink in the world!" away they went, hard at it with the Lycra clad land whales. More eye bleach over here please!
 

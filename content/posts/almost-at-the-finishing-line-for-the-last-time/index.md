@@ -13,8 +13,6 @@ Another cold winter in Scotland and retirement is almost upon me.
 
 {{< fig-res res="02-snow.jpg" >}}
 
-<!--more-->
-
 I tried it once before but circumstances outwith my control forced me to get back on to the hamster wheel. However there is nothing quite like having a pointless job to sharpen the desire to leave it. Finally after 5 long years of mind numbing trivia crushing my soul I can finally get off the hamster wheel for good and find something useful or worthwhile to do with the rest of my life.
 
 As I am preparing to depart this country on what could loosely be described as some kind of disorganised adventure, probably never to return, my thoughts are somewhat mixed but surprisingly free of conflict. As the finish line draws ever nearer I had anticipated feeling a twinge or two of uncertainty about my decision to leave the country but, surprisingly I have no such concerns.

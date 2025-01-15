@@ -57,7 +57,7 @@ I left Antalya for the West coast of Turkey and this day was to be more of an ad
 
 {{< fig-res res="15-62.jpg" >}}
 
-On reaching the town in late afternoon I was surprised to see throngs of people on the streets, many more than in any other part of Turkey. There were people everywhere, standing on street corners, family groups sitting on pieces of vacant ground in between the buildings on every street and it was all very unusual. I found my hotel which was on the shore. It was a modern concrete structure having about 10 floors, my room was on the 1st floor thankfully. As I made my way to the room with my bags I noticed paint flakes on the carpet of the first floor hallway. I assumed that someone had struck the edge of the wall with a suitcase or something similar and paid no further attention. Once settled in I went out for some food and whilst sitting enjoying a post dinner coffee and cigar I felt the ground move beneath me, it was a really weird sensation. I looked around and saw people moving out of the nearby bars, suddenly all that I had seen clicked in to place, it was an earthquake. I then saw on a TV in one of the bars the devastation in the city of Izmir, that lay some 50 miles to the north and the epicenter of the earthquake was about 20 miles out to sea directly West of where I was. 
+On reaching the town in late afternoon I was surprised to see throngs of people on the streets, many more than in any other part of Turkey. There were people everywhere, standing on street corners, family groups sitting on pieces of vacant ground in between the buildings on every street and it was all very unusual. I found my hotel which was on the shore. It was a modern concrete structure having about 10 floors, my room was on the 1st floor thankfully. As I made my way to the room with my bags I noticed paint flakes on the carpet of the first floor hallway. I assumed that someone had struck the edge of the wall with a suitcase or something similar and paid no further attention. Once settled in I went out for some food and whilst sitting enjoying a post dinner coffee and cigar I felt the ground move beneath me, it was a really weird sensation. I looked around and saw people moving out of the nearby bars, suddenly all that I had seen clicked in to place, it was an earthquake. I then saw on a TV in one of the bars the devastation in the city of Izmir, that lay some 50 miles to the north and the epicentre of the earthquake was about 20 miles out to sea directly West of where I was. 
 
 {{< fig-res res="16-62.jpg" >}}
 
@@ -71,7 +71,7 @@ I had a new dilemma. It was now 8 0'clock in the evening, do I stay in the hotel
 
 {{< fig-res res="19-62.jpg" >}}
 
-4 hours later as the sun broke the horizon I was packed up and on my way to the Dardanelles and as the sun got higher, it got warmer and the height of the coastal road affored great views over the islands near to the mainland.
+4 hours later as the sun broke the horizon I was packed up and on my way to the Dardanelles and as the sun got higher, it got warmer and the height of the coastal road afforded great views over the islands near to the mainland.
 
 {{< fig-res res="20-62.jpg" >}}
 
