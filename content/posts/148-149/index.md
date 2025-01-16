@@ -1,13 +1,13 @@
 ---
 title: "Days 148 to 149 Chiclayo to Lima"
-date: 2025-01-12T14:30:00-00:00
+date: 2025-01-16T18:30:00-00:00
 categories:
 - Blog
 - South America
 tags:
 - peru
 
-draft: true
+draft: false
 ---
 
 # Day 148
