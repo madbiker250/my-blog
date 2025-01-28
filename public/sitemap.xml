@@ -3,30 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/blog/</loc>
-    <lastmod>2025-01-20T20:50:00+00:00</lastmod>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-20T20:50:00+00:00</lastmod>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chile/</loc>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/epilogue/</loc>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/south-america/</loc>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/150-152/</loc>
+    <lastmod>2025-01-24T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/peru/</loc>
+    <lastmod>2025-01-24T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/lima/</loc>
     <lastmod>2025-01-20T20:50:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/peru/</loc>
-    <lastmod>2025-01-20T20:50:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/154-156/</loc>
+    <lastmod>2025-01-19T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-20T20:50:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/rant/</loc>
+    <lastmod>2025-01-19T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/south-america/</loc>
-    <lastmod>2025-01-20T20:50:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-20T20:50:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/153/</loc>
+    <lastmod>2025-01-18T17:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/148-149/</loc>
     <lastmod>2025-01-16T18:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/themes-guide/ecuador/</loc>
+    <lastmod>2025-01-15T16:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/themes-guide/peru/</loc>
     <lastmod>2025-01-15T16:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/countries/</loc>
@@ -54,9 +75,6 @@
     <lastmod>2025-01-08T20:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/144/</loc>
-    <lastmod>2025-01-04T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rant/</loc>
     <lastmod>2025-01-04T08:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/142-143/</loc>

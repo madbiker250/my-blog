@@ -1,6 +1,6 @@
 ---
 title: "Day 153 Peru to Chile"
-date: 2025-01-18T17:00:00-00:00
+date: 2025-01-28T09:00:00-00:00
 categories:
 - Blog
 - South America
@@ -8,7 +8,7 @@ tags:
 - peru
 - chile
 
-draft: true
+draft: false
 ---
 
 # Day 153
@@ -73,13 +73,13 @@ At 160 miles after leaving Arica I saw the turn off for the city of Iquique on t
 
 {{< fig-res res="12-153.jpg" >}}
 
-When I arrived in the city I stopped at the fist petrol station and refuelled having done 187 miles and having used 10.9 litres of my 13 litre tank. Then I found a place to have a cup of coffee whilst I looked on-line for somewhere to stay. I then paid for my two cups of coffee which cost me over 10,000 Pesos (over 10 USD).
+When I arrived in Iquique I stopped at the fist petrol station and refuelled having done 187 miles and having used 11 litres of my 13 litre tank. Then I found a place to have a cup of coffee whilst I looked on-line for somewhere to stay. I then paid for my two cups of coffee which cost me over 10,000 Pesos (over 10 USD).
 
 Once I had recovered from the shock of having to pay USD for a cup of coffee I found my way to my hotel which cost me 27,000 Pesos (about 27 USD) for the night. It had secure parking and hot water but it was very overpriced in comparison to most of the hotels in which I had previously stayed on this trip.
 
 {{< fig-res res="16-153.jpg" >}}
 
-I then went out to get some more cash and to have a walk about the city. I found it to be reasonably clean and tidy but because of the two hour time difference from Peru it was by that time a 7 o'clock in the evening and almost all of the shops were closed as were all of the banks. However I managed to find an ATM that was open and once again I got stung for 8,000 Pesos for taking my own cash out.
+I then went out to get some more cash and to have a walk about the city. Like  most other places I found it to be reasonably clean and tidy in the centre but outside of the centre it was more of the usual squalor. I then found that because of the two hour time difference from Peru it was by that time a 7 o'clock in the evening and almost all of the shops were closed as were all of the banks. However I managed to find an ATM that was open and once again I got stung for 8,000 Pesos for taking my own cash out.
 
 {{< fig-res res="13-153.jpg" >}}
 
@@ -87,4 +87,4 @@ I then went out to get some more cash and to have a walk about the city. I found
 
 {{< fig-res res="15-153.jpg" >}}
 
-Once back in my hotel I checked the on-line maps and I found that the following day I was going to encounter another stretch of the main road South on which there was no petrol, this time for about 240 km (150 miles). I then went to sleep not looking forward to another day similar to what I had endured today.
+Once back in my hotel I checked the on-line maps and I found that the following day I was going to encounter another stretch of the main road South on which there was no petrol, this time for about 240 km (150 miles). I then went to sleep not looking forward to enduring another day similar to that which I had just endured to get to Iquique.
