@@ -18,7 +18,7 @@ On my way out of the city after breakfast I stopped to photograph another exampl
 
 {{< fig-res res="01-148.jpg" >}}
 
-The very arid deset like terrain continued and once the sun burned through the mist coming off of the sea I was able to stop and photograph the stunning but very barren landscapes.
+The very arid desert like terrain continued and once the sun burned through the mist coming off of the sea I was able to stop and photograph the stunning but very barren landscapes.
 
 {{< fig-res res="02-148.jpg" >}}
 
